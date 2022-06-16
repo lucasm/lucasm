@@ -2,10 +2,9 @@
 
 - 👨‍💻 I’m currently working on Younner
 - 👊 I’m learning UX, Clean Code JavaScript, AWS, Web3 and SwitfUI
-- ⭐️ I’m creator of [Open Source Projects](https://github.com/sponsors/lucasm) and feel free to collaborate
+- ⭐️ I’m creator of [Open Source Projects](https://github.com/sponsors/lucasm), please, feel free to collaborate
 - ✍️ I write [Articles](https://dev.to/lucasm) about programming
-- 🧸 Are you a Jr Dev? Ask me anything 
-- 💬 How to reach me: [Twitter](https://twitter.com/lucasmezs) and [LinkedIn](https://linkedin.com/in/lucasmezs)
+- 💬 How to reach me: [Twitter](https://twitter.com/lucasmezs) and [LinkedIn](https://linkedin.com/in/lucasmezs) - Jr Dev? Ask me anything! 
 - 🤝 Respect diversity is about the World greatness
-- 🤍 Fun fact: I was born in the North of Brazil, in beautiful Amazon rainforest
+- 🤍 Fun fact: I was born in beautiful Amazon rainforest, North of Brazil
 
