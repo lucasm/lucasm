@@ -3,7 +3,7 @@
 - 👨‍💻 I’m working at Younner
 - 👊 I’m currently learning Clean Code, Tests and AWS
 - ✨ I’m creating [Open Source Projects](https://github.com/sponsors/lucasm), feel free to collaborate or sponsor!
-- ✍️ I write a [Blog](https://dev.to/lucasm) of programming to help beginners Devs
+- ✍️ I write a [Blog](https://dev.to/lucasm) of programming to help beginners developers
 - 💬 Find me on [Twitter](https://twitter.com/lucasmezs) and [LinkedIn](https://linkedin.com/in/lucasmezs)
 - 🤝 Respect and diversity is about the World greatness
 - 🤍 Fun fact: I was born in the Amazon rainforest, North of Brazil
