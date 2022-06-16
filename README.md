@@ -1,7 +1,8 @@
-### Hi there 👋
+<h2><img height="30px" width="30px" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"></img>Hi, my name is Lucas Menezes</h2> <blockquote> I'm a Software Engineer from Brazil who love building creative things. </blockquote> 
 
-<!--
-**lucasm/lucasm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+<!--- **lucasm/lucasm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
