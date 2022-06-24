@@ -2,9 +2,9 @@
 
 - 👨‍💻 I love to build creative Web products with JavaScript, TypeScript and Node.js
 - 👊 Now I’m learning Clean Code, Tests and AWS Certifications
-- 🌱 I’m creating [Open Source Projects](https://github.com/sponsors/lucasm) (feel free to collaborate or sponsor)
+- 🌱 I’m creating some [Open Source Projects](https://github.com/sponsors/lucasm) (feel free to collaborate or sponsor)
 - ✍️ I write posts to help beginners developers on my [Blog](https://dev.to/lucasm) 
-- 💬 Reach me out on [Twitter](https://twitter.com/lucasmezs) and [LinkedIn](https://linkedin.com/in/lucasmezs)
+- 💬 Find me on [Twitter](https://twitter.com/lucasmezs) and [LinkedIn](https://linkedin.com/in/lucasmezs)
 - 🤝 Respect and diversity is about the world greatness
 - 🇧🇷 Fun fact: I was born in the Amazon rainforest, in Brazil!
 
