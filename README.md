@@ -5,6 +5,6 @@
 - ✨ I’m creating [Open Source Projects](https://github.com/sponsors/lucasm) (feel free to collaborate or sponsor)
 - ✍️ I write programming posts on my [Blog](https://dev.to/lucasm) to help beginners developers
 - 💬 Reach me out on [Twitter](https://twitter.com/lucasmezs) and [LinkedIn](https://linkedin.com/in/lucasmezs)
-- 🤝 Respect and diversity is about the World greatness!
-- 🤍 Fun fact: I was born in the Amazon rainforest, Brazil
+- 🤝 Respect and diversity is about the world greatness
+- 🤍 Fun fact: I was born in the Amazon rainforest, in Brazil!
 
