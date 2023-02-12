@@ -5,4 +5,4 @@
 - 💬 Reach me out on [Twitter](https://twitter.com/lucasmezs) or [LinkedIn](https://linkedin.com/in/lucasmezs)
 - 🇧🇷 From the Amazon rainforest to he World Wide Web
 
-"Don't complain a bad World, make change, do better!" - _Lucas Menezes_
+_"Don't complain a bad World, make change, do better!" - Lucas Menezes_
