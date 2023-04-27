@@ -1,8 +1,8 @@
 
-- 👨🏼‍💻 Hi, I'm a Sofware Engineer building digital products with Web technologies
-- 🔍 I'm the creator of [Headly](https://headly.vercel.app) and [Findto](https://github.com/lucasm/findto), open source projects
-- ✍🏻 I write programming content for developers on my [Blog](https://dev.to/lucasm)
-- 💬 You can reach me out on [Twitter](https://twitter.com/lucasmezs) or [LinkedIn](https://linkedin.com/in/lucasmezs)
-- 🇧🇷 Currently in Belo Horizonte, Brazil
+- 🇧🇷 Hello, I'm a Sofware Engineer from Brazil thats love HTML, CSS, JavaScript / TypeScript and Node.js
+- 👨🏼‍💻 I create digital products, like [Findto - AI descentralized search](https://github.com/lucasm/findto)
+- ✍🏻 I write about Web development on my [Blog](https://dev.to/lucasm) and translate docs for pt-BR at [MDN Web Docs](https://github.com/mdn/)
+- 💬 Reach me out on [Twitter](https://twitter.com/lucasmezs) or [LinkedIn](https://linkedin.com/in/lucasmezs)
 
-_"Don't complain, make it better!"_
+
+_"Don't agree, do it better!"_
