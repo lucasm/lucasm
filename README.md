@@ -5,4 +5,4 @@
 - 💬 You can find me on [Twitter](https://twitter.com/lucasmezs) or [LinkedIn](https://linkedin.com/in/lucasmezs)
 
 
-_"Be the change you want to see in the world"_ 🤍
+_"Be the change you want to see"_ 🤘🏻
