@@ -1,6 +1,6 @@
-## 👋🏻 Hi there
+## 👋🏻 Hi there, Lucas here!
 
-- 🇧🇷 I'm Lucas Menezes, a Sofware Engineer from Brazil thats love to travel
+- 🇧🇷 I'm a Sofware Engineer from Brazil thats love to travel
 - 👨🏼‍💻 I work mainly on Frontend, Web, AI, UX and Computer Science
 - 🤍 I create digital products, like the open source project [Findto](https://github.com/lucasm/findto) 
 - ✍🏻 I write a [Blog](https://dev.to/lucasm) about programming to help devs and sometimes translate docs on [MDN Web Docs](https://github.com/mdn/)
