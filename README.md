@@ -1,7 +1,9 @@
 ## 👋🏻 Hi there, Lucas here!
 
-- 🇧🇷 I'm a Sofware Engineer from Brazil thats love to travel
-- 👨🏼‍💻 I work mainly on Frontend, Web, AI, UX and Computer Science
-- 🤍 I create digital products, like the open source project [Findto](https://github.com/lucasm/findto) 
-- ✍🏻 I write a [Blog](https://dev.to/lucasm) about programming to help devs and sometimes translate docs on [MDN Web Docs](https://github.com/mdn/)
+I'm a Sofware Engineer from Brazil thats love to travel
+
+- 👨🏼‍💻 I work mainly creating digital products, Frontend, Web, AI, UX and Computer Science
+- ✍🏻 I write a [Blog](https://dev.to/lucasm) about programming to help devs and translate docs on [MDN Web Docs](https://github.com/mdn/)
 - 💬 You can find me on [Twitter](https://twitter.com/lucasmezs) or [LinkedIn](https://linkedin.com/in/lucasmezs)
+
+Check [Findto](https://github.com/lucasm/findto), my latest Open Source project 🤍
