@@ -6,4 +6,4 @@ I'm a Software Engineer from the Amazon region of Brazil who loves to travel �
 - ✍🏻 I write a [Blog](https://dev.to/lucasm) to help devs and I translate docs on [MDN Web Docs](https://github.com/mdn/).
 - 💬 You can find me on [Twitter](https://twitter.com/lucasmezs) or [LinkedIn](https://linkedin.com/in/lucasmezs)
 
-Here you can check out my latest open-source projects!
+Feel free to explore my latest open source projects!
