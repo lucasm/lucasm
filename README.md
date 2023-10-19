@@ -1,4 +1,4 @@
-## 👋🏻 Hello, Lucas here!
+# 👋🏻 Hello, Lucas here!
 
 I'm a Software Engineer from the Amazon region of Brazil who loves Computer Science and travel 🇧🇷
 
