@@ -1,7 +1,7 @@
-# 👋🏻 Hello, Lucas here!
+## 👋🏻 Hello, Lucas here!
 
-I'm a Software Engineer from the Amazon region of Brazil who loves Computer Science and travel 🇧🇷
+I'm a Software Engineer from the Amazon region of Brazil who loves Computer Science and travel
 
-- 👨🏼‍💻 I work building digital products, with focus on Frontend, JavaScript, APIs, Web Accessibility, UX and AI
-- ✍🏻 I write a [Blog](https://dev.to/lucasm) for developers and I translate docs on [MDN Web Docs](https://github.com/mdn/) 
+- 👨🏼‍💻 I work building digital products, with focus on Frontend, TypeScript, React, APIs, Web Accessibility, UX and AI
+- ✍🏻 I write a [Blog](https://dev.to/lucasm) and I translate docs on [MDN Web Docs](https://github.com/mdn/) to help developers
 - 💬 You can find me on [Twitter](https://twitter.com/lucasmezs) or [LinkedIn](https://linkedin.com/in/lucasmezs)
