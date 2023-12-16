@@ -11,7 +11,6 @@
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/lucasmezs)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/lucasmezs)
 [![Dev](https://skillicons.dev/icons?i=devto)](https://dev.to/lucasm)
-[![CodePen](https://skillicons.dev/icons?i=codepen)](https://codepen.io/lucasm)
 
 ## Coding stats
 
