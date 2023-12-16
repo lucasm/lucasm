@@ -4,7 +4,7 @@
 - 🦾 I work building digital products with strong focus on Frontend, Web Standards, APIs, Cloud and AI
 - ✍🏻 I write a [Blog](https://dev.to/lucasm) and translate [MDN Web Docs](https://github.com/mdn/) to help developers with programming
 - 🤍 I love Computer Science things
-- 😼 Fun fact: I'm a very active person, who borns on the Amazon rainforest!
+- 😼 Fun fact: I'm a very active person, who was born in the Amazon rainforest!
 
 ## Folow me
 
@@ -51,7 +51,7 @@ JavaScript   0 secs          ░░░░░░░░░░░░░░░░░
 [![nodejs](https://skillicons.dev/icons?i=nodejs)](https://lucasm.dev)
 [![vue](https://skillicons.dev/icons?i=vue)](https://lucasm.dev)
 [![c](https://skillicons.dev/icons?i=c)](https://lucasm.dev)
-[![nextjs](https://skillicons.dev/icons?i=nextjs)](https://grafana.com/)
+[![nextjs](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/)
 [![wordpress](https://skillicons.dev/icons?i=wordpress)](https://lucasm.dev)
 [![postgresql](https://skillicons.dev/icons?i=postgresql)](https://lucasm.dev)
 [![aws](https://skillicons.dev/icons?i=aws)](https://lucasm.dev)
@@ -60,8 +60,8 @@ JavaScript   0 secs          ░░░░░░░░░░░░░░░░░
 [![nginx](https://skillicons.dev/icons?i=nginx)](https://lucasm.dev)
 [![angular](https://skillicons.dev/icons?i=angular)](https://lucasm.dev)
 [![styledcomponents](https://skillicons.dev/icons?i=styledcomponents)](https://lucasm.dev)
+[![svg](https://skillicons.dev/icons?i=svg)](https://lucasm.dev)
 [![vim](https://skillicons.dev/icons?i=vim)](https://lucasm.dev)
-[![grafana](https://skillicons.dev/icons?i=grafana)](https://grafana.com/)
 [![linux](https://skillicons.dev/icons?i=linux)](https://lucasm.dev)
 [![openstack](https://skillicons.dev/icons?i=openstack)](https://lucasm.dev)
 [![grafana](https://skillicons.dev/icons?i=grafana)](https://grafana.com/)
