@@ -6,7 +6,7 @@
 - 🤍 I love Computer Science things
 - 😼 Fun fact: I'm a very active person, who was born in the Amazon rainforest!
 
-## Folow me
+## Follow me
 
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/lucasmezs)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/lucasmezs)
