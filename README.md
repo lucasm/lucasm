@@ -23,7 +23,6 @@ I build digital products with strong focus on Frontend, Web Standards, APIs, Clo
 [![grafana](https://skillicons.dev/icons?i=grafana)](https://grafana.com/)
 [![linux](https://skillicons.dev/icons?i=linux)](https://lucasm.dev)
 [![javascript](https://skillicons.dev/icons?i=javascript)](https://lucasm.dev)
-[![nodejs](https://skillicons.dev/icons?i=nodejs)](https://nodejs.dev)
 
 
 ## Folow me
@@ -33,3 +32,9 @@ You can find me here:
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/lucasmezs)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/lucasmezs)
 [![Dev](https://skillicons.dev/icons?i=devto)](https://dev.to/lucasm)
+
+## Coding stats
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
