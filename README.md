@@ -11,8 +11,9 @@
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/lucasmezs)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/lucasmezs)
 [![Dev](https://skillicons.dev/icons?i=devto)](https://dev.to/lucasm)
+[![CodePen](https://skillicons.dev/icons?i=codepen)](https://codepen.io/lucasm)
 
-## Coding stats
+## Weekly coding stats
 
 <!--START_SECTION:waka-->
 
@@ -68,10 +69,8 @@ JavaScript   0 secs          ░░░░░░░░░░░░░░░░░
 
 </details>
 
-
 ## Achievements
 
 - ⭐️ Awarded the top JavaScript author on DEV
 - ✨ Working as MDN Web Docs Community Translator of pt_BR language
 - 💫 Won 1st / top 3 place in several hackathons and events
-
