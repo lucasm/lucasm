@@ -14,7 +14,6 @@ I build digital products with strong focus on Frontend, Web Standards, APIs, Clo
 [![react](https://skillicons.dev/icons?i=react)](https://lucasm.dev)
 [![webpack](https://skillicons.dev/icons?i=webpack)](https://lucasm.dev)
 [![docker](https://skillicons.dev/icons?i=docker)](https://lucasm.dev)
-[![postgres](https://skillicons.dev/icons?i=postgres)](https://lucasm.dev)
 [![vscode](https://skillicons.dev/icons?i=vscode)](https://lucasm.dev)
 [![azure](https://skillicons.dev/icons?i=azure)](https://lucasm.dev)
 [![graphql](https://skillicons.dev/icons?i=graphql)](https://lucasm.dev)
