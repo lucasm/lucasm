@@ -37,11 +37,18 @@ You can find me here:
 <!--START_SECTION:waka-->
 
 ```txt
+From: 09 December 2023 - To: 16 December 2023
+
 TypeScript   19 hrs 13 mins  ███████████████████▒░░░░░   77.71 %
 JSON         1 hr 23 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.59 %
 C            1 hr 22 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.55 %
 CSS          55 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
 Other        51 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
+GraphQL      23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
+YAML         18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
+Git Config   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+Docker       6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
