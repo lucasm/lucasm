@@ -2,7 +2,7 @@
 
 - 👨🏼‍💻 I'm a Software Engineer from the Amazon region of Brazil
 - ✍🏻 I write a [Blog](https://dev.to/lucasm) about Web, Programming and Computer Science to help developers
-- 🦾 Here on GitHub you can see my open source contributions, like translations at [MDN Web Docs](https://github.com/mdn/)
+- 🦾 Here on GitHub you can see my open source contributions, like on [MDN Web Docs](https://github.com/mdn/)
 - 😼 I'm a very active person, who loves natural food and travel!
 
 ## Technologies 
