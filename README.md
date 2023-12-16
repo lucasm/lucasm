@@ -35,6 +35,15 @@ You can find me here:
 
 ## Coding stats
 <!--START_SECTION:waka-->
+
+```txt
+TypeScript   19 hrs 13 mins  ███████████████████▒░░░░░   77.71 %
+JSON         1 hr 23 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.59 %
+C            1 hr 22 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.55 %
+CSS          55 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
+Other        51 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
+```
+
 <!--END_SECTION:waka-->
 
 
