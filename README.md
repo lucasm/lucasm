@@ -1,9 +1,9 @@
 ## 👋🏻 Hello, Lucas here!
 
-- 👨🏼‍💻 I'm a Software Engineer from the Amazon region of Brazil
-- ✍🏻 I write a [Blog](https://dev.to/lucasm) about Web, Programming and Computer Science to help developers
-- 🦾 Here on GitHub you can see my open source contributions, like on [MDN Web Docs](https://github.com/mdn/)
-- 😼 I'm a very active person, who loves natural food and travel!
+- 👨🏼‍💻 I'm a Software Engineer from Brazil
+- ✍🏻 I write a [Blog](https://dev.to/lucasm) and translate [MDN Web Docs](https://github.com/mdn/) to help developers with programming
+- 🦾 I love Computer Science things
+- 😼 Fun fact: I'm a very active person, who borns on the Amazon rainforest!
 
 ## Technologies 
 
@@ -26,8 +26,6 @@ I build digital products with strong focus on Frontend, Web Standards, APIs, Clo
 
 
 ## Folow me
-
-You can find me here:
 
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/lucasmezs)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/lucasmezs)
