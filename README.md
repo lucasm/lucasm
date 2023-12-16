@@ -61,9 +61,10 @@ JavaScript   0 secs          ░░░░░░░░░░░░░░░░░
 [![angular](https://skillicons.dev/icons?i=angular)](https://angular.io/)
 [![styledcomponents](https://skillicons.dev/icons?i=styledcomponents)](https://styled-components.com/)
 [![svg](https://skillicons.dev/icons?i=svg)](https://developer.mozilla.org/docs/Web/SVG)
-[![vim](https://skillicons.dev/icons?i=vim)](https://lucasm.dev)
-[![linux](https://skillicons.dev/icons?i=linux)](https://lucasm.dev)
-[![openstack](https://skillicons.dev/icons?i=openstack)](https://lucasm.dev)
+[![vscode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
+[![vim](https://skillicons.dev/icons?i=vim)](https://neovim.io/)
+[![linux](https://skillicons.dev/icons?i=linux)](https://distrochooser.de/)
+[![openstack](https://skillicons.dev/icons?i=openstack)](https://openstack.org/)
 [![grafana](https://skillicons.dev/icons?i=grafana)](https://grafana.com/)
 
 
