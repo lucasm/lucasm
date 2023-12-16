@@ -2,7 +2,7 @@
 
 - 👨🏼‍💻 I'm a Software Engineer from Brazil
 - 🦾 I work building digital products with strong focus on Frontend, Web Standards, APIs, Cloud and AI
-- ✍🏻 I write a [Blog](https://dev.to/lucasm) and translate [MDN Web Docs](https://github.com/mdn/) to help developers with programming
+- ✍🏻 I write a [Blog](https://dev.to/lucasm) and translate [MDN Web Docs](https://github.com/mdn/) to help developers
 - 🤍 I love Computer Science things
 - 😼 Fun fact: I'm a very active person, who was born in the Amazon rainforest!
 
