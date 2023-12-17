@@ -35,7 +35,7 @@ JavaScript   0 secs          ░░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 <details>
-<summary><strong>🛠️&nbsp;&nbsp;Technologies</strong></summary>
+<summary><strong>💎&nbsp;&nbsp;Technologies</strong></summary>
 </br>
   
 [![typescript](https://skillicons.dev/icons?i=typescript)](https://typescriptlang.org/)
