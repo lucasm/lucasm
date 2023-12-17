@@ -1,4 +1,4 @@
-## 👋🏻 Hello, Lucas here!
+## 👋🏻 Hello
 
 - 👨🏼‍💻 I'm a Software Engineer from Brazil
 - 🦾 I work building digital products with strong focus on Frontend, Web Standards, APIs, Cloud and AI
