@@ -1,9 +1,9 @@
 ## Hello
 
 - 👋🏻 I'm a Software Engineer from Brazil
-- 👨🏼‍💻 I work building digital products with strong focus on TypeScript/JavaScript, Frontend, Web Standards, APIs, Cloud and AI
+- 👨🏼‍💻 I work building digital products with focus on TypeScript/JavaScript, Frontend, Web Standards, APIs and Cloud
 - ✍🏻 I write a [Blog](https://dev.to/lucasm) and translate [MDN Web Docs](https://github.com/mdn/) to help developers
-- 🤍 Now learning some Computer Science advanced paths in C/C++
+- 🤍 Now learning Computer Science advanced paths in C/C++ and AI
 - 😼 Fun facts: I'm a very active person, who loves travel and was born in the Amazon rainforest!
 
 ## Follow me
