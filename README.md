@@ -71,5 +71,5 @@ Markdown     4 mins          ░░░░░░░░░░░░░░░░░
 ## Achievements
 
 - ⭐️ Awarded the top JavaScript author on DEV
-- ✨ Working as MDN Web Docs Community Translator of pt_BR language
-- 💫 Won 1st / top 3 place in several hackathons and events
+- ✨ Working as MDN Web Docs Community Translator of pt-BR language
+- 💫 Won 1st / top3 place in several hackathons and events
