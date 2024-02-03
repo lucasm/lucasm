@@ -1,8 +1,8 @@
 ## 👋🏻 Hello there!
 - 👨🏼‍💻 I'm a Senior Software Engineer from Brazil 
-- ✍🏻 I write a [Blog](https://dev.to/lucasm) and translate [MDN Web Docs](https://github.com/mdn/)
 - 🤍 I build digital products wth focus on Frontend, Web Standards, APIs, Cloud and AI
-- 😼 Fun facts: I'm a very active person, who loves travel, Computer Science and was born in the Amazon rainforest!
+- 😼 Fun facts: I was born in the Amazon rainforest and loves Computer Science!
+- ✍🏻 I write on [DEV](https://dev.to/lucasm), mentorship on [Patreon](https://patreon.com/lucasm) and translate on [MDN Web Docs](https://github.com/mdn/) to help developers
 
 ## Follow me
 
@@ -62,6 +62,6 @@ JSON         0 secs          ░░░░░░░░░░░░░░░░░
 
 ## Achievements
 
-- ⭐️ Awarded the top JavaScript author on DEV Community
-- ✨ Working as MDN Web Docs Translator of pt-BR language
-- 💫 Won 1st / top 3 place in several hackathons and tech events
+- ⭐️ Awarded Top JavaScript Author on DEV Community
+- ✨ Working as MDN Web Docs Translator of pt-BR Language
+- 💫 Won 1st / Top 3 Place in several Hackathons and Tech Events
