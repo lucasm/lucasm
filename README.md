@@ -1,4 +1,4 @@
-## 👋🏻 Hello!
+## 👋🏻 Hello there!
 - 👨🏼‍💻 I'm a Senior Software Engineer from Brazil 
 - ✍🏻 I write a [Blog](https://dev.to/lucasm) and translate [MDN Web Docs](https://github.com/mdn/)
 - 🤍 Now building digital products wth focus on Frontend, Web Standards, APIs, Cloud and AI
