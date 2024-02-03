@@ -1,8 +1,8 @@
-## 👋🏻 Hello, I'm a Software Engineer from Brazil
-- 👨🏼‍💻 I build digital products with focus on Frontend, Web Standards, APIs, Cloud and AI
+## 👋🏻 Hello!
+- 👨🏼‍💻 I'm a Senior Software Engineer from Brazil 
 - ✍🏻 I write a [Blog](https://dev.to/lucasm) and translate [MDN Web Docs](https://github.com/mdn/)
-- 🤍 Now learning Computer Science advanced paths
-- 😼 Fun facts: I'm a very active person, who loves travel and was born in the Amazon rainforest
+- 🤍 Now building digital products wth focus on Frontend, Web Standards, APIs, Cloud and AI
+- 😼 Fun facts: I'm a very active person, who loves travel, Computer Science and was born in the Amazon rainforest!
 
 ## Social
 
