@@ -1,10 +1,10 @@
 ## 👋🏻 Hello there!
 - 👨🏼‍💻 I'm a Senior Software Engineer from Brazil 
 - ✍🏻 I write a [Blog](https://dev.to/lucasm) and translate [MDN Web Docs](https://github.com/mdn/)
-- 🤍 Now building digital products wth focus on Frontend, Web Standards, APIs, Cloud and AI
+- 🤍 I build digital products wth focus on Frontend, Web Standards, APIs, Cloud and AI
 - 😼 Fun facts: I'm a very active person, who loves travel, Computer Science and was born in the Amazon rainforest!
 
-## Social
+## Follow me
 
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/lucasmezs)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/lucasmezs)
@@ -63,4 +63,4 @@ JSON         0 secs          ░░░░░░░░░░░░░░░░░
 
 - ⭐️ Awarded the top JavaScript author on DEV
 - ✨ Working as MDN Web Docs Community Translator of pt-BR language
-- 💫 Won 1st / top3 place in several hackathons and events
+- 💫 Won 1st / top 3 place in several hackathons and events
