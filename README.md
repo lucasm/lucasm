@@ -66,4 +66,4 @@ JSON         0 secs          ░░░░░░░░░░░░░░░░░
 - 💫 Won 1st / top 3 place in several Hackathons and Tech Events
 - ✨ Translator of MDN Web Docs to pt-BR language
 
-## Open source 👇🏻
+**Open source projects** 👇🏻
