@@ -62,9 +62,9 @@ JSON         0 secs          ░░░░░░░░░░░░░░░░░
 
 ## Achievements
 
-- ⭐️ Awarded top JavaScript author on DEV Community
-- 💫 Won 1st / top 3 place in several Events and Hackathons
+- ⭐️ Awarded the Top JavaScript Author on DEV Community
+- 💫 Won 1st Place in several Events and Hackathons
 
-## Open source 👇🏻
+## Open source 
 
-I use GitHub only for open-source projects, which you can see below.
+I use GitHub only for open-source projects and contributions, which you can see below 👇🏻
