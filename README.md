@@ -63,8 +63,7 @@ JSON         0 secs          ░░░░░░░░░░░░░░░░░
 ## Achievements
 
 - ⭐️ Awarded top JavaScript author on DEV Community
-- 💫 Won 1st/top3 place in several Events and Hackathons
-- ✨ Translator of MDN Web Docs to pt-BR language
+- 💫 Won 1st / top 3 place in several Events and Hackathons
 
 ## Open source 👇🏻
 
