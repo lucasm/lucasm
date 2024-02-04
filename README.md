@@ -1,7 +1,7 @@
 ## 👋🏻 Hi!
 - I'm a Senior Frontend Developer from Brazil
 - I build digital products wth focus on Web Technologies and Standards, APIs, Cloud and AI
-- Fun fact: I was born in the Amazon rainforest and loves Computer Science!
+- Fun fact: I was born in the Amazon rainforest and loves açaí (and Computer Science)!
 
 ## Connect with me
 
