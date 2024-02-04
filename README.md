@@ -1,6 +1,6 @@
 ## 👋🏻 Hello there!
 - 👨🏼‍💻 I'm a Senior Software Engineer from Brazil 
-- 🤍 I build digital products wth focus on Frontend, Web Standards, APIs, Cloud and AI
+- 🤍 Buildind digital products wth focus on Frontend, Web Standards, APIs, Cloud and AI
 - 😼 Fun facts: I was born in the Amazon rainforest and loves Computer Science!
 - ✍🏻 I write on [DEV](https://dev.to/lucasm), mentorship on [Patreon](https://patreon.com/lucasm) and translate on [MDN Web Docs](https://github.com/mdn/) to help developers
 
