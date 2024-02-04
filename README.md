@@ -6,7 +6,7 @@
 ## Connect with me
 
 - ✍🏻 Free content on [Twitter](https://twitter.com/lucasmezs), [DEV](https://dev.to/lucasm) and [CodePen](https://codepen.io/lucasm)
-- 🎓 Mentorship for developers on [Patreon](https://patreon.com/lucasm)
+- 🎓 Mentorship for developers [Patreon](https://patreon.com/lucasm)
 - 👨🏼‍💻 Professional enquiries [LinkedIn](https://linkedin.com/in/lucasmezs)
 - 📜 Technical translations [MDN Web Docs](https://github.com/mdn/) 
 
@@ -62,6 +62,6 @@ JSON         0 secs          ░░░░░░░░░░░░░░░░░
 
 ## Achievements
 
-- ⭐️ Awarded Top JavaScript Author on DEV Community
-- ✨ Working as MDN Web Docs Translator of pt-BR Language
-- 💫 Won 1st / Top 3 Place in several Hackathons and Tech Events
+- ⭐️ Awarded top JavaScript author on DEV Community
+- ✨ Working as translator of MDN Web Docs pt-BR language
+- 💫 Won 1st / top 3 place in several Hackathons and Tech Events
