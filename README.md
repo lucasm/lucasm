@@ -65,3 +65,5 @@ JSON         0 secs          ░░░░░░░░░░░░░░░░░
 - ⭐️ Awarded top JavaScript author on DEV Community
 - 💫 Won 1st / top 3 place in several Hackathons and Tech Events
 - ✨ Translator of MDN Web Docs to pt-BR language
+
+## Open source 👇🏻
