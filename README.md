@@ -1,7 +1,7 @@
 ## 👋🏻 Hi!
-- I'm a Senior Frontend Developer from Brazil
-- I build digital products wth focus on Web Technologies and Standards, APIs, Cloud and AI
-- Fun fact: I was born in the Amazon rainforest and loves açaí (and Computer Science)!
+
+I'm a Senior Frontend Developer from Brazil. I build digital products with focus on Web Technologies and Standards, APIs, Cloud and AI. I loves Computer Science, travel and açaí! Fun fact: I was born in the Amazon rainforest.
+
 
 ## Connect with me
 
@@ -63,9 +63,9 @@ JSON         0 secs          ░░░░░░░░░░░░░░░░░
 ## Achievements
 
 - ⭐️ Awarded top JavaScript author on DEV Community
-- 💫 Won 1st / top 3 place in several Hackathons and Tech Events
+- 💫 Won 1st/top3 place in several Events and Hackathons
 - ✨ Translator of MDN Web Docs to pt-BR language
 
-## Open source projects 👇🏻
+## Open source 👇🏻
 
-I use GitHub only for open-source projects, which you can see below!
+I use GitHub only for open-source projects, which you can see below.
