@@ -1,15 +1,15 @@
-## 👋🏻 Hello there!
-- 👨🏼‍💻 I'm a Senior Frontend Developer from Brazil 
-- 🤍 Building digital products wth focus on Web Standards, APIs, Cloud and AI
-- 😼 Fun facts: I was born in the Amazon rainforest and loves Computer Science!
-- ✍🏻 I write on [DEV](https://dev.to/lucasm), mentorship on [Patreon](https://patreon.com/lucasm) and translate on [MDN Web Docs](https://github.com/mdn/) to help developers
+## 👋🏻 Hi!
+- I'm a Senior Frontend Developer from Brazil
+- I build digital products wth focus on Web Technologies and Standards, APIs, Cloud and AI
+- Fun fact: I was born in the Amazon rainforest and loves Computer Science!
 
-## Follow me
+## Connect with me
 
-[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/lucasmezs)
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/lucasmezs)
-[![Dev](https://skillicons.dev/icons?i=devto)](https://dev.to/lucasm)
-[![CodePen](https://skillicons.dev/icons?i=codepen)](https://codepen.io/lucasm)
+- ✍🏻 Free content on [Twitter](https://twitter.com/lucasmezs), [DEV](https://dev.to/lucasm) and [CodePen](https://codepen.io/lucasm)
+- 🎓 Mentorship for developers on [Patreon](https://patreon.com/lucasm)
+- 👨🏼‍💻 Professional enquiries [LinkedIn](https://linkedin.com/in/lucasmezs)
+- 📜 Technical translations [MDN Web Docs](https://github.com/mdn/) 
+
 
 ## Coding stats
 
