@@ -69,7 +69,7 @@ Git          0 secs          ░░░░░░░░░░░░░░░░░
 ## Achievements
 
 - ⭐️ Awarded the Top JavaScript Author on DEV Community
-- 💫 Won 1st Place in several Events and Hackathons
+- ⭐️ Won 1st Place in several Events and Hackathons
 
 ## Open source 
 
