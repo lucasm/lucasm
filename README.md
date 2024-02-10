@@ -1,4 +1,4 @@
-## 👋🏻 Hi!
+## Hi! 👋🏻 
 
 I'm a Senior Software Developer from Brazil. I build digital products with focus on Frontend, Web APIs and Standards, AI and Cloud. I really loves Computer Science, açaí and travel. Fun fact: I was born in the Amazon rainforest!
 
