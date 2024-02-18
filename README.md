@@ -16,16 +16,16 @@ I'm a Senior Software Developer from Brazil. I build digital products with focus
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   35 hrs 5 mins   █████████████████████▓░░░   86.78 %
-CSS          2 hrs 48 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.97 %
-JSON         1 hr 51 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 %
-GraphQL      12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
-XML          12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
-Markdown     7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
-JavaScript   6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+TypeScript   30 hrs 41 mins  █████████████████████▒░░░   85.21 %
+CSS          2 hrs 51 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 %
+JSON         1 hr 43 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 %
+GraphQL      25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
+XML          12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
+JavaScript   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
 PowerShell   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Docker       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
