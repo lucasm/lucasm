@@ -1,17 +1,17 @@
 ## Hi! 👋🏻 
 
-I'm a Software Developer from Brazil. I build digital products with focus on Frontend, Web APIs and Standards, AI and Cloud. I really loves Computer Science, açaí and travel. Fun fact: I was born in the Amazon rainforest!
+I'm Lucas, a Software Developer from Brazil who loves Computer Science, açaí and travel! My focus is on Frontend, Web APIs, AI and Cloud. Fun fact: I was born in the Amazon rainforest and I have the surname "Maués" from Brazilian indigenous peoples.
 
 
-## Connect with me
+## Connect
 
-- ✍🏻 Free content on [Twitter](https://twitter.com/lucasmezs), [DEV](https://dev.to/lucasm) and [CodePen](https://codepen.io/lucasm)
-- 🎓 Mentorship for developers [Patreon](https://patreon.com/lucasm)
-- 👨🏼‍💻 Professional enquiries [LinkedIn](https://linkedin.com/in/lucasmezs)
-- 📜 Technical translations [MDN Web Docs](https://github.com/mdn/) 
+- ✍🏻 Content on [Twitter](https://twitter.com/lucasmezs), [DEV](https://dev.to/lucasm) and [CodePen](https://codepen.io/lucasm)
+- 🎓 Mentorship for Developers on [Patreon](https://patreon.com/lucasm)
+- 👨🏼‍💻 Professional CV on [LinkedIn](https://linkedin.com/in/lucasmezs)
+- 📜 Technical Translations on [MDN Web Docs](https://github.com/mdn/) 
 
 
-## Coding stats
+## Coding Stats
 
 <!--START_SECTION:waka-->
 
@@ -67,8 +67,8 @@ XML          0 secs          ░░░░░░░░░░░░░░░░░
 ## Achievements
 
 - ⭐️ Awarded the Top JavaScript Author on DEV Community
-- ⭐️ Won 1st Place in several Events and Hackathons
+- ⭐️ Won 1st Place in several Tech Events and Hackathons
 
-## Open source 
+## Open Source
 
-I use GitHub only for open-source projects and contributions, which you can see below 👇🏻
+For contractual reasons, I use GitHub only for open source projects and contributions, which you can see below 👇🏻
