@@ -16,12 +16,12 @@ I'm a Software Developer from Brazil. I build digital products with focus on Fro
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   24 hrs 24 mins  ████████████████████████▒   96.81 %
-GraphQL      31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
-JavaScript   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
-JSON         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+TypeScript   23 hrs 31 mins  ████████████████████████▒   96.69 %
+GraphQL      31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
+JavaScript   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
+JSON         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
 CSS          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
-Text         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+Text         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
