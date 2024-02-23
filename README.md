@@ -1,7 +1,6 @@
-## Hi! 👋🏻 
-
-I'm Lucas, a Software Developer from Brazil who loves Computer Science, açaí and travel! My focus is on Frontend, Web APIs, AI and Cloud. Fun fact: I was born in the Amazon rainforest and I have the surname "Maués" from Brazilian indigenous peoples.
-
+<h1 align="center">Hi 👋🏻 , I'm <a href="https://lucasm.dev">Lucas Menezes</a></h1>
+<h3 align="center">I'm Software Developer from Brazil</h3>
+<p align="center">I build amazing things with focus on Frontend, Web APIs, AI and Cloud. I loves Computer Science, açaí and travel! Fun fact: I was born in the Amazon rainforest and I carry the surname "Maués" from Brazilian indigenous peoples.</p>
 
 ## Connect
 
