@@ -3,7 +3,7 @@
 I'm Lucas, a Software Developer from Brazil who loves Computer Science, açaí and travel! My focus is on Frontend, Web APIs, AI and Cloud. Fun fact: I was born in the Amazon rainforest and I have the surname "Maués" from Brazilian indigenous peoples.
 
 
-## Follow
+## Connect
 
 - ✍🏻 Content on [Twitter](https://twitter.com/lucasmezs), [DEV](https://dev.to/lucasm) and [CodePen](https://codepen.io/lucasm)
 - 🎓 Mentorship for Developers on [Patreon](https://patreon.com/lucasm)
