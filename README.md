@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋🏻 , I'm <a href="https://lucasm.dev">Lucas Menezes</a></h1>
+<h1 align="center">Hi 👋🏻, I'm <a href="https://lucasm.dev">Lucas Menezes</a></h1>
 <h3 align="center">I'm Software Developer from Brazil</h3>
 <p align="center">I build amazing things with Frontend Technologies, Web APIs, AI and Cloud. I loves Computer Science, açaí and travel! Fun fact: I was born in the Amazon rainforest and I carry the surname "Maués" from Brazilian indigenous peoples.</p>
 
