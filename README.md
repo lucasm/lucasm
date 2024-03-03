@@ -5,8 +5,8 @@
 ## Connect
 
 - ✍🏻 Content on [Twitter](https://twitter.com/lucasmezs), [DEV](https://dev.to/lucasm) and [CodePen](https://codepen.io/lucasm)
-- 🎓 Mentorship for Developers on [Patreon](https://patreon.com/lucasm)
-- 👨🏼‍💻 Professional CV on [LinkedIn](https://linkedin.com/in/lucasmezs)
+- 🎓 Mentorship for Devs on [Patreon](https://patreon.com/lucasm)
+- 👨🏼‍💻 Professional on [LinkedIn](https://linkedin.com/in/lucasmezs)
 - 📜 Technical Translations on [MDN Web Docs](https://github.com/mdn/) 
 
 
@@ -65,8 +65,8 @@ XML          0 secs          ░░░░░░░░░░░░░░░░░
 ## Achievements
 
 - ⭐️ Awarded the Top JavaScript Author on DEV Community
-- ⭐️ Won 1st Place in several Tech Events and Hackathons
+- ⭐️ Won 1st Place in several Events and Hackathons
 
 ## Open Source
 
-For contractual reasons, I only use GitHub for open source activities. See below 👇🏻
+For contractual reasons, I only use GitHub for open source initiatives. See below 👇🏻
