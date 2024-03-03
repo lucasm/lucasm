@@ -69,4 +69,4 @@ XML          0 secs          ░░░░░░░░░░░░░░░░░
 
 ## Open Source
 
-For contractual reasons, I only use GitHub for open source projects and contributions. See below 👇🏻
+For contractual reasons, I only use GitHub for open source activities. See below 👇🏻
