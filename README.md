@@ -71,4 +71,4 @@ Text         0 secs          ░░░░░░░░░░░░░░░░░
 
 ## Open source
 
-For contractual reasons, I only use GitHub for open source initiatives. See below 👇🏻
+I use GitHub only for open source contributions. Take a look 👇🏻
