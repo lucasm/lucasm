@@ -1,16 +1,15 @@
 <h1 align="center">Hi 👋🏻, I'm <a href="https://lucasm.dev">Lucas Menezes</a></h1>
-<h3 align="center">I'm Software Engineer from Brazil</h3>
-<p align="center">I build amazing things with Frontend Technologies, Web APIs, AI and Cloud. I loves Computer Science, açaí and travel! Fun fact: I was born in the Amazon rainforest and I carry the surname "Maués" from Brazilian indigenous peoples.</p>
+<p align="center">I'm Software Engineer from Brazil, building cool things with Frontend Technologies, Web, APIs, AI and Cloud.</p>
 
 ## Connect
 
-- ✍🏻 Content on [Twitter](https://twitter.com/lucasmezs), [DEV](https://dev.to/lucasm) and [CodePen](https://codepen.io/lucasm)
+- ✍🏻 Programming content on [Twitter](https://twitter.com/lucasmezs), [DEV](https://dev.to/lucasm) and [CodePen](https://codepen.io/lucasm)
 - 🎓 Mentorship for Devs on [Patreon](https://patreon.com/lucasm)
 - 👨🏼‍💻 Professional on [LinkedIn](https://linkedin.com/in/lucasmezs)
-- 📜 Technical Translations on [MDN Web Docs](https://github.com/mdn/) 
+- 📜 Technical translations on [MDN Web Docs](https://github.com/mdn/) 
 
 
-## Coding Stats
+## Coding stats
 
 <!--START_SECTION:waka-->
 
@@ -70,6 +69,6 @@ Text         0 secs          ░░░░░░░░░░░░░░░░░
 - ⭐️ Awarded the Top JavaScript Author on DEV Community
 - ⭐️ Won 1st Place in several Events and Hackathons
 
-## Open Source
+## Open source
 
 For contractual reasons, I only use GitHub for open source initiatives. See below 👇🏻
