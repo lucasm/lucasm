@@ -3,13 +3,13 @@
 
 ## Connect
 
-- ✍🏻 Programming content on [Twitter](https://twitter.com/lucasmezs), [DEV](https://dev.to/lucasm) and [CodePen](https://codepen.io/lucasm)
-- 🎓 Mentorship for Devs on [Patreon](https://patreon.com/lucasm)
-- 👨🏼‍💻 Professional on [LinkedIn](https://linkedin.com/in/lucasmezs)
-- 📜 Technical translations on [MDN Web Docs](https://github.com/mdn/) 
+- Programming Content on [Twitter](https://twitter.com/lucasmezs), [DEV](https://dev.to/lucasm) and [CodePen](https://codepen.io/lucasm)
+- Mentorship for Developers on [Patreon](https://patreon.com/lucasm)
+- Professional on [LinkedIn](https://linkedin.com/in/lucasmezs)
+- Technical Translations on [MDN Web Docs](https://github.com/mdn/) 
 
 
-## Coding stats
+## Coding Stats
 
 <!--START_SECTION:waka-->
 
@@ -20,7 +20,7 @@ TypeScript   7 hrs 24 mins   █████████████████
 <!--END_SECTION:waka-->
 
 <details>
-<summary><strong>🛠️&nbsp;&nbsp;Technologies</strong></summary>
+<summary><strong>&nbsp;&nbsp;Technologies</strong></summary>
 </br>
   
 [![typescript](https://skillicons.dev/icons?i=typescript)](https://typescriptlang.org/)
@@ -60,6 +60,6 @@ TypeScript   7 hrs 24 mins   █████████████████
 - ⭐️ Awarded the Top JavaScript Author on DEV Community
 - ⭐️ Won 1st Place in several Events and Hackathons
 
-## Open source
+## Open Source
 
 I use GitHub only for open source contributions. Take a look 👇🏻
