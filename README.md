@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋🏻, I'm <a href="https://lucasm.dev">Lucas Menezes</a></h1>
+<h1 align="center">Hey 👋🏻, I'm <a href="https://lucasm.dev">Lucas Menezes</a></h1>
 <p align="center">I'm Software Engineer from Brazil, building cool things with Frontend Technologies, Web, APIs, AI and Cloud.</p>
 
 ## Connect
