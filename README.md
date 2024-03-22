@@ -57,9 +57,9 @@ TypeScript   7 hrs 24 mins   █████████████████
 
 ## Achievements
 
-- Awarded the Top JavaScript Author on DEV Community
-- Won 1st Place in several Events and Hackathons
+- Awarded the "Top JavaScript Author" on DEV Community
+- Won 1st place in several tech events and hackathons
 
 ## Open Source
 
-I use GitHub only for open source contributions. Take a look below.
+For contractual reasons I use GitHub only for open source contributions. Take a look below.
