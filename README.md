@@ -62,4 +62,4 @@ TypeScript   7 hrs 24 mins   █████████████████
 
 ## Open Source
 
-For contractual reasons I use GitHub only for open source contributions. Take a look below.
+For contractual reasons, I use GitHub only for open source contributions. Take a look below.
