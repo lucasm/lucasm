@@ -3,7 +3,7 @@
 
 ## Connect
 
-- Programming Content on [X](https://x.com/lucasmezs), [DEV](https://dev.to/lucasm) and [CodePen](https://codepen.io/lucasm)
+- Programming Content on [X (Twitter)](https://x.com/lucasmezs), [DEV](https://dev.to/lucasm) and [CodePen](https://codepen.io/lucasm)
 - Mentorship for Developers on [Patreon](https://patreon.com/lucasm)
 - Professional on [LinkedIn](https://linkedin.com/in/lucasmezs)
 - Technical Translations on [MDN Web Docs](https://github.com/mdn/) 
