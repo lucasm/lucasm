@@ -5,8 +5,8 @@
 
 - Programming Content on [X (Twitter)](https://x.com/lucasmezs), [DEV](https://dev.to/lucasm) and [CodePen](https://codepen.io/lucasm)
 - Mentorship for Developers on [Patreon](https://patreon.com/lucasm)
-- Professional on [LinkedIn](https://linkedin.com/in/lucasmezs)
-- Technical Translations on [MDN Web Docs](https://github.com/mdn/) 
+- Professional Profile on [LinkedIn](https://linkedin.com/in/lucasmezs)
+- Technical Translations on [MDN Web Docs](https://github.com/mdn/)
 
 
 ## Coding Stats
@@ -57,9 +57,9 @@ TypeScript   7 hrs 24 mins   █████████████████
 
 ## Achievements
 
-- ⭐️ Awarded the Top JavaScript Author on DEV Community
-- ⭐️ Won 1st Place in several Events and Hackathons
+- Awarded the Top JavaScript Author on DEV Community
+- Won 1st Place in several Events and Hackathons
 
 ## Open Source
 
-I use GitHub only for open source contributions. Take a look 👇🏻
+I use GitHub only for open source contributions. Take a look below.
