@@ -3,10 +3,10 @@
 
 ## Connect
 
-- Programming Content on [X (Twitter)](https://x.com/lucasmezs), [DEV](https://dev.to/lucasm) and [CodePen](https://codepen.io/lucasm)
-- Mentorship for Developers on [Patreon](https://patreon.com/lucasm)
-- Professional Profile on [LinkedIn](https://linkedin.com/in/lucasmezs)
-- Technical Translations on [MDN Web Docs](https://github.com/mdn/)
+- Programming Content: [X (Twitter)](https://x.com/lucasmezs), [DEV](https://dev.to/lucasm) and [CodePen](https://codepen.io/lucasm)
+- Mentorship for Developers: [Patreon](https://patreon.com/lucasm)
+- Professional Profile: [LinkedIn](https://linkedin.com/in/lucasmezs)
+- Technical Translations: [MDN Web Docs](https://github.com/mdn/)
 
 
 ## Coding Stats
@@ -61,7 +61,7 @@ Other         0 secs          ░░░░░░░░░░░░░░░░�
 ## Achievements
 
 - Awarded the "Top JavaScript Author" on DEV Community
-- Won 1st place in several tech events and hackathons
+- Won 1st / top 3 place in several tech events and hackathons
 
 ## Open Source
 
