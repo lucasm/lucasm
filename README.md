@@ -3,7 +3,7 @@
 
 ## Connect
 
-- Programming Content: [X (Twitter)](https://x.com/lucasmezs), [DEV](https://dev.to/lucasm) and [CodePen](https://codepen.io/lucasm)
+- Free Programming Content: [DEV Community](https://dev.to/lucasm), [CodePen](https://codepen.io/lucasm) and [X (Twitter)](https://x.com/lucasmezs),
 - Mentorship for Developers: [Patreon](https://patreon.com/lucasm)
 - Professional Profile: [LinkedIn](https://linkedin.com/in/lucasmezs)
 - Technical Translations: [MDN Web Docs](https://github.com/mdn/)
@@ -65,4 +65,4 @@ Image (svg)   1 min           ░░░░░░░░░░░░░░░░�
 
 ## Open Source
 
-For contractual reasons, I use GitHub only for open source contributions. Take a look below.
+I only use GitHub for open source contributions due to contractual obligations. Feel free to take a look below.
