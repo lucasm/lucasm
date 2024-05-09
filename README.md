@@ -3,9 +3,9 @@
 
 ## Connect
 
-- Free Programming Content: [DEV Community](https://dev.to/lucasm), [CodePen](https://codepen.io/lucasm) and [X (Twitter)](https://x.com/lucasmezs),
-- Mentorship for Developers: [Patreon](https://patreon.com/lucasm)
-- Professional Profile: [LinkedIn](https://linkedin.com/in/lucasmezs)
+- Content: [X (Twitter)](https://x.com/lucasmezs), [DEV](https://dev.to/lucasm) and [CodePen](https://codepen.io/lucasm)
+- Mentorship for Devs: [Patreon](https://patreon.com/lucasm)
+- Professional: [LinkedIn](https://linkedin.com/in/lucasmezs)
 - Technical Translations: [MDN Web Docs](https://github.com/mdn/)
 
 
