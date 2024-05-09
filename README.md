@@ -71,4 +71,4 @@ CSV          0 secs          ░░░░░░░░░░░░░░░░░
 
 ## Open Source
 
-I only use GitHub for open source contributions due to contractual obligations. Feel free to take a look below.
+Due to contractual obligations, I only use GitHub for open source contributions 👇🏻
