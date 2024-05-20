@@ -1,15 +1,15 @@
 <h1 align="center">Hey 👋🏻, I'm <a href="https://lucasm.dev">Lucas Menezes</a></h1>
-<p align="center">I'm Software Engineer from <i>the Amazon region of</i> Brazil, building solutions with Frontend Technologies, Web Standards, APIs, AI and Cloud based Apps. I help companies and developers since 2017.</p>
+<p align="center">I'm Software Engineer from the <i>Amazon region</i> of Brazil, building solutions with Frontend Technologies, Web Standards, APIs, AI and Cloud based Apps. Helping companies and developers since 2017.</p>
 
-## Connect
+## Follow me
 
 - Content: [X (Twitter)](https://x.com/lucasmezs), [DEV](https://dev.to/lucasm) and [CodePen](https://codepen.io/lucasm)
-- Mentorship for Devs: [Patreon](https://patreon.com/lucasm)
+- Mentorship: [Patreon](https://patreon.com/lucasm)
 - Professional: [LinkedIn](https://linkedin.com/in/lucasmezs)
 - Technical Translations: [MDN Web Docs](https://github.com/mdn/)
 
 
-## Coding Stats
+## Coding stats
 
 <!--START_SECTION:waka-->
 
@@ -66,9 +66,9 @@ Other         0 secs          ░░░░░░░░░░░░░░░░�
 
 ## Achievements
 
-- Awarded the "Top JavaScript Author" on DEV Community
+- Awarded the "Top JavaScript Author" badge on DEV Community
 - Won 1st / top 3 place in several tech events and hackathons
 
-## Open Source
+## Open source
 
-Due to contractual obligations, I only use GitHub for open source contributions 👇🏻
+Due to contractual obligations, I only use GitHub for open source contributions. See 👇🏻
