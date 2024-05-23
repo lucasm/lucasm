@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋🏻, I'm <a href="https://lucasm.dev">Lucas Menezes</a></h1>
+<h1 align="center">Hi 👋🏻, I'm <a href="https://lucasm.dev">Lucas Menezes</a></h1>
 <p align="center">I'm Software Engineer from the <i>Amazon region</i> of Brazil, building solutions with Frontend Technologies, Web Standards, APIs, AI and Cloud based Apps. Helping companies and developers since 2017.</p>
 
 ## Follow me
