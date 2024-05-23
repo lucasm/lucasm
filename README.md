@@ -2,11 +2,16 @@
 <p align="center">I'm Software Engineer from the <i>Amazon region</i> of Brazil, building solutions with Frontend Technologies, Web Standards, APIs, AI and Cloud based Apps. Helping companies and developers since 2017.</p>
 
 ## Follow me
+[![twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/lucasmezs/)
+[![dev](https://skillicons.dev/icons?i=devto)](https://dev.to/lucasm/)
+[![codepen](https://skillicons.dev/icons?i=codepen)](https://codepen.io/lucasm/)
+[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/lucasmezs/)
 
-- Content: [X (Twitter)](https://x.com/lucasmezs), [DEV](https://dev.to/lucasm) and [CodePen](https://codepen.io/lucasm)
 - Mentorship: [Patreon](https://patreon.com/lucasm)
-- Professional: [LinkedIn](https://linkedin.com/in/lucasmezs)
 - Technical Translations: [MDN Web Docs](https://github.com/mdn/)
+
+
+
 
 
 ## Coding stats
