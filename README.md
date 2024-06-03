@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏻, I'm <a href="https://lucasm.dev">Lucas Menezes</a></h1>
-<p align="center">I'm Software Engineer from Brazil, building solutions with Frontend Technologies, Web Standards, APIs, AI and Cloud based Apps. Helping companies and developers since 2017.</p>
+<p align="center">I'm a Software Engineer from Brazil, building solutions with Frontend Technologies, Web APIs and Standards, AI and Cloud based Apps. Helping companies and developers since 2017.</p>
 
 ## Follow me
 [![twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/lucasmezs/)
