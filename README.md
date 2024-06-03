@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏻, I'm <a href="https://lucasm.dev">Lucas Menezes</a></h1>
-<p align="center">I'm Software Engineer from the <i>Amazon region</i> of Brazil, building solutions with Frontend Technologies, Web Standards, APIs, AI and Cloud based Apps. Helping companies and developers since 2017.</p>
+<p align="center">I'm Software Engineer from Brazil, building solutions with Frontend Technologies, Web Standards, APIs, AI and Cloud based Apps. Helping companies and developers since 2017.</p>
 
 ## Follow me
 [![twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/lucasmezs/)
@@ -9,10 +9,6 @@
 
 - Mentorship: [Patreon](https://patreon.com/lucasm)
 - Technical Translations: [MDN Web Docs](https://github.com/mdn/)
-
-
-
-
 
 ## Coding stats
 
@@ -76,8 +72,8 @@ TSConfig     2 mins          ░░░░░░░░░░░░░░░░░
 ## Achievements
 
 - Awarded the "Top JavaScript Author" badge on DEV Community
-- Won 1st / top 3 place in several tech events and hackathons
+- Won 1st and top 3 place in several tech events and hackathons
 
 ## Open source
 
-Due to contractual obligations, I only use GitHub for open source contributions. See 👇🏻
+I only use GitHub for open source contributions 👇🏻
