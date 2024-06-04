@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏻, I'm <a href="https://lucasm.dev">Lucas Menezes</a></h1>
-<p align="center">I'm a Senior Software Engineer from Brazil, building solutions with Frontend Technologies, Web APIs and Standards, AI and Cloud based Apps. Helping companies and developers since 2017.</p>
+<p align="center">I'm a Senior Software Engineer from Brazil, building solutions with: Frontend Technologies, Web Apps, APIs, Cloud and AI. Helping companies and developers since 2017.</p>
 
 ## Follow me
 [![twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/lucasmezs/)
@@ -72,8 +72,8 @@ TSConfig     2 mins          ░░░░░░░░░░░░░░░░░
 ## Achievements
 
 - Awarded the "Top JavaScript Author" badge on DEV Community
-- Won 1st and top 3 place in several tech events and hackathons
+- Won 1st / top 3 place in several tech events and hackathons
 
 ## Open source
 
-I only use GitHub for open source contributions 👇🏻
+I only use GitHub for open source contributions, see below 👇🏻
