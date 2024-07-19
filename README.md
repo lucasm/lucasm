@@ -61,7 +61,7 @@ GraphQL      5 mins          ▒░░░░░░░░░░░░░░░░
 
 ## Achievements
 
-- Awarded the "Top JavaScript Author" badge on DEV Community
+- Awarded the "Top JavaScript Author" badge on [DEV Community](https://dev.to/lucasm/)
 - Won 1st / top 3 place in several tech events and hackathons
 
 ## Open source
