@@ -66,6 +66,6 @@ GraphQL      5 mins          ▒░░░░░░░░░░░░░░░░
 
 ## Open source
 
-I only use GitHub for open source contributions, see below 👇🏻
+Due to contractual reasons, I use GitHub only for open source contributions, see below 👇🏻
 
 - Technical Translations: [MDN Web Docs](https://github.com/mdn/)
