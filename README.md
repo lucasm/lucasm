@@ -7,9 +7,6 @@
 [![codepen](https://skillicons.dev/icons?i=codepen)](https://codepen.io/lucasm/)
 [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/lucasmezs/)
 
-- Mentorship: [Patreon](https://patreon.com/lucasm)
-- Technical Translations: [MDN Web Docs](https://github.com/mdn/)
-
 ## Coding stats
 
 <!--START_SECTION:waka-->
@@ -70,3 +67,5 @@ GraphQL      5 mins          ▒░░░░░░░░░░░░░░░░
 ## Open source
 
 I only use GitHub for open source contributions, see below 👇🏻
+
+- Technical Translations: [MDN Web Docs](https://github.com/mdn/)
