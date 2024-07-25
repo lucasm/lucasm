@@ -7,7 +7,7 @@
 [![codepen](https://skillicons.dev/icons?i=codepen)](https://codepen.io/lucasm/)
 [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/lucasmezs/)
 
-## Waka coding stats
+## Code stats
 
 <!--START_SECTION:waka-->
 
