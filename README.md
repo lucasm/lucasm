@@ -62,12 +62,10 @@ JSON         0 secs          ░░░░░░░░░░░░░░░░░
 </details>
 
 ## Achievements
-
+- Since 2017 developing Web Apps, Websites, E-Commerce Platforms, PWAs and Mobile Apps, which impact millions of users per day
 - Awarded the "Top JavaScript Author" badge on [DEV Community](https://dev.to/lucasm/)
-- Won 1st / top 3 place in several tech events and hackathons
+- Won 1st or top 3 place in several tech events and hackathons
+- pt-BR Technical Translator at [MDN Web Docs](https://github.com/mdn/)
 
 ## Open source
-
-Due to contractual reasons, I only use GitHub for open source contributions. See below 👇🏻
-
-- Technical Translations: [MDN Web Docs](https://github.com/mdn/)
+I only use GitHub for open source contributions, due to contractual reasons. See below 👇🏻
