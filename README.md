@@ -24,9 +24,11 @@ JSON         0 secs          ░░░░░░░░░░░░░░░░░
 <details>
 <summary><strong>&nbsp;&nbsp;Technologies</strong></summary>
 </br>
-  
+
+[![vscode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
 [![typescript](https://skillicons.dev/icons?i=typescript)](https://typescriptlang.org/)
 [![react](https://skillicons.dev/icons?i=react)](https://react.dev)
+[![nextjs](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/)
 [![css](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/docs/Web/CSS)
 [![webpack](https://skillicons.dev/icons?i=webpack)](https://webpack.js.org/)
 [![sass](https://skillicons.dev/icons?i=sass)](https://sass-lang.com/)
@@ -41,7 +43,6 @@ JSON         0 secs          ░░░░░░░░░░░░░░░░░
 [![angular](https://skillicons.dev/icons?i=angular)](https://angular.io/)
 [![java](https://skillicons.dev/icons?i=java)](https://java.com/)
 [![c](https://skillicons.dev/icons?i=c)](https://w3schools.com/c/)
-[![nextjs](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/)
 [![wordpress](https://skillicons.dev/icons?i=wordpress)](https://wordpress.org/)
 [![postgresql](https://skillicons.dev/icons?i=postgresql)](https://postgresql.org/)
 [![cloudflare](https://skillicons.dev/icons?i=cloudflare)](https://cloudflare.com/)
@@ -51,11 +52,9 @@ JSON         0 secs          ░░░░░░░░░░░░░░░░░
 [![nginx](https://skillicons.dev/icons?i=nginx)](https://nginx.com/)
 [![styledcomponents](https://skillicons.dev/icons?i=styledcomponents)](https://styled-components.com/)
 [![svg](https://skillicons.dev/icons?i=svg)](https://developer.mozilla.org/docs/Web/SVG)
-[![vscode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
 [![vim](https://skillicons.dev/icons?i=vim)](https://neovim.io/)
 [![linux](https://skillicons.dev/icons?i=linux)](https://distrochooser.de/)
 [![apple](https://skillicons.dev/icons?i=apple)](https://apple.com/macos)
-[![openstack](https://skillicons.dev/icons?i=openstack)](https://openstack.org/)
 [![grafana](https://skillicons.dev/icons?i=grafana)](https://grafana.com/)
 
 
