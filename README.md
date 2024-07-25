@@ -7,7 +7,7 @@
 [![codepen](https://skillicons.dev/icons?i=codepen)](https://codepen.io/lucasm/)
 [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/lucasmezs/)
 
-## Coding stats
+## Waka coding stats
 
 <!--START_SECTION:waka-->
 
@@ -68,6 +68,6 @@ JSON         0 secs          ░░░░░░░░░░░░░░░░░
 
 ## Open source
 
-Due to contractual reasons, I use GitHub only for open source contributions, see below 👇🏻
+Due to contractual reasons, I only use GitHub for open source contributions. See below 👇🏻
 
 - Technical Translations: [MDN Web Docs](https://github.com/mdn/)
