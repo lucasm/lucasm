@@ -68,4 +68,4 @@ JSON         0 secs          ░░░░░░░░░░░░░░░░░
 - pt-BR Technical Translator at [MDN Web Docs](https://github.com/mdn/)
 
 ## Open source
-I only use GitHub for open source contributions, due to contractual reasons. See below 👇🏻
+I use GitHub only for open source contributions. See below 👇🏻
