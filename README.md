@@ -69,7 +69,7 @@ Text          0 secs          ░░░░░░░░░░░░░░░░�
 - Since 2017 developing Web Apps which impact millions of users per day, like [Globo.com](https://www.globo.com/?utm_source=lucasm.dev) and [BancoBmg.com.br](https://www.bancobmg.com.br/?utm_source=lucasm.dev)
 - In 2023, awarded the "Top JavaScript Author" badge on [DEV Community](https://dev.to/lucasm/)
 - pt-BR Technical Translator at [MDN Web Docs](https://github.com/mdn/)
-- Won 1st or top 3 place in several tech events and hackathons
+- Won 1st or top 3 place in tech events and hackathons
 
 ## Open source
-I use GitHub only for open source contributions. See below 👇🏻
+I just use GitHub for open source contributions. See below 👇🏻
