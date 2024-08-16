@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋🏻, I'm <a href="https://lucasm.dev">Lucas Menezes</a></h1>
-<p align="center">I'm a Senior Software Engineer from  Brazil, building Frontend solutions. I love Computer Science, Web APIs, Cloud and AI experiments. Helping succeeded companies and developers since 2017.</p>
+<p align="center">I'm a Senior Software Engineer from  Brazil. Building Frontend solutions. Researching AI. I love Computer Science, Web APIs and travel. Helping succeeded companies and developers since 2017.</p>
 
 ## Follow me
 [![twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/lucasmezs/)
@@ -67,7 +67,7 @@ Text          0 secs          ░░░░░░░░░░░░░░░░�
 
 ## Achievements
 - Since 2017 developing Web Apps which impact millions of users per day, like [Globo.com](https://www.globo.com/?utm_source=lucasm.dev) and [BancoBmg.com.br](https://www.bancobmg.com.br/?utm_source=lucasm.dev)
-- Awarded the "Top JavaScript Author" badge on [DEV Community](https://dev.to/lucasm/)
+- In 2023, awarded the "Top JavaScript Author" badge on [DEV Community](https://dev.to/lucasm/)
 - pt-BR Technical Translator at [MDN Web Docs](https://github.com/mdn/)
 - Won 1st or top 3 place in several tech events and hackathons
 
