@@ -67,14 +67,20 @@ Markdown     2 mins          ▒░░░░░░░░░░░░░░░░
 <a title="pwa" href="https://developer.mozilla.org/docs/Web/Progressive_web_apps">
 <img height="48" width="48" src="https://cdn.simpleicons.org/pwa/4493f8" /></a>
 
-<a title="webpack" href="https://webpack.js.org">
-<img height="48" width="48" src="https://cdn.simpleicons.org/webpack/4493f8" /></a>
-
 <a title="graphql" href="https://graphql.org">
 <img height="48" width="48" src="https://cdn.simpleicons.org/graphql/4493f8" /></a>
 
+<a title="webpack" href="https://webpack.js.org">
+<img height="48" width="48" src="https://cdn.simpleicons.org/webpack/4493f8" /></a>
+
+<a title="eslint" href="https://eslint.org">
+<img height="48" width="48" src="https://cdn.simpleicons.org/eslint/4493f8" /></a>
+
 <a title="jest" href="https://jestjs.io">
 <img height="48" width="48" src="https://cdn.simpleicons.org/jest/4493f8" /></a>
+
+<a title="testinglibrary" href="https://testing-library.com/">
+<img height="48" width="48" src="https://cdn.simpleicons.org/testinglibrary/4493f8" /></a>
 
 <a title="sass" href="https://sass-lang.com">
 <img height="48" width="48" src="https://cdn.simpleicons.org/sass/4493f8" /></a>
@@ -93,6 +99,9 @@ Markdown     2 mins          ▒░░░░░░░░░░░░░░░░
 
 <a title="npm" href="https://npmjs.com/">
 <img height="48" width="48" src="https://cdn.simpleicons.org/npm/4493f8" /></a>
+
+<a title="yarn" href="https://yarnpkg.com/">
+<img height="48" width="48" src="https://cdn.simpleicons.org/yarn/4493f8" /></a>
 
 
 
