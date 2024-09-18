@@ -63,8 +63,8 @@ Markdown     2 mins          ▒░░░░░░░░░░░░░░░░
 ## Achievements
 - Since 2017 developing Web Apps which impact millions of users per day, like [Globo.com](https://www.globo.com/?utm_source=lucasm.dev) and [BancoBmg.com.br](https://www.bancobmg.com.br/?utm_source=lucasm.dev)
 - In 2023, awarded the "Top JavaScript Author" badge on [DEV Community](https://dev.to/lucasm/)
-- pt-BR Technical Translator at [MDN Web Docs](https://github.com/mdn/)
+- pt-BR Technical Translator at [Microsoft](https://github.com/microsoft/) and [MDN Web Docs](https://github.com/mdn/)
 - Won 1st or top 3 place in tech events and hackathons
 
 ## Open source
-I just use GitHub for open source contributions. See below 👇🏻
+My GitHub is only for open source contributions. See below 👇🏻
