@@ -108,6 +108,9 @@ Markdown     2 mins          ▒░░░░░░░░░░░░░░░░
 <a title="cloudflare" href="https://cloudflare.com">
 <img height="48" width="48" src="https://cdn.simpleicons.org/cloudflare/4493f8" /></a>
 
+<a title="azure devops" href="https://azure.microsoft.com/pt-br/products/devops">
+<img height="48" width="48" src="https://lucasm.dev/icon-azure.svg" /></a>
+
 <a title="aws" href="https://aws.amazon.com">
 <img height="48" width="48" src="https://cdn.simpleicons.org/amazonwebservices/4493f8" /></a>
 
@@ -125,20 +128,20 @@ Markdown     2 mins          ▒░░░░░░░░░░░░░░░░
 
 
 
+<a title="wordpress" href="https://wordpress.org">
+<img height="48" width="48" src="https://cdn.simpleicons.org/wordpress/4493f8" /></a>
+
+<a title="postgresql" href="https://postgresql.org">
+<img height="48" width="48" src="https://cdn.simpleicons.org/postgresql/4493f8" /></a>
+
 <a title="java" href="https://java.com">
-<img height="48" width="48"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" /></a>
+<img height="48" width="48"  src="https://lucasm.dev/icon-java.svg" /></a>
 
 <a title="python" href="https://python.org">
 <img height="48" width="48" src="https://cdn.simpleicons.org/python/4493f8" /></a>
 
 <a title="c" href="https://w3schools.com/c">
 <img height="48" width="48" src="https://cdn.simpleicons.org/c/4493f8" /></a>
-
-<a title="wordpress" href="https://wordpress.org">
-<img height="48" width="48" src="https://cdn.simpleicons.org/wordpress/4493f8" /></a>
-
-<a title="postgresql" href="https://postgresql.org">
-<img height="48" width="48" src="https://cdn.simpleicons.org/postgresql/4493f8" /></a>
 
 <a title="nginx" href="https://nginx.com">
 <img height="48" width="48" src="https://cdn.simpleicons.org/nginx/4493f8" /></a>
