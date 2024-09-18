@@ -79,13 +79,13 @@ Markdown     2 mins          ▒░░░░░░░░░░░░░░░░
 <a title="jest" href="https://jestjs.io">
 <img height="48" width="48" src="https://cdn.simpleicons.org/jest/4493f8" /></a>
 
-<a title="testinglibrary" href="https://testing-library.com/">
+<a title="testing library" href="https://testing-library.com/">
 <img height="48" width="48" src="https://cdn.simpleicons.org/testinglibrary/4493f8" /></a>
 
 <a title="sass" href="https://sass-lang.com">
 <img height="48" width="48" src="https://cdn.simpleicons.org/sass/4493f8" /></a>
 
-<a title="styledcomponents" href="https://styled-components.com">
+<a title="styled-components" href="https://styled-components.com">
 <img height="48" width="48" src="https://cdn.simpleicons.org/styledcomponents/4493f8" /></a>
 
 <a title="svg" href="https://developer.mozilla.org/docs/Web/SVG">
@@ -132,7 +132,7 @@ Markdown     2 mins          ▒░░░░░░░░░░░░░░░░
 <a title="grafana" href="https://grafana.com">
 <img height="48" width="48" src="https://cdn.simpleicons.org/grafana/4493f8" /></a>
 
-<a title="googlean alytics" href="https://analytics.google.com/">
+<a title="google analytics" href="https://analytics.google.com/">
 <img height="48" width="48" src="https://cdn.simpleicons.org/googleanalytics/4493f8" /></a>
 
 
