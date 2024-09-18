@@ -117,7 +117,7 @@ Markdown     2 mins          ▒░░░░░░░░░░░░░░░░
 <a title="cloudflare" href="https://cloudflare.com">
 <img height="48" width="48" src="https://cdn.simpleicons.org/cloudflare/4493f8" /></a>
 
-<a title="azure devops" href="https://azure.microsoft.com/pt-br/products/devops">
+<a title="azure devops" href="https://azure.microsoft.com/products/devops">
 <img height="48" width="48" src="https://lucasm.dev/icon-azure.svg" /></a>
 
 <a title="aws" href="https://aws.amazon.com">
