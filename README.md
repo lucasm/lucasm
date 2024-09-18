@@ -1,11 +1,25 @@
-<h1 align="center">Hello 👋🏻, I'm <a href="https://lucasm.dev">Lucas Menezes</a></h1>
-<p align="center">I'm a Senior Software Engineer from  Brazil. Building Frontend solutions. Researching AI. I love Computer Science, Web APIs and travel. Helping succeeded companies and developers since 2017.</p>
+<h1 align="center">Hello 👋🏻, I'm Lucas Menezes</h1>
+<p align="center">I'm a Senior Software Engineer from Brazil. Building Frontend solutions. Researching AI. I love Computer Science, Web APIs and travel everywhere as possible. Helping succeeded companies and developers since 2017.</p>
 
-## Follow me
-[![twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/lucasmezs/)
-[![dev](https://skillicons.dev/icons?i=devto)](https://dev.to/lucasm/)
-[![codepen](https://skillicons.dev/icons?i=codepen)](https://codepen.io/lucasm/)
-[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/lucasmezs/)
+<div align="center">
+<a target="_blank" rel="noopener" title="Bluesky" href="https://bsky.app/profile/lucasm.dev">
+<img height="32" width="32" src="https://cdn.simpleicons.org/bluesky/4493f8" /></a>
+  
+<a target="_blank" rel="noopener" title="X" href="https://x.com/lucasmezs">
+<img height="32" width="32" src="https://cdn.simpleicons.org/x/4493f8" /></a>
+
+<a target="_blank" rel="noopener" title="DEV Community" href="https://dev.to/lucasm">
+<img height="32" width="32" src="https://cdn.simpleicons.org/devdotto/4493f8" /></a>
+
+<a target="_blank" rel="noopener" title="Codepen" href="https://codepen.io/lucasm">
+<img height="32" width="32" src="https://cdn.simpleicons.org/codepen/4493f8" /></a>
+
+<a target="_blank" rel="noopener" title="LinkedIn" href="https://linkedin.com/in/lucasmezs">
+<img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/4493f8" /></a>
+</div>
+
+<h3 align="center"><a href="https://lucasm.dev">lucasm.dev</a></h3>
+
 
 ## Code stats
 
