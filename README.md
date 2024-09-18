@@ -38,7 +38,7 @@ Markdown     2 mins          ▒░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 <details>
-<summary><strong>&nbsp;&nbsp;My stack</strong></summary>
+<summary><strong>&nbsp;&nbsp;My technology stack</strong></summary>
 </br>
 
 <div>
@@ -154,6 +154,12 @@ Markdown     2 mins          ▒░░░░░░░░░░░░░░░░
 
 <a title="nginx" href="https://nginx.com">
 <img height="48" width="48" src="https://cdn.simpleicons.org/nginx/4493f8" /></a>
+
+<a title="openai" href="https://openai.com">
+<img height="48" width="48" src="https://cdn.simpleicons.org/openai/4493f8" /></a>
+
+<a title="github copilot" href="https://github.com/features/copilot">
+<img height="48" width="48" src="https://cdn.simpleicons.org/githubcopilot/4493f8" /></a>
 
 </div>
 
