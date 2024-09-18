@@ -3,22 +3,24 @@
 
 <div align="center">
 <a title="Bluesky" href="https://bsky.app/profile/lucasm.dev">
-<img height="32" width="32" style="color:red;" src="https://cdn.simpleicons.org/bluesky/4493f8" /></a>
+<img height="28" width="28" style="color:red;" src="https://cdn.simpleicons.org/bluesky/4493f8" /></a>
   
 <a title="X" href="https://x.com/lucasmezs">
-<img height="32" width="32" src="https://cdn.simpleicons.org/x/4493f8" /></a>
+<img height="28" width="28" src="https://cdn.simpleicons.org/x/4493f8" /></a>
 
 <a title="DEV Community" href="https://dev.to/lucasm">
-<img height="32" width="32" src="https://cdn.simpleicons.org/devdotto/4493f8" /></a>
+<img height="28" width="28" src="https://cdn.simpleicons.org/devdotto/4493f8" /></a>
 
 <a title="Codepen" href="https://codepen.io/lucasm">
-<img height="32" width="32" src="https://cdn.simpleicons.org/codepen/4493f8" /></a>
+<img height="28" width="28" src="https://cdn.simpleicons.org/codepen/4493f8" /></a>
 
 <a title="LinkedIn" href="https://linkedin.com/in/lucasmezs">
-<img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/4493f8" /></a>
+<img height="28" width="28" src="https://cdn.simpleicons.org/linkedin/4493f8" /></a>
 </div>
 
-<h3 align="center"><a href="https://lucasm.dev">lucasm.dev</a></h3>
+</br>
+
+<p align="center"><a href="https://lucasm.dev">lucasm.dev</a></p>
 
 
 ## Code stats
@@ -36,7 +38,7 @@ Markdown     2 mins          ▒░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 <details>
-<summary><strong>&nbsp;&nbsp;My technology stack</strong></summary>
+<summary><strong>&nbsp;&nbsp;My stack</strong></summary>
 </br>
 
 <div>
