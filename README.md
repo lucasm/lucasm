@@ -2,19 +2,19 @@
 <p align="center">I'm a Senior Software Engineer from Brazil. Building Frontend. Researching AI. I love Computer Science, Web APIs and travelling. I've been helping successful companies and developers since 2017.</p>
 
 <div align="center">
-<a target="_blank" rel="noopener" title="Bluesky" href="https://bsky.app/profile/lucasm.dev">
+<a title="Bluesky" href="https://bsky.app/profile/lucasm.dev">
 <img height="32" width="32" style="color:red;" src="https://cdn.simpleicons.org/bluesky/4493f8" /></a>
   
-<a target="_blank" rel="noopener" title="X" href="https://x.com/lucasmezs">
+<a title="X" href="https://x.com/lucasmezs">
 <img height="32" width="32" src="https://cdn.simpleicons.org/x/4493f8" /></a>
 
-<a target="_blank" rel="noopener" title="DEV Community" href="https://dev.to/lucasm">
+<a title="DEV Community" href="https://dev.to/lucasm">
 <img height="32" width="32" src="https://cdn.simpleicons.org/devdotto/4493f8" /></a>
 
-<a target="_blank" rel="noopener" title="Codepen" href="https://codepen.io/lucasm">
+<a title="Codepen" href="https://codepen.io/lucasm">
 <img height="32" width="32" src="https://cdn.simpleicons.org/codepen/4493f8" /></a>
 
-<a target="_blank" rel="noopener" title="LinkedIn" href="https://linkedin.com/in/lucasmezs">
+<a title="LinkedIn" href="https://linkedin.com/in/lucasmezs">
 <img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/4493f8" /></a>
 </div>
 
@@ -36,115 +36,109 @@ Markdown     2 mins          ▒░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 <details>
-<summary><strong>&nbsp;&nbsp;My stack</strong></summary>
+<summary><strong>&nbsp;&nbsp;My technology stack</strong></summary>
 </br>
 
 <div>
   
-<a target="_blank" rel="noopener" title="typescript" href="https://typescriptlang.org">
+<a title="typescript" href="https://typescriptlang.org">
 <img height="46" width="46" src="https://cdn.simpleicons.org/typescript/4493f8" /></a>
 
-<a target="_blank" rel="noopener" title="javascript" href="https://developer.mozilla.org/docs/Web/JavaScript">
+<a title="javascript" href="https://developer.mozilla.org/docs/Web/JavaScript">
 <img height="46" width="46" src="https://cdn.simpleicons.org/javascript/4493f8" /></a>
 
 <a target="_blank" rel="nodejs" title="nodejs" href="https://nodejs.org">
 <img height="46" width="46" src="https://cdn.simpleicons.org/nodedotjs/4493f8" /></a>
 
-<a target="_blank" rel="noopener" title="css" href="https://developer.mozilla.org/docs/Web/CSS">
+<a title="css" href="https://developer.mozilla.org/docs/Web/CSS">
 <img height="46" width="46" src="https://cdn.simpleicons.org/css3/4493f8" /></a>
 
-<a target="_blank" rel="noopener" title="html" href="https://developer.mozilla.org/docs/Web/HTML">
+<a title="html" href="https://developer.mozilla.org/docs/Web/HTML">
 <img height="46" width="46" src="https://cdn.simpleicons.org/html5/4493f8" /></a>
 
-<a target="_blank" rel="noopener" title="react" href="https://react.dev">
+<a title="react" href="https://react.dev">
 <img height="46" width="46" src="https://cdn.simpleicons.org/react/4493f8" /></a>
 
-<a target="_blank" rel="noopener" title="nextjs" href="https://nextjs.org">
+<a title="nextjs" href="https://nextjs.org">
 <img height="46" width="46" src="https://cdn.simpleicons.org/nextdotjs/4493f8" /></a>
 
-<a target="_blank" rel="noopener" title="pwa" href="https://developer.mozilla.org/docs/Web/Progressive_web_apps">
+<a title="pwa" href="https://developer.mozilla.org/docs/Web/Progressive_web_apps">
 <img height="46" width="46" src="https://cdn.simpleicons.org/pwa/4493f8" /></a>
 
-<a target="_blank" rel="noopener" title="webpack" href="https://webpack.js.org">
+<a title="webpack" href="https://webpack.js.org">
 <img height="46" width="46" src="https://cdn.simpleicons.org/webpack/4493f8" /></a>
 
-<a target="_blank" rel="noopener" title="graphql" href="https://graphql.org">
+<a title="graphql" href="https://graphql.org">
 <img height="46" width="46" src="https://cdn.simpleicons.org/graphql/4493f8" /></a>
 
-<a target="_blank" rel="noopener" title="jest" href="https://jestjs.io">
+<a title="jest" href="https://jestjs.io">
 <img height="46" width="46" src="https://cdn.simpleicons.org/jest/4493f8" /></a>
 
-<a target="_blank" rel="noopener" title="sass" href="https://sass-lang.com">
+<a title="sass" href="https://sass-lang.com">
 <img height="46" width="46" src="https://cdn.simpleicons.org/sass/4493f8" /></a>
 
-<a target="_blank" rel="noopener" title="styledcomponents" href="https://styled-components.com">
+<a title="styledcomponents" href="https://styled-components.com">
 <img height="46" width="46" src="https://cdn.simpleicons.org/styledcomponents/4493f8" /></a>
 
-<a target="_blank" rel="noopener" title="svg" href="https://developer.mozilla.org/docs/Web/SVG">
+<a title="svg" href="https://developer.mozilla.org/docs/Web/SVG">
 <img height="46" width="46" src="https://cdn.simpleicons.org/svg/4493f8" /></a>
 
-<a target="_blank" rel="noopener" title="vuejs" href="https://vuejs.org/">
+<a title="vuejs" href="https://vuejs.org/">
 <img height="46" width="46" src="https://cdn.simpleicons.org/vuedotjs/4493f8" /></a>
 
-<a target="_blank" rel="noopener" title="svelte" href="https://svelte.dev/">
+<a title="svelte" href="https://svelte.dev/">
 <img height="46" width="46" src="https://cdn.simpleicons.org/svelte/4493f8" /></a>
 
-<a target="_blank" rel="noopener" title="npm" href="https://npmjs.com/">
+<a title="npm" href="https://npmjs.com/">
 <img height="46" width="46" src="https://cdn.simpleicons.org/npm/4493f8" /></a>
 
-</div>
 
 
-<div>
-
-<a target="_blank" rel="noopener" title="git" href="https://git-scm.com">
+<a title="git" href="https://git-scm.com">
 <img height="46" width="46" src="https://cdn.simpleicons.org/git/4493f8" /></a>
 
-<a target="_blank" rel="noopener" title="linux" href="https://distrochooser.de/">
+<a title="linux" href="https://distrochooser.de/">
 <img height="46" width="46" src="https://cdn.simpleicons.org/linux/4493f8" /></a>
 
-<a target="_blank" rel="noopener" title="docker" href="https://docker.com">
+<a title="docker" href="https://docker.com">
 <img height="46" width="46" src="https://cdn.simpleicons.org/docker/4493f8" /></a>
 
-<a target="_blank" rel="noopener" title="cloudflare" href="https://cloudflare.com">
+<a title="cloudflare" href="https://cloudflare.com">
 <img height="46" width="46" src="https://cdn.simpleicons.org/cloudflare/4493f8" /></a>
 
-<a target="_blank" rel="noopener" title="aws" href="https://aws.amazon.com">
+<a title="aws" href="https://aws.amazon.com">
 <img height="46" width="46" src="https://cdn.simpleicons.org/amazonwebservices/4493f8" /></a>
 
-<a target="_blank" rel="noopener" title="google cloud" href="https://cloud.google.com">
+<a title="google cloud" href="https://cloud.google.com">
 <img height="46" width="46" src="https://cdn.simpleicons.org/googlecloud/4493f8" /></a>
 
-<a target="_blank" rel="noopener" title="dynatrace" href="https://dynatrace.com/">
+<a title="dynatrace" href="https://dynatrace.com/">
 <img height="46" width="46" src="https://cdn.simpleicons.org/dynatrace/4493f8" /></a>
 
-<a target="_blank" rel="noopener" title="grafana" href="https://grafana.com">
+<a title="grafana" href="https://grafana.com">
 <img height="46" width="46" src="https://cdn.simpleicons.org/grafana/4493f8" /></a>
 
-<a target="_blank" rel="noopener" title="googlean alytics" href="https://analytics.google.com/">
+<a title="googlean alytics" href="https://analytics.google.com/">
 <img height="46" width="46" src="https://cdn.simpleicons.org/googleanalytics/4493f8" /></a>
 
-</div>
 
 
-<div>
-
-<a target="_blank" rel="noopener" title="java" href="https://w3schools.com/java">
+<a title="java" href="https://w3schools.com/java">
 <img height="46" width="46"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" /></a>
 
-<a target="_blank" rel="noopener" title="python" href="https://python.org">
+<a title="python" href="https://python.org">
 <img height="46" width="46" src="https://cdn.simpleicons.org/python/4493f8" /></a>
 
-<a target="_blank" rel="noopener" title="c" href="https://w3schools.com/c">
+<a title="c" href="https://w3schools.com/c">
 <img height="46" width="46" src="https://cdn.simpleicons.org/c/4493f8" /></a>
 
-<a target="_blank" rel="noopener" title="wordpress" href="https://wordpress.org">
+<a title="wordpress" href="https://wordpress.org">
 <img height="46" width="46" src="https://cdn.simpleicons.org/wordpress/4493f8" /></a>
 
-<a target="_blank" rel="noopener" title="postgresql" href="https://postgresql.org">
+<a title="postgresql" href="https://postgresql.org">
 <img height="46" width="46" src="https://cdn.simpleicons.org/postgresql/4493f8" /></a>
 
-<a target="_blank" rel="noopener" title="nginx" href="https://nginx.com">
+<a title="nginx" href="https://nginx.com">
 <img height="46" width="46" src="https://cdn.simpleicons.org/nginx/4493f8" /></a>
 
 </div>
