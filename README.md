@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋🏻, I'm Lucas Menezes</h1>
-<p align="center">I'm a Senior Software Engineer from Brazil. Building Frontend solutions. Researching AI. I love Computer Science, Web APIs and travel everywhere as possible. Helping succeeded companies and developers since 2017.</p>
+<p align="center">I'm a Senior Software Engineer from Brazil. Building Frontend solutions and researching AI. I love Computer Science, Web APIs and travelling. I've been helping successful companies and developers since 2017.</p>
 
 <div align="center">
 <a target="_blank" rel="noopener" title="Bluesky" href="https://bsky.app/profile/lucasm.dev">
@@ -46,13 +46,13 @@ Markdown     2 mins          ▒░░░░░░░░░░░░░░░░
 [![css](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/docs/Web/CSS)
 [![webpack](https://skillicons.dev/icons?i=webpack)](https://webpack.js.org/)
 [![sass](https://skillicons.dev/icons?i=sass)](https://sass-lang.com/)
+[![git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+[![jest](https://skillicons.dev/icons?i=jest)](https://jestjs.io/)
 [![html](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/docs/Web/HTML)
 [![javascript](https://skillicons.dev/icons?i=javascript)](https://developer.mozilla.org/docs/Web/JavaScript)
 [![nodejs](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org)
 [![graphql](https://skillicons.dev/icons?i=graphql)](https://graphql.org/)
 [![docker](https://skillicons.dev/icons?i=docker)](https://docker.com/)
-[![git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
-[![jest](https://skillicons.dev/icons?i=jest)](https://jestjs.io/)
 [![vue](https://skillicons.dev/icons?i=vue)](https://vuejs.org/)
 [![angular](https://skillicons.dev/icons?i=angular)](https://angular.io/)
 [![java](https://skillicons.dev/icons?i=java)](https://java.com/)
@@ -76,9 +76,9 @@ Markdown     2 mins          ▒░░░░░░░░░░░░░░░░
 
 ## Achievements
 - Since 2017 developing Web Apps which impact millions of users per day, like [Globo.com](https://www.globo.com/?utm_source=lucasm.dev) and [BancoBmg.com.br](https://www.bancobmg.com.br/?utm_source=lucasm.dev)
-- In 2023, awarded the "Top JavaScript Author" badge on [DEV Community](https://dev.to/lucasm/)
-- pt-BR Technical Translator at [Microsoft](https://github.com/microsoft/) and [MDN Web Docs](https://github.com/mdn/)
-- Won 1st or top 3 place in tech events and hackathons
+- Awarded the "Top JavaScript Author" badge on [DEV Community](https://dev.to/lucasm/)
+- Translator of pt-BR on [Microsoft Open Source](https://github.com/microsoft/) and [MDN Web Docs](https://github.com/mdn/)
+- Won 1st place or top 3 in tech events and hackathons
 
 ## Open source
 My GitHub is only for open source contributions. See below 👇🏻
