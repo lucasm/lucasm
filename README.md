@@ -66,11 +66,14 @@ JSON         3 mins          ▒░░░░░░░░░░░░░░░░
 <a title="pwa" href="https://developer.mozilla.org/docs/Web/Progressive_web_apps">
 <img height="48" width="48" src="https://cdn.simpleicons.org/pwa/4493f8" /></a>
 
-<a title="graphql" href="https://graphql.org">
-<img height="48" width="48" src="https://cdn.simpleicons.org/graphql/4493f8" /></a>
-
 <a title="webpack" href="https://webpack.js.org">
 <img height="48" width="48" src="https://cdn.simpleicons.org/webpack/4493f8" /></a>
+
+<a title="storybook" href="https://storybook.js.org/">
+<img height="48" width="48" src="https://cdn.simpleicons.org/storybook/4493f8" /></a>
+
+<a title="graphql" href="https://graphql.org">
+<img height="48" width="48" src="https://cdn.simpleicons.org/graphql/4493f8" /></a>
 
 <a title="eslint" href="https://eslint.org">
 <img height="48" width="48" src="https://cdn.simpleicons.org/eslint/4493f8" /></a>
@@ -165,9 +168,9 @@ JSON         3 mins          ▒░░░░░░░░░░░░░░░░
 </details>
 
 ## Achievements
-- Since 2017 creating web apps that impact millions of users such as [Globo](https://www.globo.com/?utm_source=lucasm.dev) and [Banco Bmg](https://www.bancobmg.com.br/?utm_source=lucasm.dev)
+- Since 2017 creating web apps that impact millions of users such as [Globo.com](https://www.globo.com/?utm_source=lucasm.dev) and [BancoBmg.com.br](https://www.bancobmg.com.br/?utm_source=lucasm.dev)
 - Awarded the "Top JavaScript Author" badge on [DEV Community](https://dev.to/lucasm/)
-- Translator of pt-BR on [Microsoft](https://github.com/microsoft/) and [MDN Web Docs](https://github.com/mdn/)
+- Translator of pt-BR on [Microsoft Open Source](https://github.com/microsoft/) and [MDN Web Docs](https://github.com/mdn/)
 - Won 1st place or top 3 in tech events and hackathons
 
 ## Open source
