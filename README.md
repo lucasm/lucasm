@@ -66,6 +66,9 @@ JSON         3 mins          ▒░░░░░░░░░░░░░░░░
 <a title="pwa" href="https://developer.mozilla.org/docs/Web/Progressive_web_apps">
 <img height="48" width="48" src="https://cdn.simpleicons.org/pwa/4493f8" /></a>
 
+<a title="vite" href="https://vitejs.dev/">
+<img height="48" width="48" src="https://cdn.simpleicons.org/vite/4493f8" /></a>
+
 <a title="webpack" href="https://webpack.js.org">
 <img height="48" width="48" src="https://cdn.simpleicons.org/webpack/4493f8" /></a>
 
