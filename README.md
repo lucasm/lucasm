@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋🏻, I'm Lucas Menezes</h1>
-<p align="center">I'm a Senior Software Engineer from Brazil. Building Frontend. Researching AI. I love Computer Science, Web APIs and travelling. I've been helping successful companies and developers since 2017.</p>
+<p align="center">I'm a Senior Software Engineer from Brazil, specializing in Frontend development and AI research. I have a passion for Computer Science, Web APIs, and traveling. Since 2017, I've been supporting successful companies and developers in achieving their goals.</p>
 
 <div align="center">
 <a title="Bluesky" href="https://bsky.app/profile/lucasm.dev">
