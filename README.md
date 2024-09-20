@@ -23,7 +23,7 @@
 <p align="center"><a href="https://lucasm.dev">lucasm.dev</a></p>
 
 
-## Code stats
+## Coding stats
 
 <!--START_SECTION:waka-->
 
