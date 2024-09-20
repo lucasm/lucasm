@@ -173,7 +173,7 @@ JSON         3 mins          ▒░░░░░░░░░░░░░░░░
 ## Achievements
 - Since 2017 creating web apps that impact millions of users such as [Globo.com](https://www.globo.com/?utm_source=lucasm.dev) and [BancoBmg.com.br](https://www.bancobmg.com.br/?utm_source=lucasm.dev)
 - Awarded the "Top JavaScript Author" badge on [DEV Community](https://dev.to/lucasm/)
-- Translator of pt-BR on [Microsoft Open Source](https://github.com/microsoft/) and [MDN Web Docs](https://github.com/mdn/)
+- Translator of Brazilian portuguese on [Microsoft Open Source](https://github.com/microsoft/) and [MDN Web Docs](https://github.com/mdn/)
 - Won 1st place or top 3 in tech events and hackathons
 
 ## Open source
