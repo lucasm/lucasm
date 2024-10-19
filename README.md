@@ -1,22 +1,22 @@
 <h1 align="center">Hello 👋🏻, I'm Lucas Menezes</h1>
-<p align="center">I'm a Senior Software Engineer from Brazil, specializing in Frontend development and AI research. I have a passion for Computer Science, Web APIs, and traveling. Since 2017, I've been supporting companies and developers in achieving their goals.</p>
+<p align="center">I'm a Senior Software Engineer from Brazil, specializing in Frontend. I have a passion for Computer Science, Web APIs, and AI research. Since 2017, I've been supporting companies and developers in achieving their goals.</p>
 
 <div align="center">
 <a title="X" href="https://x.com/lucasmezs">
 <img height="28" width="28" src="https://cdn.simpleicons.org/x/4493f8" /></a>
-_
+
 <a title="Bluesky" href="https://bsky.app/profile/lucasm.dev">
 <img height="28" width="28" style="color:red;" src="https://cdn.simpleicons.org/bluesky/4493f8" /></a>
-_
+
 <a title="DEV Community" href="https://dev.to/lucasm">
 <img height="28" width="28" src="https://cdn.simpleicons.org/devdotto/4493f8" /></a>
-_
+
 <a title="Codepen" href="https://codepen.io/lucasm">
 <img height="28" width="28" src="https://cdn.simpleicons.org/codepen/4493f8" /></a>
-_
+
 <a title="LinkedIn" href="https://linkedin.com/in/lucasmezs">
 <img height="28" width="28" src="https://cdn.simpleicons.org/linkedin/4493f8" /></a>
-_
+
 <a title="LinkedIn" href="https://youtube.com/@lucasmdev">
 <img height="28" width="28" src="https://cdn.simpleicons.org/youtube/4493f8" /></a>
 </div>
