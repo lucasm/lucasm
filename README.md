@@ -183,4 +183,4 @@ JavaScript   0 secs          ░░░░░░░░░░░░░░░░░
 - Won 1st place or top 3 in tech events and hackathons
 
 ## Open source
-My GitHub is only for open source contributions. See below 👇🏻
+My GitHub is only for open source contributions 👇🏻
