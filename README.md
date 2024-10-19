@@ -170,8 +170,8 @@ JSON         7 mins          ██▒░░░░░░░░░░░░░░
 </details>
 
 ## Achievements
-- Since 2017 creating Web Apps that impact millions of users such as [Globo.com](https://www.globo.com/?utm_source=lucasm.dev) and [BancoBmg.com.br](https://www.bancobmg.com.br/?utm_source=lucasm.dev)
-- Contributor on [Microsoft Open Source](https://github.com/microsoft/) and [MDN Web Docs](https://github.com/mdn/)
+- Since 2017 creating Web Apps that impact millions of users such as [Globo](https://www.globo.com/?utm_source=lucasm.dev) and [Banco Bmg](https://www.bancobmg.com.br/?utm_source=lucasm.dev)
+- Contributor on [Microsoft](https://github.com/microsoft/) and [MDN Web Docs](https://github.com/mdn/)
 - Awarded the "Top JavaScript Author" badge on [DEV Community](https://dev.to/lucasm/)
 - Won 1st place or top 3 in tech events and hackathons
 
