@@ -1,24 +1,13 @@
 <h1 align="center">Hello 👋🏻, I'm Lucas Menezes</h1>
-<p align="center">I'm a Senior Software Engineer from Brazil. I work with Frontend development, Web APIs, AI, and Computer Science research. I've been supporting companies and developers in achieving their goals.</p>
+<p align="center">I'm a Senior Software Engineer from Brazil. I work with Frontend development, Web  APIs, AI, and Computer Science research. I love supporting companies and developers in achieving their goals!</p>
 
 <div align="center">
-<a title="X" href="https://x.com/lucasmezs">
-<img height="28" width="28" src="https://cdn.simpleicons.org/x/4493f8" /></a>
-
-<a title="Bluesky" href="https://bsky.app/profile/lucasm.dev">
-<img height="28" width="28" style="color:red;" src="https://cdn.simpleicons.org/bluesky/4493f8" /></a>
-
-<a title="DEV Community" href="https://dev.to/lucasm">
-<img height="28" width="28" src="https://cdn.simpleicons.org/devdotto/4493f8" /></a>
-
-<a title="Codepen" href="https://codepen.io/lucasm">
-<img height="28" width="28" src="https://cdn.simpleicons.org/codepen/4493f8" /></a>
-
-<a title="LinkedIn" href="https://linkedin.com/in/lucasmezs">
-<img height="28" width="28" src="https://cdn.simpleicons.org/linkedin/4493f8" /></a>
-
-<a title="LinkedIn" href="https://youtube.com/@lucasmdev">
-<img height="28" width="28" src="https://cdn.simpleicons.org/youtube/4493f8" /></a>
+<a href="https://x.com/lucasmezs">X (Twitter)</a> | 
+<a href="https://bsky.app/profile/lucasm.dev">Bluesky</a> | 
+<a href="https://dev.to/lucasm">DEV</a> | 
+<a href="https://codepen.io/lucasm">CodePen</a> | 
+<a href="https://linkedin.com/in/lucasmezs">LinkedIn</a> | 
+<a href="https://youtube.com/@lucasmdev">YouTube</a>
 </div>
 
 </br>
@@ -181,7 +170,7 @@ Other         1 min           ░░░░░░░░░░░░░░░░�
 
 ## Achievements
 - Maintainer of [Findto](https://findto.app/?utm_source=lucasm.dev)
-- Translator on [Microsoft](https://github.com/microsoft/) and [MDN Web Docs](https://github.com/mdn/)
+- Translator of pt-BR on [Microsoft](https://github.com/microsoft/) and [MDN Web Docs](https://github.com/mdn/)
 - Since 2017, developing Web Apps that impact millions of users, such as [Globo](https://www.globo.com/?utm_source=lucasm.dev) and [Banco Bmg](https://www.bancobmg.com.br/?utm_source=lucasm.dev)
 - Awarded the "Top JavaScript Author" badge on [DEV Community](https://dev.to/lucasm/) in 2023
 - Won 1st place or top 3 in tech events and hackathons
