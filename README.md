@@ -12,7 +12,7 @@
 
 </br>
 
-<p align="center"><a href="https://lucasm.dev">lucasm.dev</a></p>
+<p align="center"><a href="https://lucasm.dev/?utm_source=github">lucasm.dev</a></p>
 
 
 ## Coding stats
@@ -169,7 +169,7 @@ Other         1 min           ░░░░░░░░░░░░░░░░�
 </details>
 
 ## Achievements
-- Maintainer of [Findto](https://findto.app/?utm_source=lucasm.dev)
+- Maintainer of [Findto](https://findto.app/?utm_source=github)
 - Translator of pt-BR on [Microsoft](https://github.com/microsoft/) and [MDN Web Docs](https://github.com/mdn/)
 - Since 2017, developing Web Apps that impact millions of users, such as [Globo](https://www.globo.com/?utm_source=lucasm.dev) and [Banco Bmg](https://www.bancobmg.com.br/?utm_source=lucasm.dev)
 - Awarded the "Top JavaScript Author" badge on [DEV Community](https://dev.to/lucasm/) in 2023
