@@ -170,7 +170,7 @@ YAML          0 secs          ░░░░░░░░░░░░░░░░�
 
 ## Achievements
 - Maintainer of [Findto](https://findto.app/?utm_source=github)
-- Translator of Brazilian Portuguese on [Microsoft](https://github.com/microsoft/) and [MDN Web Docs](https://github.com/mdn/)
+- Translator on [Microsoft](https://github.com/microsoft/) and [MDN Web Docs](https://github.com/mdn/)
 - Since 2017, developing Web Apps that impact millions of users, such as [Globo](https://www.globo.com/?utm_source=lucasm.dev) and [Banco Bmg](https://www.bancobmg.com.br/?utm_source=lucasm.dev)
 - Awarded the "Top JavaScript Author" badge on [DEV](https://dev.to/lucasm/) in 2023
 - Won 1st place or top 3 in tech events and hackathons
