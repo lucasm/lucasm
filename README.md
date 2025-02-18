@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋🏻, I'm Lucas Menezes</h1>
-<p align="center">I'm a Senior Software Developer from Brazil. I work with Frontend development, Web  APIs, AI, and Computer Science research. I'm supporting companies and developers achieving their goals.</p>
+<p align="center">I'm a Senior Software Developer from Brazil. I love Frontend, Web APIs, AI, and Computer Science. I'm supporting companies and developers achieving their goals since 2017.</p>
 
 <div align="center">
 <a href="https://lucasm.dev/?utm_source=github">lucasm.dev</a> | 
@@ -171,7 +171,7 @@ YAML          0 secs          ░░░░░░░░░░░░░░░░�
 ## Achievements
 - Maintainer of [Findto](https://findto.app/?utm_source=github)
 - Translator on [Microsoft](https://github.com/microsoft/) and [MDN Web Docs](https://github.com/mdn/)
-- Since 2017, developing Web Apps that impact millions of users, such as [Globo](https://www.globo.com/?utm_source=lucasm.dev) and [Banco Bmg](https://www.bancobmg.com.br/?utm_source=lucasm.dev)
+- Developer of Web Apps that impact millions of users, such as [Globo](https://www.globo.com/?utm_source=lucasm.dev) and [Banco Bmg](https://www.bancobmg.com.br/?utm_source=lucasm.dev)
 - Awarded the "Top JavaScript Author" badge on [DEV](https://dev.to/lucasm/) in 2023
 - Won 1st place or top 3 in tech events and hackathons
 
