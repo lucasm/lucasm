@@ -1,13 +1,13 @@
 <h1 align="center">Hello 👋🏻, I'm Lucas Menezes</h1>
-<p align="center">I'm a Senior Frontend Software Engineer from Brazil. I work with Web, APIs, AI, and Computer Science. Since 2017, I’ve been helping companies and developers achieve their goals.</p>
+<p align="center">I'm a Senior Frontend Software Engineer from Brazil. I work with Web Applications, APIs and AI. Since 2017, I’ve been helping companies and developers achieve their goals.</p>
 
 <div align="center">
 <a href="https://lucasm.dev/?utm_source=github">lucasm.dev</a> | 
 <a href="https://x.com/lucasmezs">X</a> | 
 <a href="https://youtube.com/@lucasmdev">YouTube</a> | 
-<a href="https://linkedin.com/in/lucasmezs">LinkedIn</a> | 
 <a href="https://dev.to/lucasm">DEV</a> | 
-<a href="https://codepen.io/lucasm">CodePen</a>
+<a href="https://codepen.io/lucasm">CodePen</a> |
+<a href="https://linkedin.com/in/lucasmezs">LinkedIn</a> 
 </div>
 
 </br>
