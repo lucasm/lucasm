@@ -2,12 +2,7 @@
 <p align="center">I'm a Senior Frontend Software Engineer from Brazil. I work with Web Applications, AI and APIs since 2017. I’ve been helping companies and developers achieve their goals.</p>
 
 <div align="center">
-<a href="https://lucasm.dev/?utm_source=github">lucasm.dev</a> | 
-<a href="https://x.com/lucasmezs">X</a> | 
-<a href="https://youtube.com/@lucasmdev">YouTube</a> | 
-<a href="https://dev.to/lucasm">DEV</a> | 
-<a href="https://codepen.io/lucasm">CodePen</a> |
-<a href="https://linkedin.com/in/lucasmezs">LinkedIn</a> 
+<a href="https://lucasm.dev/?utm_source=github">lucasm.dev</a> 
 </div>
 
 </br>
@@ -170,7 +165,7 @@ JavaScript   0 secs          ░░░░░░░░░░░░░░░░░
 - Developed web apps with billions and millions of accesses impact, such as [Globo](https://www.globo.com/?utm_source=lucasm.dev) and [Banco Bmg](https://www.bancobmg.com.br/?utm_source=lucasm.dev)
 - Creator of [Findto](https://findto.app/?utm_source=github)
 - Translator on [Microsoft Open Source](https://github.com/microsoft/) and [MDN Web Docs](https://github.com/mdn/)
-- Awarded the "Top JavaScript Author" badge on [DEV](https://dev.to/lucasm/) in 2023
+- Awarded the "Top JavaScript Author" badge on [DEV Community](https://dev.to/lucasm/) in 2023
 - Won 1st place or top 3 in tech events and hackathons
 
 ## Open source
