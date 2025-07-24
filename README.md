@@ -167,7 +167,7 @@ JavaScript   0 secs          ░░░░░░░░░░░░░░░░░
 </details>
 
 ## Achievements
-- Developed Web Applications that impact millions of users, such as [Globo](https://www.globo.com/?utm_source=lucasm.dev) and [Banco Bmg](https://www.bancobmg.com.br/?utm_source=lucasm.dev)
+- Developed web applications with billions of accesses, such as  [Globo](https://www.globo.com/?utm_source=lucasm.dev) and [Banco Bmg](https://www.bancobmg.com.br/?utm_source=lucasm.dev)
 - Creator of [Findto](https://findto.app/?utm_source=github)
 - Translator on [Microsoft Open Source](https://github.com/microsoft/) and [MDN Web Docs](https://github.com/mdn/)
 - Awarded the "Top JavaScript Author" badge on [DEV](https://dev.to/lucasm/) in 2023
