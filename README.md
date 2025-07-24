@@ -44,14 +44,14 @@ JavaScript   0 secs          ░░░░░░░░░░░░░░░░░
 <a title="javascript" href="https://developer.mozilla.org/docs/Web/JavaScript">
 <img height="48" width="48" src="https://cdn.simpleicons.org/javascript/4493f8" /></a>
 
-<a target="_blank" rel="nodejs" title="nodejs" href="https://nodejs.org">
-<img height="48" width="48" src="https://cdn.simpleicons.org/nodedotjs/4493f8" /></a>
-
 <a title="css" href="https://developer.mozilla.org/docs/Web/CSS">
-<img height="48" width="48" src="https://cdn.simpleicons.org/css3/4493f8" /></a>
+<img height="48" width="48" src="https://cdn.simpleicons.org/css/4493f8" /></a>
 
 <a title="html" href="https://developer.mozilla.org/docs/Web/HTML">
 <img height="48" width="48" src="https://cdn.simpleicons.org/html5/4493f8" /></a>
+
+<a target="_blank" rel="nodejs" title="nodejs" href="https://nodejs.org">
+<img height="48" width="48" src="https://cdn.simpleicons.org/nodedotjs/4493f8" /></a>
 
 <a title="react" href="https://react.dev">
 <img height="48" width="48" src="https://cdn.simpleicons.org/react/4493f8" /></a>
@@ -59,11 +59,11 @@ JavaScript   0 secs          ░░░░░░░░░░░░░░░░░
 <a title="nextjs" href="https://nextjs.org">
 <img height="48" width="48" src="https://cdn.simpleicons.org/nextdotjs/4493f8" /></a>
 
-<a title="pwa" href="https://developer.mozilla.org/docs/Web/Progressive_web_apps">
-<img height="48" width="48" src="https://cdn.simpleicons.org/pwa/4493f8" /></a>
-
 <a title="vite" href="https://vitejs.dev/">
 <img height="48" width="48" src="https://cdn.simpleicons.org/vite/4493f8" /></a>
+
+<a title="pwa" href="https://developer.mozilla.org/docs/Web/Progressive_web_apps">
+<img height="48" width="48" src="https://cdn.simpleicons.org/pwa/4493f8" /></a>
 
 <a title="webpack" href="https://webpack.js.org">
 <img height="48" width="48" src="https://cdn.simpleicons.org/webpack/4493f8" /></a>
@@ -122,7 +122,7 @@ JavaScript   0 secs          ░░░░░░░░░░░░░░░░░
 <img height="48" width="48" src="https://lucasm.dev/icon-azure.svg" /></a>
 
 <a title="aws" href="https://aws.amazon.com">
-<img height="48" width="48" src="https://cdn.simpleicons.org/amazonwebservices/4493f8" /></a>
+<img height="48" width="48" src="https://cdn.simpleicons.org/amazon-web-services/4493f8" /></a>
 
 <a title="google cloud" href="https://cloud.google.com">
 <img height="48" width="48" src="https://cdn.simpleicons.org/googlecloud/4493f8" /></a>
@@ -167,7 +167,7 @@ JavaScript   0 secs          ░░░░░░░░░░░░░░░░░
 </details>
 
 ## Achievements
-- Developed web applications with billions of accesses, such as  [Globo](https://www.globo.com/?utm_source=lucasm.dev) and [Banco Bmg](https://www.bancobmg.com.br/?utm_source=lucasm.dev)
+- Developed web apps with billions and millions of accesses impact, such as [Globo](https://www.globo.com/?utm_source=lucasm.dev) and [Banco Bmg](https://www.bancobmg.com.br/?utm_source=lucasm.dev)
 - Creator of [Findto](https://findto.app/?utm_source=github)
 - Translator on [Microsoft Open Source](https://github.com/microsoft/) and [MDN Web Docs](https://github.com/mdn/)
 - Awarded the "Top JavaScript Author" badge on [DEV](https://dev.to/lucasm/) in 2023
