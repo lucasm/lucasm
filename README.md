@@ -167,4 +167,4 @@ Jest Snapshot   1 min           ░░░░░░░░░░░░░░░░
 - Won top 3 places in some tech events and hackathons
 
 ## Open source
-My GitHub is only for open source code 👇🏻
+Due to contractual reasons, my GitHub is limited to open-source code only.
