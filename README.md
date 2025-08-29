@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋🏻, I'm Lucas Menezes</h1>
-<p align="center">I'm a Senior Frontend Software Engineer from Brazil, helping companies and developers achieve their goals.</p>
+<p align="center">Senior Frontend Engineer from Brazil, helping companies and developers reach their goals.</p>
 
 <div align="center">
 <a href="https://lucasm.dev/?utm_source=github">lucasm.dev</a> 
