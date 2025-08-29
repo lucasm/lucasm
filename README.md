@@ -160,11 +160,11 @@ Jest Snapshot   1 min           ░░░░░░░░░░░░░░░░
 </details>
 
 ## Achievements
-- Developed web apps with billions and millions of accesses impact, such as [Globo](https://www.globo.com/?utm_source=lucasm.dev) and [Banco Bmg](https://www.bancobmg.com.br/?utm_source=lucasm.dev)
+- Developed web apps with billions and millions of accesses, such as [Globo](https://www.globo.com/?utm_source=lucasm.dev) and [Banco Bmg](https://www.bancobmg.com.br/?utm_source=lucasm.dev)
 - Creator of [Findto](https://findto.app/?utm_source=github)
 - Translator on [Microsoft Open Source](https://github.com/microsoft/) and [MDN Web Docs](https://github.com/mdn/)
 - Awarded the "Top JavaScript Author" badge on [DEV Community](https://dev.to/lucasm/) in 2023
-- Won 1st place or top 3 in tech events and hackathons
+- Won top 3 places in some tech events and hackathons
 
 ## Open source
 My GitHub is only for open source code 👇🏻
