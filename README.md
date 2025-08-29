@@ -167,4 +167,4 @@ Jest Snapshot   1 min           ░░░░░░░░░░░░░░░░
 - Won top 3 places in some tech events and hackathons
 
 ## Open source
-Due to contractual reasons, my GitHub is limited to open-source code only.
+Due to contractual reasons, my GitHub is limited to open source code only.
