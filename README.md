@@ -1,14 +1,67 @@
-<h1 align="center">Hello 👋🏻, I'm Lucas Menezes</h1>
-<p align="center">Senior Frontend Engineer from Brazil, helping companies and developers reach their goals.</p>
+<h1>Hello 👋🏻, I'm Lucas Menezes </h1>
 
-<div align="center">
-<a href="https://lucasm.dev/?utm_source=github">lucasm.dev</a> 
-</div>
+<p>
+Tech Lead & Frontend Specialist Software Engineer based in Brazil, with strong experience building and leading
+high-scale, mission-critical web platforms in the financial and media sectors.
+</p>
 
-</br>
+<p>
+I specialize in Frontend Architecture, Design Systems, React & Next.js ecosystems, accessibility, performance,
+and scalable engineering practices — helping teams and products grow sustainably.
+</p>
 
+<ul>
+  <li>
+    More about me on 
+    <a href="https://lucasm.dev/?utm_source=github" target="_blank" rel="noopener noreferrer">
+      lucasm.dev
+    </a>
+  </li>
 
-## Coding stats
+  <li>
+    Tech Lead & Frontend Specialist at 
+    <a href="https://www.bancobmg.com.br/?utm_source=lucasm.dev" target="_blank" rel="noopener noreferrer">
+      Banco Bmg
+    </a>, working on large-scale banking platforms, core products, and frontend governance
+  </li>
+
+  <li>
+    Contributed to and developed high-traffic web applications with millions to billions of users, including 
+    <a href="https://www.globo.com/?utm_source=lucasm.dev" target="_blank" rel="noopener noreferrer">
+      Globo
+    </a>
+  </li>
+
+  <li>
+    Creator and maintainer of the open-source project 
+    <a href="https://findto.app/?utm_source=github" target="_blank" rel="noopener noreferrer">
+      Findto
+    </a>
+  </li>
+
+  <li>
+    Open-source contributor and translator for 
+    <a href="https://github.com/microsoft/" target="_blank" rel="noopener noreferrer">
+      Microsoft Open Source
+    </a> and 
+    <a href="https://github.com/mdn/" target="_blank" rel="noopener noreferrer">
+      MDN Web Docs
+    </a>
+  </li>
+
+  <li>
+    Awarded <strong>"Top JavaScript Author"</strong> on 
+    <a href="https://dev.to/lucasm/" target="_blank" rel="noopener noreferrer">
+      DEV Community
+    </a> (2023)
+  </li>
+
+  <li>
+    Top 3 finalist in multiple hackathons and technology competitions
+  </li>
+</ul>
+
+### Stack
 
 <!--START_SECTION:waka-->
 
@@ -17,147 +70,50 @@ No activity tracked
 ```
 
 <!--END_SECTION:waka-->
-
-<details>
-<summary><strong>&nbsp;&nbsp;Technology stack</strong></summary>
-</br>
-
-<div>
   
-<a title="typescript" href="https://typescriptlang.org">
-<img height="48" width="48" src="https://cdn.simpleicons.org/typescript/4493f8" /></a>
-
-<a title="javascript" href="https://developer.mozilla.org/docs/Web/JavaScript">
-<img height="48" width="48" src="https://cdn.simpleicons.org/javascript/4493f8" /></a>
-
-<a title="css" href="https://developer.mozilla.org/docs/Web/CSS">
-<img height="48" width="48" src="https://cdn.simpleicons.org/css/4493f8" /></a>
-
-<a title="html" href="https://developer.mozilla.org/docs/Web/HTML">
-<img height="48" width="48" src="https://cdn.simpleicons.org/html5/4493f8" /></a>
-
-<a target="_blank" rel="nodejs" title="nodejs" href="https://nodejs.org">
-<img height="48" width="48" src="https://cdn.simpleicons.org/nodedotjs/4493f8" /></a>
-
-<a title="react" href="https://react.dev">
-<img height="48" width="48" src="https://cdn.simpleicons.org/react/4493f8" /></a>
-
-<a title="nextjs" href="https://nextjs.org">
-<img height="48" width="48" src="https://cdn.simpleicons.org/nextdotjs/4493f8" /></a>
-
-<a title="vite" href="https://vitejs.dev/">
-<img height="48" width="48" src="https://cdn.simpleicons.org/vite/4493f8" /></a>
-
-<a title="pwa" href="https://developer.mozilla.org/docs/Web/Progressive_web_apps">
-<img height="48" width="48" src="https://cdn.simpleicons.org/pwa/4493f8" /></a>
-
-<a title="webpack" href="https://webpack.js.org">
-<img height="48" width="48" src="https://cdn.simpleicons.org/webpack/4493f8" /></a>
-
-<a title="storybook" href="https://storybook.js.org/">
-<img height="48" width="48" src="https://cdn.simpleicons.org/storybook/4493f8" /></a>
-
-<a title="graphql" href="https://graphql.org">
-<img height="48" width="48" src="https://cdn.simpleicons.org/graphql/4493f8" /></a>
-
-<a title="eslint" href="https://eslint.org">
-<img height="48" width="48" src="https://cdn.simpleicons.org/eslint/4493f8" /></a>
-
-<a title="jest" href="https://jestjs.io">
-<img height="48" width="48" src="https://cdn.simpleicons.org/jest/4493f8" /></a>
-
-<a title="testing library" href="https://testing-library.com/">
-<img height="48" width="48" src="https://cdn.simpleicons.org/testinglibrary/4493f8" /></a>
-
-<a title="sass" href="https://sass-lang.com">
-<img height="48" width="48" src="https://cdn.simpleicons.org/sass/4493f8" /></a>
-
-<a title="styled-components" href="https://styled-components.com">
-<img height="48" width="48" src="https://cdn.simpleicons.org/styledcomponents/4493f8" /></a>
-
-<a title="svg" href="https://developer.mozilla.org/docs/Web/SVG">
-<img height="48" width="48" src="https://cdn.simpleicons.org/svg/4493f8" /></a>
-
-<a title="vuejs" href="https://vuejs.org/">
-<img height="48" width="48" src="https://cdn.simpleicons.org/vuedotjs/4493f8" /></a>
-
-<a title="svelte" href="https://svelte.dev/">
-<img height="48" width="48" src="https://cdn.simpleicons.org/svelte/4493f8" /></a>
-
-<a title="npm" href="https://npmjs.com/">
-<img height="48" width="48" src="https://cdn.simpleicons.org/npm/4493f8" /></a>
-
-<a title="yarn" href="https://yarnpkg.com/">
-<img height="48" width="48" src="https://cdn.simpleicons.org/yarn/4493f8" /></a>
+  
+<a href="https://typescriptlang.org">TypeScript</a>
+<a href="https://developer.mozilla.org/docs/Web/JavaScript">JavaScript</a>
+<a href="https://developer.mozilla.org/docs/Web/CSS">CSS</a>
+<a href="https://developer.mozilla.org/docs/Web/HTML">HTML</a>
+<a href="https://nodejs.org">Node.js</a>
+<a href="https://react.dev">React</a>
+<a href="https://nextjs.org">Next.js</a>
+<a href="https://vitejs.dev/">Vite</a>
+<a href="https://developer.mozilla.org/docs/Web/Progressive_web_apps">PWA</a>
+<a href="https://webpack.js.org">Webpack</a>
+<a href="https://storybook.js.org/">Storybook</a>
+<a href="https://graphql.org">GraphQL</a>
+<a href="https://eslint.org">ESLint</a>
+<a href="https://jestjs.io">Jest</a>
+<a href="https://testing-library.com/">Testing Library</a>
+<a href="https://sass-lang.com">Sass</a>
+<a href="https://styled-components.com">Styled Components</a>
+<a href="https://developer.mozilla.org/docs/Web/SVG">SVG</a>
+<a href="https://vuejs.org/">Vue.js</a>
+<a href="https://svelte.dev/">Svelte</a>
+<a href="https://npmjs.com/">npm</a>
+<a href="https://yarnpkg.com/">Yarn</a>
+<a href="https://git-scm.com">Git</a>
+<a href="https://distrochooser.de/">Linux</a>
+<a href="https://docker.com">Docker</a>
+<a href="https://cloudflare.com">Cloudflare</a>
+<a href="https://azure.microsoft.com/products/devops">Azure DevOps</a>
+<a href="https://aws.amazon.com">AWS</a>
+<a href="https://cloud.google.com">Google Cloud</a>
+<a href="https://dynatrace.com/">Dynatrace</a>
+<a href="https://grafana.com">Grafana</a>
+<a href="https://analytics.google.com/">Google Analytics</a>
+<a href="https://wordpress.org">WordPress</a>
+<a href="https://postgresql.org">PostgreSQL</a>
+<a href="https://java.com">Java</a>
+<a href="https://python.org">Python</a>
+<a href="https://w3schools.com/c">C</a>
+<a href="https://nginx.com">Nginx</a>
+<a href="https://chat">ChatGPT</a>
+<a href="https://github.com/features/copilot">GitHub Copilot</a>
 
 
+### Open source
 
-<a title="git" href="https://git-scm.com">
-<img height="48" width="48" src="https://cdn.simpleicons.org/git/4493f8" /></a>
-
-<a title="linux" href="https://distrochooser.de/">
-<img height="48" width="48" src="https://cdn.simpleicons.org/linux/4493f8" /></a>
-
-<a title="docker" href="https://docker.com">
-<img height="48" width="48" src="https://cdn.simpleicons.org/docker/4493f8" /></a>
-
-<a title="cloudflare" href="https://cloudflare.com">
-<img height="48" width="48" src="https://cdn.simpleicons.org/cloudflare/4493f8" /></a>
-
-<a title="azure devops" href="https://azure.microsoft.com/products/devops">
-<img height="48" width="48" src="https://lucasm.dev/icon-azure.svg" /></a>
-
-<a title="aws" href="https://aws.amazon.com">
-<img height="48" width="48" src="https://cdn.simpleicons.org/amazon-web-services/4493f8" /></a>
-
-<a title="google cloud" href="https://cloud.google.com">
-<img height="48" width="48" src="https://cdn.simpleicons.org/googlecloud/4493f8" /></a>
-
-<a title="dynatrace" href="https://dynatrace.com/">
-<img height="48" width="48" src="https://cdn.simpleicons.org/dynatrace/4493f8" /></a>
-
-<a title="grafana" href="https://grafana.com">
-<img height="48" width="48" src="https://cdn.simpleicons.org/grafana/4493f8" /></a>
-
-<a title="google analytics" href="https://analytics.google.com/">
-<img height="48" width="48" src="https://cdn.simpleicons.org/googleanalytics/4493f8" /></a>
-
-
-
-<a title="wordpress" href="https://wordpress.org">
-<img height="48" width="48" src="https://cdn.simpleicons.org/wordpress/4493f8" /></a>
-
-<a title="postgresql" href="https://postgresql.org">
-<img height="48" width="48" src="https://cdn.simpleicons.org/postgresql/4493f8" /></a>
-
-<a title="java" href="https://java.com">
-<img height="48" width="48"  src="https://lucasm.dev/icon-java.svg" /></a>
-
-<a title="python" href="https://python.org">
-<img height="48" width="48" src="https://cdn.simpleicons.org/python/4493f8" /></a>
-
-<a title="c" href="https://w3schools.com/c">
-<img height="48" width="48" src="https://cdn.simpleicons.org/c/4493f8" /></a>
-
-<a title="nginx" href="https://nginx.com">
-<img height="48" width="48" src="https://cdn.simpleicons.org/nginx/4493f8" /></a>
-
-<a title="openai" href="https://openai.com">
-<img height="48" width="48" src="https://cdn.simpleicons.org/openai/4493f8" /></a>
-
-<a title="github copilot" href="https://github.com/features/copilot">
-<img height="48" width="48" src="https://cdn.simpleicons.org/githubcopilot/4493f8" /></a>
-
-</div>
-
-</details>
-
-## Achievements
-- Developed web apps with billions and millions of accesses, such as [Globo](https://www.globo.com/?utm_source=lucasm.dev) and [Banco Bmg](https://www.bancobmg.com.br/?utm_source=lucasm.dev)
-- Creator of [Findto](https://findto.app/?utm_source=github)
-- Translator on [Microsoft Open Source](https://github.com/microsoft/) and [MDN Web Docs](https://github.com/mdn/)
-- Awarded the "Top JavaScript Author" badge on [DEV Community](https://dev.to/lucasm/) in 2023
-- Won top 3 places in some tech events and hackathons
-
-## Open source
 Due to contractual reasons, my GitHub is limited to open source code only.
