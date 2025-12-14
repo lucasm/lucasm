@@ -50,7 +50,7 @@ and scalable engineering practices — helping teams and products grow sustainab
   </li>
 
   <li>
-    Awarded <strong>"Top JavaScript Author"</strong> on 
+    Awarded "Top JavaScript Authors" badge on 
     <a href="https://dev.to/lucasm/" target="_blank" rel="noopener noreferrer">
       DEV Community
     </a> (2023)
