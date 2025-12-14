@@ -32,13 +32,6 @@ and scalable engineering practices — helping teams and products grow sustainab
   </li>
 
   <li>
-    Creator and maintainer of the open-source project 
-    <a href="https://findto.app/?utm_source=github" target="_blank" rel="noopener noreferrer">
-      Findto
-    </a>
-  </li>
-
-  <li>
     Open-source contributor and translator for 
     <a href="https://github.com/mdn/" target="_blank" rel="noopener noreferrer">
       MDN Web Docs
