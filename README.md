@@ -21,12 +21,11 @@ and scalable engineering practices — helping teams and products grow sustainab
   <li>
     Tech Lead & Frontend Specialist at 
     <a href="https://www.bancobmg.com.br/?utm_source=lucasm.dev" target="_blank" rel="noopener noreferrer">
-      Banco Bmg
-    </a>, working on large-scale banking platforms, core products, and frontend governance
+      Banco Bmg</a>, working on large-scale banking platform, core products, and frontend governance
   </li>
 
   <li>
-    Contributed to and developed high-traffic web applications with millions to billions of users, including 
+    Contributed to and developed high-traffic web applications with millions of users, like 
     <a href="https://www.globo.com/?utm_source=lucasm.dev" target="_blank" rel="noopener noreferrer">
       Globo
     </a>
@@ -41,11 +40,12 @@ and scalable engineering practices — helping teams and products grow sustainab
 
   <li>
     Open-source contributor and translator for 
-    <a href="https://github.com/microsoft/" target="_blank" rel="noopener noreferrer">
-      Microsoft Open Source
-    </a> and 
     <a href="https://github.com/mdn/" target="_blank" rel="noopener noreferrer">
       MDN Web Docs
+    </a>
+    and 
+    <a href="https://github.com/microsoft/" target="_blank" rel="noopener noreferrer">
+      Microsoft Open Source
     </a>
   </li>
 
