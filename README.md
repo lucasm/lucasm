@@ -1,8 +1,8 @@
 <h1>Hello 👋🏻, I'm Lucas Menezes </h1>
 
 <p>
-Tech Lead & Frontend Specialist Software Engineer based in Brazil, with strong experience building and leading
-high-scale, mission-critical web platforms in the financial and media sectors.
+Tech Lead & Frontend Specialist Software Engineer based in Brazil. Strong experience building and leading
+high-scale, mission-critical web platforms in the financial and media sectors
 </p>
 
 <p>
