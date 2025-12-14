@@ -57,7 +57,7 @@ and scalable engineering practices — helping teams and products grow sustainab
   </li>
 
   <li>
-    Top 3 finalist in multiple hackathons and technology competitions
+    Top 3 finalist in some hackathons and technology competitions
   </li>
 </ul>
 
