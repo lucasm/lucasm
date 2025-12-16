@@ -59,7 +59,10 @@ and scalable engineering practices — helping teams and products grow sustainab
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+TypeScript   36 mins         ███████████████▒░░░░░░░░░   60.83 %
+CSS          17 mins         ███████▒░░░░░░░░░░░░░░░░░   28.71 %
+JSON         4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 %
+TSConfig     1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
 ```
 
 <!--END_SECTION:waka-->
