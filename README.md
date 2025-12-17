@@ -2,7 +2,8 @@
 
 **Tech Lead & Frontend Software Specialist, based in Brazil.**
 
-Strong experience building and leading mission-critical, large-scale web platforms used by millions of users in the financial and media sectors. I specialize in Frontend Architecture, Design Systems, the React ecosystem, Accessibility, Performance, and scalable engineering practices — helping teams and products grow sustainably.
+Strong experience building and leading mission-critical, large-scale web applications and platforms used by millions of users daily and handling billions of BRL in transactions per day. I specialize in Frontend Architecture, Design Systems, the React ecosystem, Accessibility, Performance, and scalable engineering practices — helping teams and products grow sustainably.
+
 
 
 ### 🚀 Projects 
@@ -40,7 +41,7 @@ Strong experience building and leading mission-critical, large-scale web platfor
   </li>
 </ul>
 
-### 🏦 Featured Enterprise Experience
+### 🏢 Featured Enterprise Experience
 
   <ul>
 
