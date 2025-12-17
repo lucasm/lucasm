@@ -53,7 +53,7 @@ Strong experience building and leading mission-critical, large-scale web applica
   <li> 🔵
     <a href="https://www.globo.com/?utm_source=lucasm.dev" target="_blank" rel="noopener noreferrer">
       Globo
-    </a> — Developed high-traffic web application with millions of users/day 
+    </a> — Developed high-traffic content portal with millions of users/day 
   </li>
  
 </ul>
@@ -75,7 +75,7 @@ Strong experience building and leading mission-critical, large-scale web applica
   <li> ⚫️
     <a href="https://dev.to/lucasm/" target="_blank" rel="noopener noreferrer">
       DEV 
-    </a> — Awarded "Top JavaScript Authors" badge in 2023
+    </a> — Awarded "Top JavaScript Author" badge in 2023
   </li>
 
   </ul>
