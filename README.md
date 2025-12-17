@@ -63,10 +63,12 @@ Strong experience building and leading mission-critical, large-scale web platfor
   <li> ⚪️
     <a href="https://github.com/mdn/" target="_blank" rel="noopener noreferrer">
       Mozilla 
-    </a> ⚪️
-    <a href="https://github.com/microsoft/" target="_blank" rel="noopener noreferrer">
+    </a>  — Open source contributor 
+  </li>
+   <li> ⚪️
+  <a href="https://github.com/microsoft/" target="_blank" rel="noopener noreferrer">
      Microsoft
-    </a>  — Open source contributor & translator
+    </a>  — Translator
   </li>
 
   <li> ⚫️
@@ -78,10 +80,9 @@ Strong experience building and leading mission-critical, large-scale web platfor
   </ul>
 
   
-Due to contractual reasons, this GitHub profile is limited to open-source projects only.
-
-  
 ### 📊 Open Source Coding Stats
+
+Due to contractual reasons, this GitHub profile is limited to open-source projects only.
 
 <!--START_SECTION:waka-->
 
