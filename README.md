@@ -2,9 +2,7 @@
 
 **Tech Lead & Frontend Software Specialist, based in Brazil.**
 
-Strong experience building and leading mission-critical, large-scale web applications and platforms used by millions of users daily and handling billions of BRL in transactions per day. I specialize in Frontend Architecture, Design Systems, the React ecosystem, Accessibility, Performance, and scalable engineering practices — helping teams and products grow sustainably.
-
-
+Strong experience building and leading mission-critical, large-scale web applications and platforms used by millions of users and handling millions of BRL in daily transactions. I specialize in Frontend Architecture, Design Systems, the React ecosystem, Accessibility, Performance, and scalable engineering practices — helping teams and products grow sustainably.
 
 ### 🚀 Projects 
 
@@ -47,13 +45,13 @@ Strong experience building and leading mission-critical, large-scale web applica
 
   <li> 🟠 
     <a href="https://www.bancobmg.com.br/?utm_source=lucasm.dev" target="_blank" rel="noopener noreferrer">
-      Banco Bmg</a> — Tech Lead & Frontend Specialist working on large-scale core banking products platform
+      Banco Bmg</a> — Tech Lead & Frontend Specialist working on large-scale banking platform of core products
   </li>
 
   <li> 🔵
     <a href="https://www.globo.com/?utm_source=lucasm.dev" target="_blank" rel="noopener noreferrer">
       Globo
-    </a> — Developed high-traffic content portal with millions of users/day 
+    </a> — Developed high-traffic web content portal with millions of users/day 
   </li>
  
 </ul>
