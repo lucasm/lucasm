@@ -4,7 +4,7 @@
 
 Strong experience building and leading mission-critical, large-scale web applications and platforms used by millions of users and handling millions of BRL in daily transactions. 
 
-I specialize in Frontend Architecture, Design Systems, the React ecosystem, Accessibility, Performance, and scalable engineering practices, helping teams and products grow sustainably
+I specialize in Frontend Architecture, Design Systems, the React ecosystem, Accessibility, Performance, and scalable engineering practices, helping teams and products grow sustainably.
 
 ### Featured Projects 
 
@@ -58,7 +58,7 @@ I specialize in Frontend Architecture, Design Systems, the React ecosystem, Acce
  
 </ul>
 
-### Open Source
+### Contributions to the Open Source Community  
   <ul>
 
   <li> 🟢
@@ -81,7 +81,7 @@ I specialize in Frontend Architecture, Design Systems, the React ecosystem, Acce
   </ul>
 
   
-### Open Source Stats
+### Open Source Code Stats
 
 Due to contractual reasons, this GitHub profile is limited to open-source projects only.
 
@@ -97,7 +97,7 @@ JavaScript   1 min           ░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-### Open Source Stack
+### Open Source Tech Stack
   
 <!-- Core Languages -->
 <a href="https://www.typescriptlang.org/">TypeScript</a> ·
