@@ -2,9 +2,11 @@
 
 **Tech Lead & Frontend Software Specialist, based in Brazil.**
 
-Strong experience building and leading mission-critical, large-scale web applications and platforms used by millions of users and handling millions of BRL in daily transactions. I specialize in Frontend Architecture, Design Systems, the React ecosystem, Accessibility, Performance, and scalable engineering practices — helping teams and products grow sustainably.
+Strong experience building and leading mission-critical, large-scale web applications and platforms used by millions of users and handling millions of BRL in daily transactions. 
 
-### 🚀 Projects 
+I specialize in Frontend Architecture, Design Systems, the React ecosystem, Accessibility, Performance, and scalable engineering practices, helping teams and products grow sustainably
+
+### Featured Projects 
 
 <ul>
   <li> 🟡 
@@ -39,30 +41,30 @@ Strong experience building and leading mission-critical, large-scale web applica
   </li>
 </ul>
 
-### 🏢 Featured Enterprise Experience
+### Featured Enterprise Experience
 
   <ul>
 
   <li> 🟠 
     <a href="https://www.bancobmg.com.br/?utm_source=lucasm.dev" target="_blank" rel="noopener noreferrer">
-      Banco Bmg</a> — Tech Lead & Frontend Specialist working on large-scale banking platform of core products
+      Banco Bmg</a> — Tech Lead & Frontend Specialist leading the modernization of a large-scale core banking platform, supporting core financial products and processing millions of BRL in daily transactions
   </li>
 
   <li> 🔵
     <a href="https://www.globo.com/?utm_source=lucasm.dev" target="_blank" rel="noopener noreferrer">
       Globo
-    </a> — Developed high-traffic web content portal with millions of users/day 
+    </a> — Developed accessibility resources for Brazil’s largest web content portal, consistently ranking among the country’s top 3 most accessed websites, serving millions of users daily 
   </li>
  
 </ul>
 
-### 🌎 Open Source & Community
+### Open Source
   <ul>
 
-  <li> ⚪️
+  <li> 🟢
     <a href="https://github.com/mdn/" target="_blank" rel="noopener noreferrer">
       Mozilla 
-    </a>  — Open source contributor 
+    </a>  — Contributor 
   </li>
    <li> ⚪️
   <a href="https://github.com/microsoft/" target="_blank" rel="noopener noreferrer">
@@ -79,7 +81,7 @@ Strong experience building and leading mission-critical, large-scale web applica
   </ul>
 
   
-### 📊 Open Source Coding Stats
+### Open Source Stats
 
 Due to contractual reasons, this GitHub profile is limited to open-source projects only.
 
@@ -95,7 +97,7 @@ JavaScript   1 min           ░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-### 🧰 Open Source Tech Stack
+### Open Source Stack
   
 <!-- Core Languages -->
 <a href="https://www.typescriptlang.org/">TypeScript</a> ·
