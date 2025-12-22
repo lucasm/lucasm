@@ -88,11 +88,11 @@ Due to contractual reasons, this GitHub profile is limited to open-source projec
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   2 hrs 43 mins   ███████████████████░░░░░░   76.04 %
-CSS          34 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.18 %
-JSON         13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.35 %
-TSConfig     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
-JavaScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
+TypeScript   2 hrs 51 mins   ██████████████████░░░░░░░   72.47 %
+CSS          45 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.28 %
+JSON         16 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.96 %
+TSConfig     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
+JavaScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
 ```
 
 <!--END_SECTION:waka-->
