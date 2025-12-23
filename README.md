@@ -1,8 +1,8 @@
 # Hello 👋🏻, I'm Lucas Maués
 
-**Tech Lead, Specialist, and Senior Frontend Software Engineer, based in Brazil 🇧🇷**
+**Tech Lead & Frontend Software Specialist, based in Brazil 🇧🇷**
 
-Leading high-impact, mission-critical web platforms at scale since 2017, processing millions of users and BRL transactions daily.
+Leading high-impact, mission-critical web platforms at scale since 2017, serving millions of users and processing millions of BRL in daily transactions.
 
 ### Featured Projects 
 
@@ -40,7 +40,7 @@ Leading high-impact, mission-critical web platforms at scale since 2017, process
 </ul>
 
 
-### Featured Enterprise
+### Featured Enterprise Experience
 
   <ul>
 
@@ -74,7 +74,7 @@ Leading high-impact, mission-critical web platforms at scale since 2017, process
   <li> ⚫️
     <a href="https://dev.to/lucasm/" target="_blank" rel="noopener noreferrer">
       DEV 
-    </a> — Writter, awarded "Top JavaScript Author" badge
+    </a> — Writer, awarded <i>Top JavaScript Author</i> badge
   </li>
 
   </ul>
@@ -153,4 +153,4 @@ TSConfig      0 secs          ░░░░░░░░░░░░░░░░�
 
 </details>
 
-Due to contractual reasons, my GitHub profile is limited to open source and public projects only.
+Due to contractual reasons, this GitHub profile is only for open source and public projects.
