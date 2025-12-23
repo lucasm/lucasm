@@ -88,11 +88,15 @@ Due to contractual reasons, this GitHub profile is limited to open-source projec
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   2 hrs 51 mins   ██████████████████░░░░░░░   72.47 %
-CSS          45 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.28 %
-JSON         16 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.96 %
-TSConfig     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
-JavaScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+TypeScript    2 hrs 21 mins   ██████████████▒░░░░░░░░░░   57.39 %
+Markdown      48 mins         █████░░░░░░░░░░░░░░░░░░░░   19.85 %
+CSS           28 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.57 %
+JSON          22 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.06 %
+Image (svg)   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
+JavaScript    1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
+HTML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+Text          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+TSConfig      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
