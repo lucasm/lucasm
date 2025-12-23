@@ -2,7 +2,7 @@
 
 **Tech Lead & Frontend Software Specialist, based in Brazil 🇧🇷**
 
-Leading high-impact, mission-critical web platforms at scale since 2017, serving millions of users and processing millions of BRL in daily transactions.
+Leading high-impact, mission-critical web platforms at scale since 2017.
 
 ### Featured Projects 
 
