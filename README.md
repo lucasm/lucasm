@@ -10,7 +10,7 @@ Leading high-impact, mission-critical web platforms at scale since 2017, serving
   <li> 🟡 
     <a href="https://lucasm.dev/?utm_source=github" target="_blank" rel="noopener noreferrer">
       Lucas Maués
-    </a> — More about me
+    </a> — My website
   </li>
   <li> 🟠
     <a href="https://talito.com.br/" target="_blank" rel="noopener noreferrer">
