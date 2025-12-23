@@ -12,15 +12,15 @@ Leading high-impact, mission-critical web platforms at scale since 2017, serving
       Lucas Maués
     </a> — My website
   </li>
-  <li> 🟠
-    <a href="https://talito.com.br/" target="_blank" rel="noopener noreferrer">
-      Talito 
-    </a> — AI-powered financial intelligence
-  </li>
   <li> 🔵 
     <a href="https://findto.app/" target="_blank" rel="noopener noreferrer">
       Findto
     </a> — Decentralized search assistant
+  </li>
+    <li> 🟠
+    <a href="https://talito.com.br/" target="_blank" rel="noopener noreferrer">
+      Talito 
+    </a> — AI-powered financial intelligence
   </li>
   <li> 🟢
     <a href="https://checktest.dev/" target="_blank" rel="noopener noreferrer">
