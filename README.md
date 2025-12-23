@@ -46,7 +46,7 @@ Leading high-impact, mission-critical web platforms at scale since 2017.
 
   <li> 🟠 
     <a href="https://www.bancobmg.com.br/?utm_source=lucasm.dev" target="_blank" rel="noopener noreferrer">
-      Banco Bmg</a> — Banking platform of core financial products, processing millions of BRL in daily transactions
+      Banco Bmg</a> — Core financial products banking platform, processing millions of BRL in daily transactions
   </li>
 
   <li> 🔵
@@ -153,4 +153,4 @@ TSConfig      0 secs          ░░░░░░░░░░░░░░░░�
 
 </details>
 
-Due to contractual reasons, this GitHub profile is only for open source and public projects.
+Due to contractual reasons, this GitHub profile showcases only open source and public projects.
