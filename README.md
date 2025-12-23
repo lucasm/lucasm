@@ -1,10 +1,8 @@
 # Hello 👋🏻, I'm Lucas Maués
 
-**Tech Lead & Frontend Software Specialist, based in Brazil.**
+**Tech Lead & Specialist Frontend Software Engineer, based in Brazil 🇧🇷**
 
-Strong experience building and leading mission-critical, large-scale web applications and platforms used by millions of users and handling millions of BRL in daily transactions. 
-
-I specialize in Frontend Architecture, Design Systems, the React ecosystem, Accessibility, Performance, and scalable engineering practices, helping teams and products grow sustainably.
+Helping teams and products grow sustainably. Strong experience building and leading mission-critical, large-scale web applications and platforms used by millions of users and handling millions of BRL in daily transactions. 
 
 ### Featured Projects 
 
@@ -12,7 +10,7 @@ I specialize in Frontend Architecture, Design Systems, the React ecosystem, Acce
   <li> 🟡 
     <a href="https://lucasm.dev/?utm_source=github" target="_blank" rel="noopener noreferrer">
       Lucas Maués
-    </a> — More about me
+    </a> — About me
   </li>
   <li> 🟠
     <a href="https://talito.com.br/" target="_blank" rel="noopener noreferrer">
@@ -58,7 +56,7 @@ I specialize in Frontend Architecture, Design Systems, the React ecosystem, Acce
  
 </ul>
 
-### Contributions to the Open Source Community  
+### Open Source Contributions
   <ul>
 
   <li> 🟢
@@ -141,8 +139,11 @@ TSConfig      0 secs          ░░░░░░░░░░░░░░░░�
 <a href="https://grafana.com/">Grafana</a> ·
 <a href="https://opentelemetry.io/">OpenTelemetry</a>
 
-<!-- Languages & Systems -->
+<!-- Languages & Systems, Frontend Architecture, Design Systems, React ecosystem, Accessibility, Performance -->
 <a href="https://dot.net/">.NET</a> ·
 <a href="https://www.java.com/">Java</a> ·
 <a href="https://www.python.org/">Python</a> ·
 <a href="https://en.cppreference.com/w/c">C</a>
+
+
+
