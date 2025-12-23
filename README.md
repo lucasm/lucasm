@@ -2,7 +2,7 @@
 
 **Tech Lead & Specialist Frontend Software Engineer, based in Brazil 🇧🇷**
 
-Helping teams and products grow sustainably since 2017. Strong experience with Frontend Enginerring, building and leading mission-critical web applications and platforms used by millions of users and handling millions of BRL in daily transactions. 
+Leading high-impact, mission-critical web platforms at scale since 2017, serving millions of users and processing millions of BRL daily.
 
 ### Featured Projects 
 
@@ -10,7 +10,7 @@ Helping teams and products grow sustainably since 2017. Strong experience with F
   <li> 🟡 
     <a href="https://lucasm.dev/?utm_source=github" target="_blank" rel="noopener noreferrer">
       Lucas Maués
-    </a> — About me
+    </a> — More about me
   </li>
   <li> 🟠
     <a href="https://talito.com.br/" target="_blank" rel="noopener noreferrer">
@@ -58,8 +58,6 @@ Helping teams and products grow sustainably since 2017. Strong experience with F
 </ul>
 
 ### Featured Open Source
-
-Due to contractual reasons, this GitHub profile is limited to open-source projects only.
 
   <ul>
   <li> 🟢
@@ -155,4 +153,4 @@ TSConfig      0 secs          ░░░░░░░░░░░░░░░░�
 
 </details>
 
-
+Due to contractual reasons, my GitHub profile is limited to open source and public projects only.
