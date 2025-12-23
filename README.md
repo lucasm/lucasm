@@ -2,9 +2,9 @@
 
 **Tech Lead & Specialist Frontend Software Engineer, based in Brazil 🇧🇷**
 
-Helping teams and products grow sustainably since 2017. Strong experience with Frontend Enginerring, building and leading mission-critical, large-scale web applications and platforms used by millions of users and handling millions of BRL in daily transactions. 
+Helping teams and products grow sustainably since 2017. Strong experience with Frontend Enginerring, building and leading mission-critical web applications and platforms used by millions of users and handling millions of BRL in daily transactions. 
 
-### Featured Side Projects 
+### Featured Projects 
 
 <ul>
   <li> 🟡 
@@ -40,24 +40,24 @@ Helping teams and products grow sustainably since 2017. Strong experience with F
 </ul>
 
 
-### Featured Enterprise Experience
+### Featured Enterprise
 
   <ul>
 
   <li> 🟠 
     <a href="https://www.bancobmg.com.br/?utm_source=lucasm.dev" target="_blank" rel="noopener noreferrer">
-      Banco Bmg</a> — Tech Lead & Frontend Specialist leading the modernization of a large-scale core banking platform, supporting core financial products and processing millions of BRL in daily transactions
+      Banco Bmg</a> — Banking platform of core financial products, processing millions of BRL in daily transactions
   </li>
 
   <li> 🔵
     <a href="https://www.globo.com/?utm_source=lucasm.dev" target="_blank" rel="noopener noreferrer">
       Globo
-    </a> — Developed accessibility resources for Brazil’s largest web content portal, consistently ranking among the country’s top 3 most accessed websites, serving millions of users daily 
+    </a> — Accessibility for Brazil’s largest web content portal, serving millions of users daily 
   </li>
  
 </ul>
 
-### Featured Open Source Contributions
+### Featured Open Source
 
 Due to contractual reasons, this GitHub profile is limited to open-source projects only.
 
@@ -76,14 +76,14 @@ Due to contractual reasons, this GitHub profile is limited to open-source projec
   <li> ⚫️
     <a href="https://dev.to/lucasm/" target="_blank" rel="noopener noreferrer">
       DEV 
-    </a> — Awarded "Top JavaScript Author" badge in 2023
+    </a> — Writter, awarded "Top JavaScript Author" badge in 2023
   </li>
 
   </ul>
 
 
 <details>
-<summary>Open Source Code Stats</summary>
+<summary>Open Source Stats</summary>
 
 <!--START_SECTION:waka-->
 
@@ -105,7 +105,7 @@ TSConfig      0 secs          ░░░░░░░░░░░░░░░░�
 
 
 <details>
-<summary>Open Source Tech Stack</summary>
+<summary>Open Source Stack</summary>
 
 <br/>
  
