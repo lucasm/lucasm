@@ -2,9 +2,9 @@
 
 **Tech Lead & Specialist Frontend Software Engineer, based in Brazil 🇧🇷**
 
-Helping teams and products grow sustainably. Strong experience building and leading mission-critical, large-scale web applications and platforms used by millions of users and handling millions of BRL in daily transactions. 
+Helping teams and products grow sustainably since 2017. Strong experience with Frontend Enginerring, building and leading mission-critical, large-scale web applications and platforms used by millions of users and handling millions of BRL in daily transactions. 
 
-### Featured Projects 
+### Featured Side Projects 
 
 <ul>
   <li> 🟡 
@@ -39,6 +39,7 @@ Helping teams and products grow sustainably. Strong experience building and lead
   </li>
 </ul>
 
+
 ### Featured Enterprise Experience
 
   <ul>
@@ -56,9 +57,11 @@ Helping teams and products grow sustainably. Strong experience building and lead
  
 </ul>
 
-### Open Source Contributions
-  <ul>
+### Featured Open Source Contributions
 
+Due to contractual reasons, this GitHub profile is limited to open-source projects only.
+
+  <ul>
   <li> 🟢
     <a href="https://github.com/mdn/" target="_blank" rel="noopener noreferrer">
       Mozilla 
@@ -78,10 +81,9 @@ Helping teams and products grow sustainably. Strong experience building and lead
 
   </ul>
 
-  
-### Open Source Code Stats
 
-Due to contractual reasons, this GitHub profile is limited to open-source projects only.
+<details>
+<summary>Open Source Code Stats</summary>
 
 <!--START_SECTION:waka-->
 
@@ -99,8 +101,14 @@ TSConfig      0 secs          ░░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-### Open Source Tech Stack
-  
+</details>
+
+
+<details>
+<summary>Open Source Tech Stack</summary>
+
+<br/>
+ 
 <!-- Core Languages -->
 <a href="https://www.typescriptlang.org/">TypeScript</a> ·
 <a href="https://developer.mozilla.org/docs/Web/JavaScript">JavaScript</a> ·
@@ -145,5 +153,6 @@ TSConfig      0 secs          ░░░░░░░░░░░░░░░░�
 <a href="https://www.python.org/">Python</a> ·
 <a href="https://en.cppreference.com/w/c">C</a>
 
+</details>
 
 
