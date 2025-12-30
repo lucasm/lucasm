@@ -86,16 +86,16 @@ Leading high-impact, mission-critical web platforms at scale since 2017.
 <!--START_SECTION:waka-->
 
 ```txt
-JSON          3 hrs 58 mins   ████████▓░░░░░░░░░░░░░░░░   34.88 %
-TypeScript    3 hrs 47 mins   ████████▒░░░░░░░░░░░░░░░░   33.29 %
-CSS           1 hr 54 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.81 %
-Markdown      1 hr 21 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.91 %
-Other         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
-Image (svg)   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
-TSConfig      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
-HTML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
-JavaScript    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+JSON          3 hrs 48 mins   █████████▒░░░░░░░░░░░░░░░   37.14 %
+TypeScript    3 hrs 41 mins   █████████░░░░░░░░░░░░░░░░   36.02 %
+CSS           1 hr 54 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.70 %
+Markdown      32 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 %
+Other         12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
+Image (svg)   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
+TSConfig      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 YAML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+JavaScript    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Public Key    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
