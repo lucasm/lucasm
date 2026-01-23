@@ -86,14 +86,7 @@ Leading high-impact, mission-critical web platforms at scale since 2017.
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript    14 mins         ███████▓░░░░░░░░░░░░░░░░░   30.01 %
-CSS           8 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.57 %
-Other         7 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.26 %
-Markdown      5 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.88 %
-TSConfig      5 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.53 %
-Image (svg)   4 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.19 %
-JavaScript    2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 %
-JSON          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
