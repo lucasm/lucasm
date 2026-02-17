@@ -86,7 +86,9 @@ Leading high-impact, mission-critical web platforms at scale since 2017.
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+JSON          42 mins         ████████████████████████░   95.87 %
+TypeScript    1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
+Image (svg)   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
 ```
 
 <!--END_SECTION:waka-->
