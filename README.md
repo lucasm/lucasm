@@ -1,16 +1,16 @@
-# Hello 👋🏻, I'm Lucas Maués
+# Hello, I'm Lucas Maués 🇧🇷👋🏻
 
-**Tech Lead & Frontend Software Specialist, based in Brazil 🇧🇷**
+**Tech Lead | Senior Software Engineer | Frontend Specialist**
 
-Leading high-impact, mission-critical web platforms at scale since 2017.
+Leading teams and engineering high-impact, mission-critical web platforms at scale since 2017. Focused on performance, accessibility, AI coding, DX, and robust architecture.
 
-### Featured Projects 
+### Featured Projects
 
 <ul>
   <li> 🟡 
     <a href="https://lucasm.dev/?utm_source=github" target="_blank" rel="noopener noreferrer">
       Lucas Maués
-    </a> — My website
+    </a> — Personal website
   </li>
   <li> 🔵 
     <a href="https://findto.app/" target="_blank" rel="noopener noreferrer">
@@ -25,7 +25,7 @@ Leading high-impact, mission-critical web platforms at scale since 2017.
   <li> 🟢
     <a href="https://checktest.dev/" target="_blank" rel="noopener noreferrer">
       Checktest
-    </a> — Web application testing tool
+    </a> — Web apps testing tool
   </li>
   <li> 🔴
     <a href="https://memeh.app/" target="_blank" rel="noopener noreferrer">
@@ -46,7 +46,7 @@ Leading high-impact, mission-critical web platforms at scale since 2017.
 
   <li> 🟠 
     <a href="https://www.bancobmg.com.br/?utm_source=lucasm.dev" target="_blank" rel="noopener noreferrer">
-      Banco Bmg</a> — Core financial products banking platform, processing millions of BRL in daily transactions
+      Banco Bmg</a> — Modernizing core financial products banking platform, processing millions of BRL in daily transactions
   </li>
 
   <li> 🔵
@@ -73,8 +73,8 @@ Leading high-impact, mission-critical web platforms at scale since 2017.
 
   <li> ⚫️
     <a href="https://dev.to/lucasm/" target="_blank" rel="noopener noreferrer">
-      DEV 
-    </a> — Writer, awarded <i>Top JavaScript Author</i> badge
+      DEV Community
+    </a> — Writer / Awarded "TOP JavaScript Author" Badge (2023)
   </li>
 
   </ul>
@@ -82,6 +82,8 @@ Leading high-impact, mission-critical web platforms at scale since 2017.
 
 <details>
 <summary>Open Source Stats</summary>
+
+<br/>
 
 <!--START_SECTION:waka-->
 
@@ -92,6 +94,8 @@ Image (svg)   0 secs                ░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+
+<br/>
 
 </details>
 
@@ -107,44 +111,50 @@ Image (svg)   0 secs                ░░░░░░░░░░░░░░�
 <a href="https://developer.mozilla.org/docs/Web/CSS">CSS</a> ·
 <a href="https://developer.mozilla.org/docs/Web/HTML">HTML</a>
 
-<!-- Frontend Frameworks & Meta-frameworks -->
+<!-- Frontend Concepts -->
+<a href="https://developer.mozilla.org/docs/Web/Accessibility">Accessibility (a11y) WCAG WAI-ARIA</a> ·
+<a href="https://developer.mozilla.org/docs/Web/Progressive_web_apps">PWA</a> 
+
+<!-- Frontend Frameworks & Libs -->
 <a href="https://react.dev/">React</a> ·
 <a href="https://nextjs.org/">Next.js</a> ·
 <a href="https://vitejs.dev/">Vite</a> ·
 <a href="https://vuejs.org/">Vue.js</a> ·
 <a href="https://svelte.dev/">Svelte</a>
 
-<!-- Architecture & UI Systems -->
+<!-- Tooling, DX, Architecture & UI Systems -->
 <a href="https://storybook.js.org/">Storybook</a> ·
-<a href="https://developer.mozilla.org/docs/Web/Progressive_web_apps">PWA</a> ·
-<a href="https://developer.mozilla.org/docs/Web/Accessibility">Accessibility (a11y) WCAG WAI-ARIA</a>
-
-<!-- Tooling & DX -->
 <a href="https://webpack.js.org/">Webpack</a> ·
 <a href="https://eslint.org/">ESLint</a> ·
+<a href="https://playwright.dev/">Playwright</a> ·
 <a href="https://jestjs.io/">Jest</a> ·
 <a href="https://testing-library.com/">Testing Library</a> ·
 <a href="https://www.npmjs.com/">npm</a> ·
 <a href="https://yarnpkg.com/">Yarn</a>
 
-<!-- Backend, Infra & Runtime -->
-<a href="https://nodejs.org/">Node.js</a> ·
+<!-- Infra -->
 <a href="https://www.docker.com/">Docker</a> ·
 <a href="https://nginx.com/">Nginx</a> ·
 <a href="https://www.postgresql.org/">PostgreSQL</a> ·
 <a href="https://git-scm.com/">Git</a> ·
-<a href="https://www.kernel.org/">Linux</a>
+<a href="https://distrochooser.de/">Linux</a>
 
-<!-- Observability & Performance -->
+<!-- Cloud & Observability -->
+<a href="https://aws.com/">AWS</a> ·
+<a href="https://azure.microsoft.com/">Microsoft Azure</a> ·
+<a href="https://gogole.com/cloud">Google Cloud</a> ·
 <a href="https://grafana.com/">Grafana</a> ·
 <a href="https://opentelemetry.io/">OpenTelemetry</a>
 
-<!-- Languages & Systems, Frontend Architecture, Design Systems, React ecosystem, Accessibility, Performance -->
+<!--Backend -->
+<a href="https://nodejs.org/">Node.js</a> ·
 <a href="https://dot.net/">.NET</a> ·
-<a href="https://www.java.com/">Java</a> ·
-<a href="https://www.python.org/">Python</a> ·
+<a href="https://dev.java/">Java</a> ·
+<a href="https://python.org/">Python</a> ·
 <a href="https://en.cppreference.com/w/c">C</a>
+
+<br/>
 
 </details>
 
-Due to contractual reasons, this GitHub profile showcases only open source and public projects.
+For contractual reasons, this profile highlights only open source and public projects.
