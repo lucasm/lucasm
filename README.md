@@ -10,7 +10,7 @@ Leading teams and engineering high-impact, mission-critical web platforms at sca
   <li> 🟡 
     <a href="https://lucasm.dev/?utm_source=github" target="_blank" rel="noopener noreferrer">
       Lucas Maués
-    </a> — Personal website
+    </a> — My personal website
   </li>
   <li> 🔵 
     <a href="https://findto.app/" target="_blank" rel="noopener noreferrer">
