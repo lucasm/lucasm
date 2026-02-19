@@ -2,7 +2,7 @@
 
 **Tech Lead | Senior Software Engineer | Frontend Specialist**
 
-Leading teams and engineering high-impact, mission-critical web platforms at scale since 2017. Focused on performance, accessibility, AI coding, DX, and robust architecture.
+Leading teams and engineering high-impact, mission-critical web platforms at scale since 2017. Focused on performance, accessibility, security, AI coding, DX, and robust architecture.
 
 ### Featured Projects
 
@@ -141,8 +141,8 @@ Image (svg)   0 secs                ░░░░░░░░░░░░░░�
 
 <!-- Cloud & Observability -->
 <a href="https://aws.com/">AWS</a> ·
-<a href="https://azure.microsoft.com/">Microsoft Azure</a> ·
-<a href="https://gogole.com/cloud">Google Cloud</a> ·
+<a href="https://azure.com/">Microsoft Azure</a> ·
+<a href="https://cloud.google.com/">Google Cloud</a> ·
 <a href="https://grafana.com/">Grafana</a> ·
 <a href="https://opentelemetry.io/">OpenTelemetry</a>
 
