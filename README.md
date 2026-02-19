@@ -1,4 +1,4 @@
-# Hello, I'm Lucas Maués 🇧🇷👋🏻
+# Hi, I'm Lucas Maués 🇧🇷👋🏻
 
 **Tech Lead | Senior Software Engineer | Frontend Specialist**
 
