@@ -25,7 +25,7 @@ Leading teams and engineering high-impact, mission-critical web platforms at sca
   <li>
     <a href="https://checktest.dev/" target="_blank" rel="noopener noreferrer">
       🟢 Checktest
-    </a> — Web apps testing tool
+    </a> — Testing tool for web apps 
   </li>
   <li>
     <a href="https://memeh.app/" target="_blank" rel="noopener noreferrer">
