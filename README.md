@@ -30,7 +30,7 @@ Leading teams and engineering high-impact, mission-critical web platforms at sca
   <li>
     <a href="https://memeh.app/" target="_blank" rel="noopener noreferrer">
       Memeh
-    </a> — Trusted news with humor
+    </a> — Trusted news with memes
   </li>
   <li>
     <a href="https://aspiral.app/" target="_blank" rel="noopener noreferrer">
