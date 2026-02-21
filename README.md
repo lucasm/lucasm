@@ -4,37 +4,37 @@
 
 Leading teams and engineering high-impact, mission-critical web platforms at scale since 2017. 
 
-### Featured Side Projects
+### Featured Projects
 
 <ul>
   <li> 
     <a href="https://lucasm.dev/?utm_source=github" target="_blank" rel="noopener noreferrer">
-      Lucas Maués
-    </a> — My personal website
+      🟡 Lucas Maués
+    </a> — Personal page
   </li>
   <li> 
     <a href="https://findto.app/" target="_blank" rel="noopener noreferrer">
-      Findto
+      🔵 Findto
     </a> — Decentralized search assistant
   </li>
     <li>
     <a href="https://talito.com.br/" target="_blank" rel="noopener noreferrer">
-      Talito 
+      🟠 Talito 
     </a> — AI-powered financial intelligence
   </li>
   <li>
     <a href="https://checktest.dev/" target="_blank" rel="noopener noreferrer">
-      Checktest
+      🟢 Checktest
     </a> — Web apps testing tool
   </li>
   <li>
     <a href="https://memeh.app/" target="_blank" rel="noopener noreferrer">
-      Memeh
+      🔴 Memeh
     </a> — Trusted news with memes
   </li>
   <li>
     <a href="https://aspiral.app/" target="_blank" rel="noopener noreferrer">
-      Aspiral
+      🟣 Aspiral
     </a> — Daily recommendations and thoughts 
   </li>
 </ul>
@@ -46,12 +46,12 @@ Leading teams and engineering high-impact, mission-critical web platforms at sca
 
   <li>
     <a href="https://www.bancobmg.com.br/?utm_source=lucasm.dev" target="_blank" rel="noopener noreferrer">
-      Banco Bmg</a> — Modernizing core financial products banking platform, processing millions of BRL in daily transactions
+      ⚪️ Banco Bmg</a> — Modernizing core financial products banking platform, processing millions of BRL in daily transactions
   </li>
 
   <li>
     <a href="https://www.globo.com/?utm_source=lucasm.dev" target="_blank" rel="noopener noreferrer">
-      Globo
+      ⚪️ Globo
     </a> — Accessibility for Brazil’s largest web content portal, serving millions of users daily 
   </li>
  
@@ -62,18 +62,18 @@ Leading teams and engineering high-impact, mission-critical web platforms at sca
   <ul>
   <li>
     <a href="https://github.com/mdn/" target="_blank" rel="noopener noreferrer">
-      Mozilla 
+      ⚫️ Mozilla 
     </a>  — Contributor 
   </li>
    <li>
   <a href="https://github.com/microsoft/" target="_blank" rel="noopener noreferrer">
-     Microsoft
+      ⚫️ Microsoft
     </a>  — Translator
   </li>
 
   <li>
     <a href="https://dev.to/lucasm/" target="_blank" rel="noopener noreferrer">
-      DEV Community
+       ⚫️ DEV Community
     </a> — Writer / Awarded "TOP JavaScript Author" Badge (2023)
   </li>
 
