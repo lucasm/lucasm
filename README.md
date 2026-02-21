@@ -1,10 +1,10 @@
 # Hello, I'm Lucas Maués 👋🏻 🇧🇷
 
-Tech Lead | Senior Software Engineer | Frontend Specialist
+**Tech Lead | Senior Software Engineer | Frontend Specialist**
 
 Leading teams and engineering high-impact, mission-critical web platforms at scale since 2017
 
-### Featured Projects
+### Featured Side Projects
 
 <ul>
   <li> 
