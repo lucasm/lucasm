@@ -28,13 +28,13 @@ Leading teams and engineering high-impact, mission-critical web platforms at sca
     </a> — Testing tool for web apps 
   </li>
   <li>
-    <a href="https://memeh.app/" target="_blank" rel="noopener noreferrer">
-      🔴 Memeh
-    </a> — Trusted news without algorithms
+    <a href="https://aspiral.app/" target="_blank" rel="noopener noreferrer">
+      🔴 Aspiral
+    </a> — Trusted news, without algorithms
   </li>
   <li>
-    <a href="https://aspiral.app/" target="_blank" rel="noopener noreferrer">
-      🟣 Aspiral
+    <a href="https://memeh.app/" target="_blank" rel="noopener noreferrer">
+      🟣 Memeh
     </a> — Daily recommendations and thoughts 
   </li>
 </ul>
