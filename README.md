@@ -63,12 +63,12 @@ Leading teams and engineering high-impact, mission-critical web platforms at sca
 
   <li>
     <a href="https://www.bancobmg.com.br/?utm_source=lucasm.dev" target="_blank" rel="noopener noreferrer">
-      ⚪️ Banco Bmg</a> — Modernizing core financial products banking platform, processing millions of BRL in daily transactions
+      Banco Bmg</a> — Modernizing core financial products banking platform, processing millions of BRL in daily transactions
   </li>
 
   <li>
     <a href="https://www.globo.com/?utm_source=lucasm.dev" target="_blank" rel="noopener noreferrer">
-      ⚪️ Globo
+      Globo
     </a> — Accessibility for Brazil’s largest web content portal, serving millions of users daily 
   </li>
  
@@ -79,21 +79,21 @@ Leading teams and engineering high-impact, mission-critical web platforms at sca
   <ul>
   <li>
     <a href="https://github.com/mdn/" target="_blank" rel="noopener noreferrer">
-      ⚫️ Mozilla 
+      MDN Web Docs
     </a>  — Contributor 
   </li>
    <li>
   <a href="https://github.com/microsoft/" target="_blank" rel="noopener noreferrer">
-      ⚫️ Microsoft
+      Microsoft Open Source
     </a>  — Translator
   </li>
 
   <li>
     <a href="https://dev.to/lucasm/" target="_blank" rel="noopener noreferrer">
-       ⚫️ DEV Community
+       DEV Community
     </a> — Writer / Awarded "TOP JavaScript Author" Badge (2023)
   </li>
 
   </ul>
 
-For contractual reasons, my GitHub profile highlights only open source and public projects
+Note: For contractual reasons, my GitHub profile highlights only open source and public projects
