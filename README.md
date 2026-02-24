@@ -16,7 +16,7 @@ Leading teams and engineering high-impact, mission-critical web platforms at sca
         <b>Lucas Maués</b>
       </a>
       <br/>
-      <p>My personal page</p>
+      <p>My personal website</p>
     </td>
     <td align="center" width="150">
       <a href="https://checktest.dev/?utm_source=github">
