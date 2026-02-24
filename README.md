@@ -6,39 +6,56 @@ Leading teams and engineering high-impact, mission-critical web platforms at sca
 
 ### Featured Side Projects
 
-<ul>
-  <li> 
-    <a href="https://lucasm.dev/?utm_source=github" target="_blank" rel="noopener noreferrer">
-      🟡 Lucas Maués
-    </a> — Personal page
-  </li>
-  <li> 
-    <a href="https://findto.app/" target="_blank" rel="noopener noreferrer">
-      🔵 Findto
-    </a> — Decentralized search assistant
-  </li>
-    <li>
-    <a href="https://talito.com.br/" target="_blank" rel="noopener noreferrer">
-      🟠 Talito 
-    </a> — AI-powered financial intelligence
-  </li>
-  <li>
-    <a href="https://checktest.dev/" target="_blank" rel="noopener noreferrer">
-      🟢 Checktest
-    </a> — Testing tool for web apps 
-  </li>
-  <li>
-    <a href="https://aspiral.app/" target="_blank" rel="noopener noreferrer">
-      🔴 Aspiral
-    </a> — Trusted news, without algorithms
-  </li>
-  <li>
-    <a href="https://memeh.app/" target="_blank" rel="noopener noreferrer">
-      🟣 Memeh
-    </a> — Daily recommendations and thoughts 
-  </li>
-</ul>
 
+<table>
+  <tr>
+    <td align="center" width="150">
+      <a href="https://lucasm.dev/?utm_source=github">
+        <img height="100" src="https://lucasm.dev/icon.svg">
+        <br />
+        <b>Lucas Maués</b>
+      </a>
+      <br/>
+      <p>My personal page</p>
+    </td>
+    <td align="center" width="150">
+      <a href="https://checktest.dev/?utm_source=github">
+        <img height="100" src="https://checktest.dev/icon.svg">
+        <br />
+        <b>Checktest</b>
+      </a>
+      <br/>
+      <p>Web apps testing tool</p>
+    </td>
+    <td align="center" width="150">
+      <a href="https://findto.app/?utm_source=github">
+        <img height="100" src="https://findto.app/icon.svg">
+        <br />
+        <b>Findto</b>
+      </a>
+      <br />
+      <p>Decentralized search assistant</p>
+    </td>
+    <td align="center" width="150">
+      <a href="https://aspiral.app/?utm_source=github">
+        <img height="100" src="https://aspiral.app/icon.svg">
+        <br />
+        <b>Aspiral</b>
+      </a>
+      <br />
+      <p>Trusted news reader</p>
+    </td>
+    <td align="center" width="150">
+      <a href="https://talito.com.br/?utm_source=github">
+        <img height="100" src="https://talito.com.br/icon.svg">
+        <br />
+        <b>Talito</b>
+      </a>
+      <br />
+      <p>Your AI financial copilot</p>
+    </td>
+  </tr>
+</table>
 
 ### Featured Enterprise Experience
 
