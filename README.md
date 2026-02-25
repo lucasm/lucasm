@@ -6,11 +6,10 @@ Leading teams and engineering high-impact, mission-critical web platforms at sca
 
 ### Featured Side Projects
 
-
 <table>
   <tr>
     <td align="center" width="150">
-      <a href="https://lucasm.dev/?utm_source=github">
+      <a href="https://lucasm.dev/?utm_source=github" target="_blank" rel="noopener noreferrer">
         <img height="100" src="https://lucasm.dev/icon.svg">
         <br />
         <b>Lucas Maués</b>
@@ -19,7 +18,7 @@ Leading teams and engineering high-impact, mission-critical web platforms at sca
       <p>My personal website</p>
     </td>
     <td align="center" width="150">
-      <a href="https://checktest.dev/?utm_source=github">
+      <a href="https://checktest.dev/?utm_source=github" target="_blank" rel="noopener noreferrer">
         <img height="100" src="https://checktest.dev/icon.svg">
         <br />
         <b>Checktest</b>
@@ -28,7 +27,7 @@ Leading teams and engineering high-impact, mission-critical web platforms at sca
       <p>Web apps testing tool</p>
     </td>
     <td align="center" width="150">
-      <a href="https://findto.app/?utm_source=github">
+      <a href="https://findto.app/?utm_source=github" target="_blank" rel="noopener noreferrer">
         <img height="100" src="https://findto.app/icon.svg">
         <br />
         <b>Findto</b>
@@ -37,7 +36,7 @@ Leading teams and engineering high-impact, mission-critical web platforms at sca
       <p>Decentralized search assistant</p>
     </td>
     <td align="center" width="150">
-      <a href="https://aspiral.app/?utm_source=github">
+      <a href="https://aspiral.app/?utm_source=github" target="_blank" rel="noopener noreferrer">
         <img height="100" src="https://aspiral.app/icon.svg">
         <br />
         <b>Aspiral</b>
@@ -46,7 +45,7 @@ Leading teams and engineering high-impact, mission-critical web platforms at sca
       <p>Trusted news reader</p>
     </td>
     <td align="center" width="150">
-      <a href="https://talito.com.br/?utm_source=github">
+      <a href="https://talito.com.br/?utm_source=github" target="_blank" rel="noopener noreferrer">
         <img height="100" src="https://talito.com.br/icon.svg">
         <br />
         <b>Talito</b>
@@ -59,41 +58,36 @@ Leading teams and engineering high-impact, mission-critical web platforms at sca
 
 ### Featured Enterprise Experience
 
-  <ul>
-
+<ul>
   <li>
     <a href="https://www.bancobmg.com.br/?utm_source=lucasm.dev" target="_blank" rel="noopener noreferrer">
       Banco Bmg</a> — Modernizing core financial products banking platform, processing millions of BRL in daily transactions
   </li>
-
   <li>
     <a href="https://www.globo.com/?utm_source=lucasm.dev" target="_blank" rel="noopener noreferrer">
       Globo
     </a> — Accessibility for Brazil’s largest web content portal, serving millions of users daily 
   </li>
- 
 </ul>
 
 ### Featured Open Source
 
-  <ul>
+<ul>
   <li>
     <a href="https://github.com/mdn/" target="_blank" rel="noopener noreferrer">
       MDN Web Docs
-    </a>  — Contributor 
+    </a> — Contributor 
   </li>
-   <li>
-  <a href="https://github.com/microsoft/" target="_blank" rel="noopener noreferrer">
+  <li>
+    <a href="https://github.com/microsoft/" target="_blank" rel="noopener noreferrer">
       Microsoft Open Source
-    </a>  — Translator
+    </a> — Translator
   </li>
-
   <li>
     <a href="https://dev.to/lucasm/" target="_blank" rel="noopener noreferrer">
-       DEV Community
+      DEV Community
     </a> — Writer / Awarded "TOP JavaScript Author" Badge (2023)
   </li>
+</ul>
 
-  </ul>
-
-Note: For contractual reasons, my GitHub profile highlights only open source and public projects
+**Note:** For contractual reasons, my GitHub profile highlights only open source and public projects
