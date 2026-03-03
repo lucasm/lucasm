@@ -51,7 +51,7 @@ Leading teams and engineering high-impact, mission-critical web platforms at sca
         <b>Talito</b>
       </a>
       <br />
-      <p>AI financial intelligence plataform</p>
+      <p>AI financial plataform</p>
     </td>
   </tr>
 </table>
