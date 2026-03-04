@@ -10,7 +10,7 @@ Leading teams and engineering high-impact, mission-critical web platforms at sca
   <tr>
     <td align="center" width="150">
       <a href="https://lucasm.dev/?utm_source=github" target="_blank" rel="noopener noreferrer">
-        <img height="64" src="https://lucasm.dev/icon.svg">
+        <img height="84" src="https://lucasm.dev/icon.svg">
         <br />
         <b>Lucas Maués</b>
       </a>
@@ -19,7 +19,7 @@ Leading teams and engineering high-impact, mission-critical web platforms at sca
     </td>
     <td align="center" width="150">
       <a href="https://checktest.dev/?utm_source=github" target="_blank" rel="noopener noreferrer">
-        <img height="64" src="https://checktest.dev/icon.svg">
+        <img height="84" src="https://checktest.dev/icon.svg">
         <br />
         <b>Checktest</b>
       </a>
@@ -28,7 +28,7 @@ Leading teams and engineering high-impact, mission-critical web platforms at sca
     </td>
     <td align="center" width="150">
       <a href="https://findto.app/?utm_source=github" target="_blank" rel="noopener noreferrer">
-        <img height="64" src="https://findto.app/icon.svg">
+        <img height="84" src="https://findto.app/icon.svg">
         <br />
         <b>Findto</b>
       </a>
@@ -37,7 +37,7 @@ Leading teams and engineering high-impact, mission-critical web platforms at sca
     </td>
     <td align="center" width="150">
       <a href="https://aspiral.app/?utm_source=github" target="_blank" rel="noopener noreferrer">
-        <img height="64" src="https://aspiral.app/icon.svg">
+        <img height="84" src="https://aspiral.app/icon.svg">
         <br />
         <b>Aspiral</b>
       </a>
@@ -46,7 +46,7 @@ Leading teams and engineering high-impact, mission-critical web platforms at sca
     </td>
     <td align="center" width="150">
       <a href="https://talito.com.br/?utm_source=github" target="_blank" rel="noopener noreferrer">
-        <img height="64" src="https://talito.com.br/icon.svg">
+        <img height="84" src="https://talito.com.br/icon.svg">
         <br />
         <b>Talito</b>
       </a>
