@@ -9,7 +9,7 @@ Leading teams and engineering high-impact, mission-critical web platforms at sca
 <table>
   <tr>
     <td align="center" width="150">
-      <a href="https://lucasm.dev/?utm_source=github" target="_blank" rel="noopener noreferrer">
+      <a href="https://lucasmaues.com/?utm_source=github" target="_blank" rel="noopener noreferrer">
         <img height="84" src="https://lucasm.dev/icon.svg">
         <br />
         <b>Lucas Maués</b>
