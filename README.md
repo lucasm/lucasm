@@ -8,7 +8,7 @@ I'm a Brazilian Tech Lead, Senior Software Engineer and Frontend Specialist work
   <tr>
     <td>
       <a href="https://lucasmaues.com/?utm_source=github" target="_blank" rel="noopener noreferrer">
-        <img src="https://lucasmaues.com/icon.svg" height="60" width="60">
+        <img src="https://lucasmaues.com/icon.svg" height="64" width="64">
       </a>
     </td>
     <td>
@@ -21,7 +21,7 @@ I'm a Brazilian Tech Lead, Senior Software Engineer and Frontend Specialist work
   <tr>
     <td>
       <a href="https://findto.app/?utm_source=github" target="_blank" rel="noopener noreferrer">
-        <img src="https://findto.app/icon.svg" height="60" width="60">
+        <img src="https://findto.app/icon.svg" height="64" width="64">
       </a>
     </td>
     <td>
@@ -34,7 +34,7 @@ I'm a Brazilian Tech Lead, Senior Software Engineer and Frontend Specialist work
     <tr>
     <td>
       <a href="https://checktest.dev/?utm_source=github" target="_blank" rel="noopener noreferrer">
-        <img src="https://checktest.dev/icon.svg" height="60" width="60">
+        <img src="https://checktest.dev/icon.svg" height="64" width="64">
       </a>
     </td>
     <td>
@@ -47,7 +47,7 @@ I'm a Brazilian Tech Lead, Senior Software Engineer and Frontend Specialist work
   <tr>
     <td>
       <a href="https://aspiral.app/?utm_source=github" target="_blank" rel="noopener noreferrer">
-        <img src="https://aspiral.app/icon.svg" height="60" width="60">
+        <img src="https://aspiral.app/icon.svg" height="64" width="64">
       </a>
     </td>
     <td>
@@ -60,7 +60,7 @@ I'm a Brazilian Tech Lead, Senior Software Engineer and Frontend Specialist work
   <tr>
     <td>
       <a href="https://talito.com.br/?utm_source=github" target="_blank" rel="noopener noreferrer">
-        <img src="https://talito.com.br/icon.svg" height="60" width="60">
+        <img src="https://talito.com.br/icon.svg" height="64" width="64">
       </a>
     </td>
     <td>
