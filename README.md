@@ -8,49 +8,67 @@ Leading teams and engineering high-impact, mission-critical web platforms at sca
 
 <table>
   <tr>
-    <td align="center" width="150">
+    <td>
       <a href="https://lucasmaues.com/?utm_source=github" target="_blank" rel="noopener noreferrer">
-        <img height="84" src="https://lucasm.dev/icon.svg">
-        <br />
+        <img src="https://lucasmaues.com/icon.svg" height="60" width="60">
+      </a>
+    </td>
+    <td>
+      <a href="https://lucasmaues.com/?utm_source=github" target="_blank" rel="noopener noreferrer">
         <b>Lucas Maués</b>
       </a>
-      <br/>
       <p>My personal website</p>
     </td>
-    <td align="center" width="150">
-      <a href="https://checktest.dev/?utm_source=github" target="_blank" rel="noopener noreferrer">
-        <img height="84" src="https://checktest.dev/icon.svg">
-        <br />
-        <b>Checktest</b>
-      </a>
-      <br/>
-      <p>Web apps testing tool</p>
-    </td>
-    <td align="center" width="150">
+  </tr>
+  <tr>
+    <td>
       <a href="https://findto.app/?utm_source=github" target="_blank" rel="noopener noreferrer">
-        <img height="84" src="https://findto.app/icon.svg">
-        <br />
+        <img src="https://findto.app/icon.svg" height="60" width="60">
+      </a>
+    </td>
+    <td>
+      <a href="https://findto.app/?utm_source=github" target="_blank" rel="noopener noreferrer">
         <b>Findto</b>
       </a>
-      <br />
       <p>Decentralized search assistant</p>
     </td>
-    <td align="center" width="150">
+  </tr>
+    <tr>
+    <td>
+      <a href="https://checktest.dev/?utm_source=github" target="_blank" rel="noopener noreferrer">
+        <img src="https://checktest.dev/icon.svg" height="60" width="60">
+      </a>
+    </td>
+    <td>
+      <a href="https://checktest.dev/?utm_source=github" target="_blank" rel="noopener noreferrer">
+        <b>Checktest</b>
+      </a>
+      <p>Web apps testing tool</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <a href="https://aspiral.app/?utm_source=github" target="_blank" rel="noopener noreferrer">
-        <img height="84" src="https://aspiral.app/icon.svg">
-        <br />
+        <img src="https://aspiral.app/icon.svg" height="60" width="60">
+      </a>
+    </td>
+    <td>
+      <a href="https://aspiral.app/?utm_source=github" target="_blank" rel="noopener noreferrer">
         <b>Aspiral</b>
       </a>
-      <br />
       <p>Trusted news reader</p>
     </td>
-    <td align="center" width="150">
+  </tr>
+  <tr>
+    <td>
       <a href="https://talito.com.br/?utm_source=github" target="_blank" rel="noopener noreferrer">
-        <img height="84" src="https://talito.com.br/icon.svg">
-        <br />
+        <img src="https://talito.com.br/icon.svg" height="60" width="60">
+      </a>
+    </td>
+    <td>
+      <a href="https://talito.com.br/?utm_source=github" target="_blank" rel="noopener noreferrer">
         <b>Talito</b>
       </a>
-      <br />
       <p>AI financial plataform</p>
     </td>
   </tr>
