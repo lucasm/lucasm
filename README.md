@@ -2,7 +2,7 @@
 
 **Tech Lead | Senior Software Engineer | Frontend Specialist**
 
-Leading teams and engineering high-impact, mission-critical web platforms at scale since 2017
+Leading teams and engineering high-impact, mission-critical web platforms at scale since 2017.
 
 ### Featured Side Projects
 
