@@ -1,8 +1,8 @@
 # Hello, I'm Lucas Maués 👋🏻
 
-**Tech Lead | Senior Software Engineer | Frontend Specialist**
+I'm a Brazilian Tech Lead, Senior Software Engineer and Frontend Specialist working in banking, scaling products, and mentoring developers.
 
-Leading teams and engineering high-impact, mission-critical web platforms at scale since 2017.
+Leading teams to engineering mission-critical Web Platforms, since 2017.
 
 ### Featured Side Projects
 
@@ -84,8 +84,16 @@ Leading teams and engineering high-impact, mission-critical web platforms at sca
   <li>
     <a href="https://www.globo.com/?utm_source=lucasm.dev" target="_blank" rel="noopener noreferrer">
       Globo
-    </a> — Accessibility for Brazil’s largest web content portal, serving millions of users daily 
+    </a> — Web Accessibility for Brazil’s largest content portal, serving millions of users daily 
   </li>
+  <li>
+    <a href="https://younner.com/?utm_source=lucasm.dev" target="_blank" rel="noopener noreferrer">
+      Younner
+    </a> — E-commerce platform for Brazilian software house 
+  </li>
+
+
+  
 </ul>
 
 ### Featured Open Source
