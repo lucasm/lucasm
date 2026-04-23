@@ -1,8 +1,6 @@
 # Hello, I'm Lucas Maués 👋🏻
 
-I'm a Brazilian Tech Lead, Senior Software Engineer and Frontend Specialist working in banking, scaling products, and mentoring developers. 
-
-Leading teams to engineering mission-critical Web Platforms, since 2017.
+I'm a Brazilian Tech Lead, Senior Software Engineer and Frontend Specialist working in banking, scaling products, and mentoring developers. Leading teams to engineering mission-critical Web Platforms. Since 2017.
 
 ### Featured Side Projects
 
