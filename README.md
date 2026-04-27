@@ -102,18 +102,18 @@ I'm a Brazilian Tech Lead, Senior Software Engineer and Frontend Specialist. Lea
   <li>
     <a href="https://github.com/mdn/" target="_blank" rel="noopener noreferrer">
       MDN Web Docs
-    </a> — Contributor 
+    </a> — Contributor.
   </li>
   <li>
     <a href="https://github.com/microsoft/" target="_blank" rel="noopener noreferrer">
       Microsoft Open Source
-    </a> — Translator
+    </a> — Translator.
   </li>
   <li>
     <a href="https://dev.to/lucasm/" target="_blank" rel="noopener noreferrer">
       DEV Community
-    </a> — Writer / Awarded "Top JavaScript Author" Badge (2023)
+    </a> — Writer / Awarded "Top JavaScript Author" Badge (2023).
   </li>
 </ul>
 
-**Note:** For contractual reasons, my GitHub profile highlights only open source and public projects
+**Note:** For contractual reasons, my GitHub profile highlights only open source and public projects.
