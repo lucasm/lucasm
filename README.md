@@ -76,21 +76,21 @@ I'm a Brazilian Tech Lead, Senior Software Engineer and Frontend Specialist. Lea
 
 <ul>
   <li>
-    <a href="https://www.bancobmg.com.br/?utm_source=lucasm.dev" target="_blank" rel="noopener noreferrer">
+    <a href="https://www.bancobmg.com.br/?utm_source=lucasmaues.com" target="_blank">
       Banco Bmg</a> — Core financial products banking platform, processing millions of BRL in daily transactions.
   </li>
   <li>
-    <a href="https://www.globo.com/?utm_source=lucasm.dev" target="_blank" rel="noopener noreferrer">
+    <a href="https://www.globo.com/?utm_source=lucasmaues.com" target="_blank">
       Globo
     </a> — Accessibility for Brazil’s largest web content portal, serving millions of users daily. 
   </li>
   <li>
-    <a href="https://actdigital.com/?utm_source=lucasmaues.com" target="_blank" rel="noopener noreferrer">
+    <a href="https://actdigital.com/?utm_source=lucasmaues.com" target="_blank">
       act digital
     </a> — Consultant.
   </li>
   <li>
-    <a href="https://actdigital.com/?utm_source=lucasmaues.com" target="_blank" rel="noopener noreferrer">
+    <a href="https://younner.com/?utm_source=lucasmaues.com" target="_blank">
       Younner
     </a> — E-commerce platform for Brazilian software house.
   </li>
