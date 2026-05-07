@@ -41,7 +41,7 @@ I'm a Brazilian Tech Lead, Senior Software Engineer and Frontend Specialist. Lea
       <a href="https://checktest.dev/?utm_source=github" target="_blank" rel="noopener noreferrer">
         <b>Checktest</b>
       </a>
-      <p>Web apps testing tool</p>
+      <p>Testing tool for web apps</p>
     </td>
   </tr>
   <tr>
@@ -54,7 +54,7 @@ I'm a Brazilian Tech Lead, Senior Software Engineer and Frontend Specialist. Lea
       <a href="https://aspiral.app/?utm_source=github" target="_blank" rel="noopener noreferrer">
         <b>Aspiral</b>
       </a>
-      <p>Trusted news reader</p>
+      <p>News of trusted journalism</p>
     </td>
   </tr>
   <tr>
