@@ -1,8 +1,8 @@
 # Hello, I'm Lucas Maués 👋🏻
 
-I'm a Brazilian Tech Lead, Senior Software Engineer and Frontend Specialist. Leading teams to engineering mission-critical, high-impact and scalable Web Platforms, since 2017.
+I'm a Brazilian Tech Lead, Senior Software Engineer and Frontend Specialist. Leading teams to engineering mission-critical, high-impact and scalable Web platforms, since 2017.
 
-### Featured Side Projects
+### Featured Projects
 
 <table>
   <tr>
@@ -16,6 +16,19 @@ I'm a Brazilian Tech Lead, Senior Software Engineer and Frontend Specialist. Lea
         <b>Lucas Maués</b>
       </a>
       <p>My personal website</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://talito.com.br/?utm_source=github" target="_blank" rel="noopener noreferrer">
+        <img src="https://talito.com.br/icon.svg" height="64" width="64">
+      </a>
+    </td>
+    <td>
+      <a href="https://talito.com.br/?utm_source=github" target="_blank" rel="noopener noreferrer">
+        <b>Talito</b>
+      </a>
+      <p>AI financial plataform for Brazil</p>
     </td>
   </tr>
   <tr>
@@ -57,19 +70,7 @@ I'm a Brazilian Tech Lead, Senior Software Engineer and Frontend Specialist. Lea
       <p>News of trusted journalism</p>
     </td>
   </tr>
-  <tr>
-    <td>
-      <a href="https://talito.com.br/?utm_source=github" target="_blank" rel="noopener noreferrer">
-        <img src="https://talito.com.br/icon.svg" height="64" width="64">
-      </a>
-    </td>
-    <td>
-      <a href="https://talito.com.br/?utm_source=github" target="_blank" rel="noopener noreferrer">
-        <b>Talito</b>
-      </a>
-      <p>AI financial plataform</p>
-    </td>
-  </tr>
+  
 </table>
 
 ### Featured Enterprise Experience
@@ -77,12 +78,12 @@ I'm a Brazilian Tech Lead, Senior Software Engineer and Frontend Specialist. Lea
 <ul>
   <li>
     <a href="https://www.bancobmg.com.br/?utm_source=lucasmaues.com" target="_blank">
-      Banco Bmg</a> — Core financial products banking platform, processing millions of BRL in daily transactions.
+      Banco Bmg</a> — Banking products platform, processing millions of BRL in daily transactions.
   </li>
   <li>
     <a href="https://www.globo.com/?utm_source=lucasmaues.com" target="_blank">
       Globo
-    </a> — Accessibility for Brazil’s largest web content portal, serving millions of users daily. 
+    </a> — Accessibility for largest web content portal in Brazil, serving millions of users daily. 
   </li>
   <li>
     <a href="https://actdigital.com/?utm_source=lucasmaues.com" target="_blank">
@@ -92,7 +93,7 @@ I'm a Brazilian Tech Lead, Senior Software Engineer and Frontend Specialist. Lea
   <li>
     <a href="https://younner.com/?utm_source=lucasmaues.com" target="_blank">
       Younner
-    </a> — E-commerce platform for Brazilian software house.
+    </a> — E-commerce platform for a Brazilian software house.
   </li>
 </ul>
 
@@ -112,7 +113,7 @@ I'm a Brazilian Tech Lead, Senior Software Engineer and Frontend Specialist. Lea
   <li>
     <a href="https://dev.to/lucasm/" target="_blank" rel="noopener noreferrer">
       DEV Community
-    </a> — Writer / Awarded "Top JavaScript Author" Badge (2023).
+    </a> — Writer / Awarded "Top JavaScript Author" Badge in 2023.
   </li>
 </ul>
 
