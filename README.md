@@ -20,19 +20,6 @@ I'm a Brazilian Tech Lead, Senior Software Engineer and Frontend Specialist. Lea
   </tr>
   <tr>
     <td>
-      <a href="https://talito.com.br/?utm_source=github" target="_blank" rel="noopener noreferrer">
-        <img src="https://talito.com.br/icon.svg" height="64" width="64">
-      </a>
-    </td>
-    <td>
-      <a href="https://talito.com.br/?utm_source=github" target="_blank" rel="noopener noreferrer">
-        <b>Talito</b>
-      </a>
-      <p>AI financial plataform for Brazil</p>
-    </td>
-  </tr>
-  <tr>
-    <td>
       <a href="https://findto.app/?utm_source=github" target="_blank" rel="noopener noreferrer">
         <img src="https://findto.app/icon.svg" height="64" width="64">
       </a>
@@ -68,6 +55,19 @@ I'm a Brazilian Tech Lead, Senior Software Engineer and Frontend Specialist. Lea
         <b>Aspiral</b>
       </a>
       <p>News of trusted journalism</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://talito.com.br/?utm_source=github" target="_blank" rel="noopener noreferrer">
+        <img src="https://talito.com.br/icon.svg" height="64" width="64">
+      </a>
+    </td>
+    <td>
+      <a href="https://talito.com.br/?utm_source=github" target="_blank" rel="noopener noreferrer">
+        <b>Talito</b>
+      </a>
+      <p>AI financial plataform for Brazil</p>
     </td>
   </tr>
   
