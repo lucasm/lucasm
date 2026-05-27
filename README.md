@@ -41,7 +41,7 @@ I'm a Brazilian Tech Lead, Senior Software Engineer and Frontend Specialist. Lea
       <a href="https://checktest.dev/?utm_source=github" target="_blank" rel="noopener noreferrer">
         <b>Checktest</b>
       </a>
-      <p>Testing tool for web apps</p>
+      <p>Testing tool for vibe coded web apps</p>
     </td>
   </tr>
   <tr>
