@@ -67,7 +67,7 @@ I'm a Brazilian Tech Lead, Senior Software Engineer and Frontend Specialist. Lea
       <a href="https://talito.com.br/?utm_source=github" target="_blank" rel="noopener noreferrer">
         <b>Talito</b>
       </a>
-      <p>AI financial plataform for Brazil</p>
+      <p>AI financial platform for Brazil</p>
     </td>
   </tr>
   
