@@ -78,17 +78,17 @@ I'm a Brazilian Tech Lead, Senior Software Engineer and Frontend Specialist, lea
 <ul>
   <li>
     <a href="https://www.bancobmg.com.br/?utm_source=lucasmaues.com" target="_blank">
-      Banco Bmg</a> — Banking products platform, processing millions of BRL in daily transactions.
+      Banco Bmg</a> — Web platform of banking products, processing millions of BRL in daily transactions.
   </li>
   <li>
     <a href="https://www.globo.com/?utm_source=lucasmaues.com" target="_blank">
       Globo
-    </a> — Accessibility for largest web content portal in Brazil, serving millions of users daily. 
+    </a> — Web accessibility for largest web content portal in Brazil, serving millions of users daily. 
   </li>
   <li>
     <a href="https://actdigital.com/?utm_source=lucasmaues.com" target="_blank">
       act digital
-    </a> — Consultant.
+    </a> — Web applications consultant.
   </li>
   <li>
     <a href="https://younner.com/?utm_source=lucasmaues.com" target="_blank">
