@@ -78,7 +78,7 @@ I'm a Brazilian Tech Lead, Senior Software Engineer and Frontend Specialist, lea
 <ul>
   <li>
     <a href="https://www.bancobmg.com.br/?utm_source=lucasmaues.com" target="_blank">
-      Banco Bmg</a> — Web platform of banking products, processing millions of BRL in daily transactions.
+      Banco Bmg</a> — Platform of banking products, processing millions of BRL in daily transactions.
   </li>
   <li>
     <a href="https://www.globo.com/?utm_source=lucasmaues.com" target="_blank">
@@ -88,7 +88,7 @@ I'm a Brazilian Tech Lead, Senior Software Engineer and Frontend Specialist, lea
   <li>
     <a href="https://actdigital.com/?utm_source=lucasmaues.com" target="_blank">
       act digital
-    </a> — Web applications consultant.
+    </a> — Consultant.
   </li>
   <li>
     <a href="https://younner.com/?utm_source=lucasmaues.com" target="_blank">
