@@ -1,6 +1,6 @@
 # Hello, I'm Lucas Maués 👋🏻
 
-I'm a Brazilian Tech Lead, Senior Software Engineer and Frontend Specialist. Leading teams to engineering mission-critical, high-impact and scalable Web platforms, since 2017.
+I'm a Brazilian Tech Lead, Senior Software Engineer and Frontend Specialist, leading teams to engineering mission-critical, high-impact and scalable web apps, services and platforms, since 2017.
 
 ### Featured Projects
 
@@ -41,7 +41,7 @@ I'm a Brazilian Tech Lead, Senior Software Engineer and Frontend Specialist. Lea
       <a href="https://checktest.dev/?utm_source=github" target="_blank" rel="noopener noreferrer">
         <b>Checktest</b>
       </a>
-      <p>Testing tool for vibe coded web apps</p>
+      <p>Testing tool for (vibe coded) web apps</p>
     </td>
   </tr>
   <tr>
