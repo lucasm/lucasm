@@ -83,7 +83,7 @@ I'm a Brazilian Tech Lead, Senior Software Engineer and Frontend Specialist, lea
   <li>
     <a href="https://www.globo.com/?utm_source=lucasmaues.com" target="_blank">
       Globo
-    </a> — Web accessibility for largest web content portal in Brazil, serving millions of users daily. 
+    </a> — Web accessibility for largest content portal in Brazil, serving millions of users daily. 
   </li>
   <li>
     <a href="https://actdigital.com/?utm_source=lucasmaues.com" target="_blank">
