@@ -28,7 +28,7 @@ I'm a Brazilian Tech Lead, Senior Software Engineer and Frontend Specialist, lea
       <a href="https://findto.app/?utm_source=github" target="_blank" rel="noopener noreferrer">
         <b>Findto</b>
       </a>
-      <p>Decentralized search assistant</p>
+      <p>Search assistant for Web an AI</p>
     </td>
   </tr>
     <tr>
@@ -54,7 +54,7 @@ I'm a Brazilian Tech Lead, Senior Software Engineer and Frontend Specialist, lea
       <a href="https://aspiral.app/?utm_source=github" target="_blank" rel="noopener noreferrer">
         <b>Aspiral</b>
       </a>
-      <p>News of trusted journalism</p>
+      <p>News from trusted journalism</p>
     </td>
   </tr>
   <tr>
