@@ -5,6 +5,7 @@ I'm a Brazilian Founder, Tech Lead, Senior Frontend Engineer. Leading teams to e
 ### Featured Projects
 
 <table>
+  
   <tr>
     <td>
       <a href="https://lucasmaues.com/?utm_source=github" target="_blank" rel="noopener noreferrer">
@@ -18,6 +19,21 @@ I'm a Brazilian Founder, Tech Lead, Senior Frontend Engineer. Leading teams to e
       <p>My personal website</p>
     </td>
   </tr>
+  
+  <tr>
+    <td>
+      <a href="https://talito.com.br/?utm_source=github" target="_blank" rel="noopener noreferrer">
+        <img src="https://talito.com.br/icon.svg" height="64" width="64">
+      </a>
+    </td>
+    <td>
+      <a href="https://talito.com.br/?utm_source=github" target="_blank" rel="noopener noreferrer">
+        <b>Talito</b>
+      </a>
+      <p>AI financial platform for Brazil</p>
+    </td>
+  </tr>
+  
   <tr>
     <td>
       <a href="https://findto.app/?utm_source=github" target="_blank" rel="noopener noreferrer">
@@ -55,19 +71,6 @@ I'm a Brazilian Founder, Tech Lead, Senior Frontend Engineer. Leading teams to e
         <b>Aspiral</b>
       </a>
       <p>News from trusted journalism</p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://talito.com.br/?utm_source=github" target="_blank" rel="noopener noreferrer">
-        <img src="https://talito.com.br/icon.svg" height="64" width="64">
-      </a>
-    </td>
-    <td>
-      <a href="https://talito.com.br/?utm_source=github" target="_blank" rel="noopener noreferrer">
-        <b>Talito</b>
-      </a>
-      <p>AI financial platform for Brazil</p>
     </td>
   </tr>
   
