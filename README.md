@@ -1,76 +1,52 @@
 # Hello, I'm Lucas Maués 👋🏻
 
-I'm a Brazilian Founder, Tech Lead, Senior Frontend Engineer. Leading teams to engineering mission-critical, high-impact and scalable platforms and digital products, since 2017.
+I'm a Brazilian Founder, Tech Lead, and Senior Frontend & AI Engineer. I specialize in banking, leading teams to engineer scalable, mission-critical, and high-impact digital platforms and products.
 
-### Featured Projects
+### Featured
 
 <table>
   
   <tr>
     <td>
       <a href="https://lucasmaues.com/?utm_source=github" target="_blank" rel="noopener noreferrer">
-        <img src="https://lucasmaues.com/icon.svg" height="64" width="64">
-      </a>
-    </td>
-    <td>
-      <a href="https://lucasmaues.com/?utm_source=github" target="_blank" rel="noopener noreferrer">
         <b>Lucas Maués</b>
       </a>
-      <p>My personal website</p>
+    </td>
+    <td>
+      <p>My portfolio</p>
     </td>
   </tr>
-  
+
   <tr>
-    <td>
-      <a href="https://talito.com.br/?utm_source=github" target="_blank" rel="noopener noreferrer">
-        <img src="https://talito.com.br/icon.svg" height="64" width="64">
-      </a>
-    </td>
-    <td>
-      <a href="https://talito.com.br/?utm_source=github" target="_blank" rel="noopener noreferrer">
-        <b>Talito</b>
-      </a>
-      <p>AI financial platform for Brazil</p>
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      <a href="https://findto.app/?utm_source=github" target="_blank" rel="noopener noreferrer">
-        <img src="https://findto.app/icon.svg" height="64" width="64">
-      </a>
-    </td>
-    <td>
-      <a href="https://findto.app/?utm_source=github" target="_blank" rel="noopener noreferrer">
-        <b>Findto</b>
-      </a>
-      <p>Search assistant for Web an AI</p>
-    </td>
-  </tr>
-    <tr>
-    <td>
-      <a href="https://checktest.dev/?utm_source=github" target="_blank" rel="noopener noreferrer">
-        <img src="https://checktest.dev/icon.svg" height="64" width="64">
-      </a>
-    </td>
-    <td>
-      <a href="https://checktest.dev/?utm_source=github" target="_blank" rel="noopener noreferrer">
-        <b>Checktest</b>
-      </a>
-      <p>Testing tool for vibe coded web apps</p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://aspiral.app/?utm_source=github" target="_blank" rel="noopener noreferrer">
-        <img src="https://aspiral.app/icon.svg" height="64" width="64">
-      </a>
-    </td>
     <td>
       <a href="https://aspiral.app/?utm_source=github" target="_blank" rel="noopener noreferrer">
         <b>Aspiral</b>
       </a>
-      <p>News from trusted journalism</p>
+    </td>
+    <td>
+      <p>Assistant for Web and AI</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      <a href="https://talito.com.br/?utm_source=github" target="_blank" rel="noopener noreferrer">
+        <b>Talito</b>
+      </a>
+    </td>
+    <td>
+      <p>AI financial platform for Brazil B2C and B2B</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      <a href="https://checktest.dev/?utm_source=github" target="_blank" rel="noopener noreferrer">
+        <b>Checktest</b>
+      </a>
+    </td>
+    <td>
+      <p>Testing tool for Web Apps</p>
     </td>
   </tr>
   
@@ -81,7 +57,7 @@ I'm a Brazilian Founder, Tech Lead, Senior Frontend Engineer. Leading teams to e
 <ul>
   <li>
     <a href="https://www.bancobmg.com.br/?utm_source=lucasmaues.com" target="_blank">
-      Banco Bmg</a> — Platform of banking products, processing millions of BRL in daily transactions.
+      Banco Bmg</a> —  Banking products platform, processing millions of BRL in daily transactions.
   </li>
   <li>
     <a href="https://www.globo.com/?utm_source=lucasmaues.com" target="_blank">
@@ -96,11 +72,11 @@ I'm a Brazilian Founder, Tech Lead, Senior Frontend Engineer. Leading teams to e
   <li>
     <a href="https://younner.com/?utm_source=lucasmaues.com" target="_blank">
       Younner
-    </a> — E-commerce platform for a Brazilian software house.
+    </a> — E-commerce Saas platform for a software house.
   </li>
 </ul>
 
-### Featured Open Source
+### Community
 
 <ul>
   <li>
@@ -111,7 +87,7 @@ I'm a Brazilian Founder, Tech Lead, Senior Frontend Engineer. Leading teams to e
   <li>
     <a href="https://github.com/microsoft/" target="_blank" rel="noopener noreferrer">
       Microsoft Open Source
-    </a> — Translator.
+    </a> — Contributor.
   </li>
   <li>
     <a href="https://dev.to/lucasm/" target="_blank" rel="noopener noreferrer">
@@ -120,4 +96,4 @@ I'm a Brazilian Founder, Tech Lead, Senior Frontend Engineer. Leading teams to e
   </li>
 </ul>
 
-**Note:** For contractual reasons, my GitHub profile highlights only open source and public projects.
+**Note:** For contractual reasons, my GitHub profile highlights only open-source and public projects.
