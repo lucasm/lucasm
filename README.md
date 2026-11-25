@@ -62,7 +62,7 @@ I'm a Brazilian Founder, Tech Lead, and Senior Frontend & AI Engineer. I special
   <li>
     <a href="https://www.globo.com/?utm_source=lucasmaues.com" target="_blank">
       Globo
-    </a> — Web accessibility for largest content portal in Brazil, serving millions of users daily. 
+    </a> — Web accessibility for the largest content portal in Brazil, serving millions of users daily. 
   </li>
   <li>
     <a href="https://actdigital.com/?utm_source=lucasmaues.com" target="_blank">
@@ -72,7 +72,7 @@ I'm a Brazilian Founder, Tech Lead, and Senior Frontend & AI Engineer. I special
   <li>
     <a href="https://younner.com/?utm_source=lucasmaues.com" target="_blank">
       Younner
-    </a> — E-commerce Saas platform for a software house.
+    </a> — E-commerce SaaS platform for a software house.
   </li>
 </ul>
 
