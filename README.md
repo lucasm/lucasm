@@ -13,7 +13,7 @@ I'm a Brazilian Founder, Tech Lead, and Senior Frontend & AI Engineer. I special
       </a>
     </td>
     <td>
-      <p>My portfolio</p>
+      <p>My personal website</p>
     </td>
   </tr>
 
