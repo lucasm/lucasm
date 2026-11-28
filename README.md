@@ -24,7 +24,7 @@ I'm a Brazilian Founder, Tech Lead, and Senior Frontend & AI Engineer. I special
       </a>
     </td>
     <td>
-      <p>Assistant for Web and AI</p>
+      <p>Assistant for the Web and AI</p>
     </td>
   </tr>
   
