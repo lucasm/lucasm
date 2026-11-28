@@ -46,7 +46,7 @@ I'm a Brazilian Founder, Tech Lead, and Senior Frontend & AI Engineer. I special
       </a>
     </td>
     <td>
-      <p>Testing tool for Web Apps</p>
+      <p>Testing tool for web apps</p>
     </td>
   </tr>
   
